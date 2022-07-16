@@ -1,751 +1,751 @@
-,escola,enredo,autor,interpete,ano
-0,Salgueiro,"""Dona Beija, Feiticeira do Araxá""",Aurinho da Ilha,,1968
-1,Unidos de Lucas,"""Sublime Pergaminho""","Carlinhos Madrugada, Zeca Melodia e Nílton Russo",Abílio Martins,1968
-2,Mocidade,"""Viagem Pitoresca Através do Brasil""",Da Roça e Djalma,,1968
-3,Império Serrano,"""Pernambuco, o Leão do Norte""",Silas de Oliveira,Damasceno,1968
-6,Portela,"""Tronco do Ipê""",Cabana,,1968
-7,Mangueira,"""Samba, Festa de um Povo""","Darci, Hélio Turco, Luiz, Batista e Dico",Darci,1968
-8,Vila Isabel,"""Quatro Séculos de Modas e Costumes""",Martinho da Vila,Martinho da Vila,1968
-9,Ritmos das escolas,Ritmos das escolas,Ritmos das escolas,Ritmos das escolas,1968
-0,Mangueira,"""Samba, Festa de um Povo""","Darci, Hélio Turco, Luiz, Batista e Dico",Cartola,1968
-1,Estácio,"""Visita ao Museu Imperial""",Wanderlei e Jorge Canário,Jorge Cabo,1968
-2,Império Serrano,"""Pernambuco, o Leão do Norte""",Silas de Oliveira,,1968
-3,Independentes de Cordovil,"""Aspecto da Vida Carioca no Século XVIII""",Alexandre e Ivan,Lucio Martins,1968
-4,Vila Isabel,"""Quatro Séculos de Modas e Costumes""",Martinho da Vila,Martinho da Vila,1968
-7,Mocidade,"""Viagem Pitoresca Através do Brasil""",Da Roça e Djalma,,1968
-8,salgueiro,"""Dona Beija, Feiticeira do Araxá""",Aurinho da Ilha,,1968
-9,Império da Tijuca,"""Homenagem a Portinari""",Ailton Furtado e Mario Pereira,Marinho da Muda,1968
-10,Unidos de Lucas,"""Sublime Pergaminho""","Carlinhos Madrugada, Zeca Melodia e Nílton Russo",Abílio Martins,1968
-11,Portela,"""Tronco do Ipê""",Cabana,,1968
-0,Império Serrano,"""Heróis da Liberdade""","Silas de Oliveira, Mano Décio da Viola e Manoel Ferreira",,1969
-1,Mocidade,"""Vida e Glória de Francisco Adolfo de Varnhagen""",Claudino Costa,,1969
-2,Estácio,"""Gabriela, Cravo e Canela""","Sidney da Conceição, Velha e Geninho",,1969
-3,Portela,"""Treze Naus""",Ary do Cavaco,Silvinho do Pandeiro,1969
-4,Ritmos da escolas,Ritmos da escolas,Ritmos da escolas,Ritmos da escolas,1969
-7,Mangueira,"""Mercadores e suas Tradições""","Darcy da Mangueira, Hélio Turco e Jurandir da Mangueira",,1969
-8,Unidos de Lucas,"""Rapsódia Folclórica""","Tolito, N. Russo e Pechincha",,1969
-9,Em Cima da Hora,"""Ouro Escravo""",Normi de Freitas e Jair Santos,,1969
-10,Imperatriz,"""Brasil, Flor Amorosa de Três Raças""",Mathias de Freitas e Carlinhos Sideral,,1969
-11,Vila Isabel,"""Yayá do Cais Dourado""",Martinho da Vila e Rodolpho,,1969
-0,Mangueira,"""Um Cântico à Natureza""","Aylton, Dilmo e Ney",Darcy,1970
-1,Mocidade,"""Meu Pé de Laranja Lima""",Arsênio e Gibi,Tôco,1970
-2,Vila Isabel,"""Glórias Gaúchas""",Martinho da Vila,Paulinho da Vila,1970
-3,Império Serrano,"""Arte em Tom Maior""","Aidno, Jorginho e Nino",Coro da Escola,1970
-4,Jacarezinho,"""O Fabuloso Mundo do Circo""",Marcos e Sarabanda,,1970
-7,Portela,"""Lendas e Mistérios da Amazônia""","Catoni, Jabolô e Waltenir",Silvinho do Pandeiro,1970
-8,Imperatriz,"""Oropa, França e Bahia""",Carlinhos Sideral e Mathias de Freitas,,1970
-9,Salgueiro,"""Praça Onze, Carioca da Gema""","Duduca, Miro, Omildo e Silvão",,1970
-10,Santa Cruz,"""Bravura, Amor e Beleza da Mulher Brasileira""",Fausto e Paulo,,1970
-11,Unidos de São Carlos,"""Terra de Caruaru""",Corvina e Sidney da Conceição,,1970
-0,Portela,"""Lendas e Mistérios da Amazônia""","Catoni, Jabolô e Waltenir",Coro da Escola,1970
-1,Mangueira,"""Um Cântico à Natureza""","Aylton, Dilmo e Ney",,1970
-2,Santa Cruz,"""Bravura, Amor e Beleza da Mulher Brasileira""",Fausto e Paulo,,1970
-3,Unidos de São Lucas,"""Terra de Caruaru""",Corvina e Sidney da Conceição,,1970
-4,Jacarezinho,"""O Fabuloso Mundo do Circo""",Marcos e Sarabanda,,1970
-7,Salgueiro,"""Praça Onze, Carioca da Gema""","Duduca, Miro, Omildo e Silvão",,1970
-8,Imperatriz,"""Oropa, França e Bahia""",Carlinhos Sideral e Mathias de Freitas,,1970
-9,Império Serrano,"""Arte em Tom Maior""","Aidno, Jorginho e Nino",,1970
-10,Vila Isabel,"""Glórias Gaúchas""",Martinho da Vila,Antonio Grande,1970
-11,Ritmos da escolas,Ritmos da escolas,Ritmos da escolas,Ritmos da escolas,1970
-0,Mangueira,Os Modernos Bandeirantes,"""Darcy da Mangueira, Hélio Turco e Jurandir",,1971
-1,Vila Isabel,"""Ouro Mascavo""","Arroz, Djalma e Jonas",,1971
-2,Mocidade,"""Rapsódia de Saudade""",Tôco,,1971
-3,Imperatriz,"""Barra de Ouro, Barra de Rio, Barra de Saia""",Niltinho Tristeza e Zé Catimba,,1971
-4,Império Serrano,"""Nordeste, seu Povo, seu Canto e sua Glória""","Heitor Achiles, Maneco e Wilson Diabo da Cuíca",,1971
-7,Salgueiro,"""Festa Para um Rei Negro""",Zuzuca,,1971
-8,Império da Tijuca,"""Misticismo da África ao Brasil""","João Galvão, Mario Pereira e Wilmar Costa",,1971
-9,Unidos de Padre Miguel,"""Samba do Crioulo Doido""",Duduca da Aliança e Nelson Oliveira,,1971
-10,Unidos de São Carlos,"""Brasil Turístico""","Darcy do Nascimento, Oliviel e Nilo Mendes",,1971
-11,Portela,"""Lapa em Três Tempos""",Ary do Cavaco e Rubens,,1971
-0,Salgueiro,"""Festa para um Rei Negro""",Zuzuca,Coro da Escola,1971
-1,Vila Isabel,"""Ouro Mascavo""","Arroz, Djalma e Jonas",Paulinho da Vila,1971
-2,Mocidade,"""Rapsódia de Saudade""",Tôco,Tôco,1971
-3,Imperatriz,"""Barra de Ouro, Barra de Rio, Barra de Saia""",Niltinho Tristeza e Zé Catimba,Niltinho Tristeza,1971
-4,Império Serrano,"""Nordeste, seu Povo, seu Canto e sua Glória""","Heitor Achiles, Maneco e Wilson Diabo da Cuíca",Damasceno,1971
-7,Mangueira,"""Modernos Bandeirantes""","Darcy da Mangueira, Hélio Turco e Jurandir",Darcy da Mangueira,1971
-8,Império da Tijuca,"""Misticismo da África ao Brasil""","João Galvão, Mario Pereira e Wilmar Costa",Marinho da Muda,1971
-9,Unidos de Padre Miguel,"""Samba do Crioulo Doido""",Duduca da Aliança e Nelson Oliveira,Ivan,1971
-10,Unidos de São Carlos,"""Brasil Turístico""","Darcy do Nascimento, Oliviel e Nilo Mendes",Dominguinhos do Estácio,1971
-11,Portela,"""Lapa em Três Tempos""",Ary do Cavaco e Rubens,Silvinho da Portela,1971
-0,Portela,"""Ilu-Ayê, Terra da Vida""",Cabana e Norival Reis,Silvinho da Portela,1972
-1,Imperatriz,"""Martim Cererê""",Gibi e Zé Catimba,Coro da escola,1972
-2,Unidos de Lucas,"""Brasil das 200 Milhas""","Capixaba, Joãozinho, Jorginho de Caxias e Pedro Paulo",Pedro Paulo,1972
-3,Unidos de Padre Miguel,"""Madureira, seu Samba, sua História""",Duduca da Aliança,Ivan,1972
-4,Império da Tijuca,"""O Samba no Morro e na Sociedade""",Djalma do Cavaco e Vicente,Wilmar Costa,1972
-5,Vila Isabel,"""Onde o Brasil Aprendeu a Liberdade""",Martinho da Vila,Paulinho,1972
-8,Salgueiro,"""Mangueira, minha Querida Madrinha (Tengo Tengo)""",Zuzuca do Salgueiro,Zuzuca do Salgueiro,1972
-9,Império Serrano,"""Alô, Alô, Taí, Carmem Miranda""","Heitor Rocha, Maneco e Wilson Diabo da Cuíca",Damasceno,1972
-10,Unidos de São Carlos,"""Rio Grande do Sul na Festa do Preto Forro""",Dario Marciano e Nilo Mendes,Dario Marciano,1972
-11,Mocidade,"""Rainha Mestiça em Tempo de Lundu""",Jurandir Melo e Serafim Adriano,Jurandir Melo,1972
-12,Em Cima da Hora,"""Bahia, Berço do Brasil""",Baianinho,Baianinho,1972
-13,Mangueira,"""Rio Carnaval dos Carnavais""","Moacir, Nilton Russo e Padeirinho",Jorge Nery,1972
-0,Portela,"""Pasárgada, Amigo do Rei""",David Corrêa,David Corrêa,1973
-1,Em Cima da Hora,"""O Saber Poético da Literatura de Cordel""",Baianinho,Ney Vianna,1973
-2,Jacarezinho,"""Ameno Resedá""","Nonô, Sereno, Zé Dedão e Ala dos Compositores",Ivete Garcia,1973
-3,Imperatriz,"""ABC do Carnaval à Maneira da Literatura de Cordel""","Nelson Lima, Caxambu e Ala de Compositores",Dom Barbosa,1973
-4,Império Serrano,"""Viagem Encantada, Pindorama Adentro""",Wilson Diabo e Malaquias,Graciete,1973
-7,Mangueira,"""Lendas do Abaeté""","Jajá, Preto Rico e Manoel",Genaro da Bahia,1973
-8,Vila Isabel,"""Zodíaco no Samba""",Paulo Brasão e Irany S. Silva,Antonio Grande,1973
-9,Mocidade,"""Rio, Zé Pereira""","Tião da Roça, Edu e Ala de Compositores",Tião da Roça,1973
-10,Tupy de Brás de Pina,"""Assim Dança o Brasil""",Sérgio Ignácio e Ala de Compositores,Mazola,1973
-11,Salgueiro,"""Eneida, Amor e Fantasia""",Geraldo Babão,Marron,1973
-0,Portela,"""O Mundo Melhor de Pixinguinha (Pizindim)""","Velha, Jair Amorim e Evaldo Gouveia",Silvinho da Portela,1974
-1,Beija-Flor,"""Brasil Ano 2000""","Walter de Oliveira, João Rosa e Ala dos Compositores",Coro da Escola,1974
-2,Unidos de São Carlos,"""Heroínas do Romance Brasileiro""",Djalma das Mercês e Maneca,Delmo,1974
-3,Imperatriz,"""Requiém por um Sambista - Silas de Oliveira""","Cosme, Damião e Guga",Wilson Corrêa,1974
-4,Império Serrano,"""Dona Santa, Rainha do Maracatu""","Wilson Diabo, Malaquias e Carlinhos",Abílio Martins,1974
-7,Mangueira,"""Mangueira em Tempo de Folclore""","Jajá, Preto Rico e Manoel",Beth Carvalho,1974
-8,Mocidade,"""A Festa do Divino""","Tatu, Nezinho e Campo",Ney Vianna,1974
-9,Vila Isabel,"""Aruana-Açu""",Paulinho da Vila e Rodolpho,Paulinho da Vila,1974
-10,Em Cima da Hora,"""A Festa dos Deuses Afro-Brasileiros""",Baianinho,As Gatas,1974
-11,Salgueiro,"""Rei de França na Ilha da Assombração""",Zé Di e Malandro,Laíla,1974
-0,Portela,"""Macunaíma""",David Corrêa e Norival Reis,Genaro Soalheiro,1975
-1,Mocidade,"""O Mundo Fantástico do Uirapuru""","Tatu, Nezinho e Campo Grande",Ney Vianna,1975
-2,Vila Isabel,"""Quatro Séculos de Paixão""",Tião Graúna e Arroz,Zé Carlos,1975
-3,União da Ilha,"""Nos Confins de Vila Monte""",Cezão,Conjunto TB Samba,1975
-4,Beija-Flor,"""O Grande Decênio""",Bira Quininho,Bira Quininho,1975
-5,Império Serrano,"""Záquia-Jorge, a Vedete do Subúrbio, Estrela de Madureira""",Avarese,Coro da Escola,1975
-8,Mangueira,"""Imagens Poéticas de Jorge de Lima""","Tolito, Mozart e Delson",Sobrinho,1975
-9,Unidos de São Carlos,"""A Festa do Círio de Nazaré""","Aderbal Moreira, Dario Marciano e Nilo Esmera Mendes",Conjunto Nosso Samba,1975
-10,Imperatriz,"""A Morte da Porta-Estandarte""","Walter da Imperatriz, Nelson Lima, Caxambu e Denir",Jorge Goulart,1975
-11,Unidos de Lucas,"""Cidades Feitas de Memórias""","Baianinho, Ladyr Goulart e Laci",Ledi Goulart,1975
-12,Em Cima da Hora,"""Personagens Marcantes dos Carnavais""",Cigarra,Valdir Marujo,1975
-13,Salgueiro,"""O Segredo das Minas do Rei Salomão""","Dauro, Zé Pinto, Nininha Rossi e Mário Pedra",Laíla,1975
-0,Mangueira,"""No Reino da Mãe do Ouro""",Tolito e Rubem da Mangueira,Rubem da Mangueira,1976
-1,Mocidade,"""Mãe Menininha do Gantois""",Tôco e Djalma Crill,Ney Vianna,1976
-2,Imperatriz,"""Por Mares Nunca Dantes Navegados""","Gigi, Sereno e Guga",Jeremias Ferraz,1976
-3,Tupy de Brás de Pina,"""Riquezas Áureas de Nossa Bandeira""",Caciça,Celso Landrini,1976
-4,União da Ilha,"""Poemas de Máscaras e Sonhos""","Da Vala, L. Barbicha, Wilson Jangada, Dito e Mestrinho",Aroldo Melodia,1976
-5,Lins Imperial,"""Folia de Reis""",Agnelo Campos e Efe Alves,Abílio Martins,1976
-6,Portela,"""O Homem do Pacoval""","Noca da Portela, Colombo e Edir",Silvinho do Pandeiro,1976
-9,Império Serrano,"""Lenda das Sereias - Rainha do Mar""","Vicente Mattos, Dinoel Sampaio e Arlindo Velloso",Sobrinho,1976
-10,Beija-Flor,"""Sonhar com Rei dá Leão""",Neguinho da Beija-Flor,Neguinho da Beija-Flor,1976
-11,Vila Isabel,"""Invenção de Orfeu""","Rodolpho, Paulo Brazão e Irani",Barbinha,1976
-12,Unidos de São Carlos,"""Arte Negra na Legendária Bahia""","Caruso, Caramba e Dominguinhos do Estácio",Dominguinhos do Estácio,1976
-13,Em Cima da Hora,"""Os Sertões""",Edeor de Paula,Nando,1976
-14,Unidos de Lucas,"""Mar Baiano em Noite de Gala""","Carlão Elegante, Pedro Paulo e Joãozinho",Carlão Elegante,1976
-15,Salgueiro,"""Valongo""",Djalma Sabiá,Dinalva,1976
-0,Beija-Flor,"""Vovó e o Rei da Saturnália na Corte Egipciana""",Savinho da Beija-Flor e Luciano da Beija-Flor,Nonô,1977
-1,Salgueiro,"""Do Cauim ao Efó, com Moça Branca, Branquinha""",Geraldo Babão e Renato de Verdade,Ernesto Martins,1977
-2,Imperatriz,"""Viagem Fantástica às Terras de Ibirapitanga""","Walter da Imperatriz, Carlinhos Madrugada e Nelson Lima",Abílio Martins,1977
-3,União da Ilha,"""Domingo""","Waldyr da Vala, Aurinho da Ilha, Ione do Nascimento e Adhemar de A. Vinhaes",Aroldo Melodia,1977
-4,Império da Tijuca,"""O Mundo de Barro do Mestre Vitalino""","Biel Reza Forte, Adilson da Viola e Chipolechi",Adilson da Viola,1977
-5,Portela,"""Festa da Aclamação""","Catoni, Dedé da Portela, Waltenir e Jabolô",Silvinho da Portela,1977
-8,Mangueira,"""Parapanã, o Segredo do Amor""",Jajá e Tantinho,Dirceu da Mangueira,1977
-9,Mocidade,"""Samba, Marca Registrada do Brasil""",Dico da Viola e Jurandir Pacheco,Ney Vianna,1977
-10,Vila Isabel,"""Ai, que Saudade que eu Tenho""","Dida, Gemeu e Rodolpho",Jorge Goulart,1977
-11,Unidos de São Carlos,"""Alô, Alô! Brasil, 40 Anos de Rádio Nacional""",Dominguinhos do Estácio,Dominguinhos do Estácio,1977
-12,Unidos do Cabuçu,"""Sete Povos das Missões""",Waldir Prateado,Beto,1977
-13,Império Serrano,"""Brasil, Berço dos Imigrantes""",Roberto Ribeiro e Jorge Lucas,Grupo Família,1977
-0,Beija-Flor,"""A Criação do Mundo na Tradição Nagô""","Neguinho da Beija-Flor, Gilson Dr. e Mazinho",Neguinho da Beija-Flor,1978
-1,Mocidade,"""Brasiliana""","Djalma Santos, Loiola e Domenil",Ney Vianna,1978
-2,União da Ilha,"""O Amanhã""",João Sérgio,Aroldo Melodia,1978
-3,Arrastão de Cascadura,"""Talaque-Talaque, o Romance da Maria-Fumaça""",Pestana e Jorginho do Pandeiro,Adilson Madureira,1978
-4,Portela,"""Mulher à Brasileira""",Jair Amorim e Evaldo Gouveia,Silvinho do Pandeiro,1978
-7,Mangueira,"""Dos Carroceiros do Imperador ao Palácio do Samba""",Rubem da Mangueira e Jurandir,Rubem da Mangueira,1978
-8,Salgueiro,"""De Yorubá à Luz, a Aurora dos Deuses""",Renato de Verdade,Rico Medeiros,1978
-9,Vila Isabel,"""Dique, um Mar de Amor""","Jarbas, Garganta de Ferro, Boanésio e Augusto Messias",Garganta de Ferro,1978
-10,Arranco,"""Sonho Infantil""",Aldyr do Arranco e Sinval,Paulo Samara,1978
-11,Império Serrano,"""Oscarito, Carnaval e Samba, uma Chanchada no Asfalto""","Nina Rodrigues, Aidno Sá e Ubirajara Cardoso",Cardoso,1978
-0,Beija-Flor,"""O Paraíso da Loucura""","Mara, Luciano e Walter de Oliveira",Neguinho da Beija-Flor,1979
-1,Mocidade,"""O Descobrimento do Brasil""",Tôco e Djalma Cril,Ney Vianna,1979
-2,Imperatriz,"""Oxumarê - a Lenda do Arco-Íris""","Gibi, Darcy do Nascimento e Dominguinhos do Estácio",Dominguinhos do Estácio,1979
-3,Unidos de São Carlos,"""Das Trevas à Luz do Sol, uma Odisséia dos Karajás""",Elinto Pires e Leleco,Leleco,1979
-4,Unidos de Lucas,"""O Rio de Janeiro em Tempo de Debret""","Altair, Erodilson e Joãozinho",As Gatas e Conjunto Nosso Samba,1979
-5,Portela,"""Incrível, Fantástico, Extraordinário""","David Corrêa, Tião Nascimento e J. Rodrigues",David Corrêa,1979
-8,Mangueira,"""Avatar... E a Selva Transformou-se em Ouro""","Rato do Tamborim, Tolito e Ananias",Juventude Samba Show,1979
-9,Salgueiro,"""O Reino Encantado da Mãe Natureza Contra o Rei do Mal""","Bala, L. Marinheiro e Caíca",Rico Medeiros,1979
-10,União da Ilha,"""O Que Será?""",Didi e Aroldo Melodia,Aroldo Melodia,1979
-11,Vila Isabel,"""Os Dourados Anos de Carlos Machado""","Jonas, Rodolpho, Tião Grande e Luiz Carlos",Marcos Moran,1979
-12,Unidos do Cabuçu,"""O Gigante Negro da Abolição à República""","Izalmar, Marlon, Valmir e Amauri",Beto,1979
-13,Império Serrano,"""Municipal, Maravilhoso, 70 Anos de Glórias""","Roberto Ribeiro, Jorge Lucas e Edson Paiva",Grupo Família,1979
-0,Mocidade,"""Tropicália Brasileira""","Djalma Santos, Arsênio e Domenil",Ney Vianna,1980
-1,Imperatriz,"""O que que a Bahia tem""",Darcy do Nascimento e Dominguinhos do Estácio,Dominguinhos do Estácio,1980
-2,Império Serrano,"""Império das Ilusões, Atlântida, Eldorado, Sonho e Aventura""",Durval e Joaquim,Darcy Maravilha,1980
-3,União da Ilha,"""Bom, Bonito e Barato""","Robertinho Devagar, Jorge Ferreira e Edinho Capeta",Robertinho Devagar,1980
-4,Portela,"""Hoje tem Marmelada""","David Corrêa, Norival Reis e Jorge Macedo",David Corrêa,1980
-7,Beija-Flor,"""O Sol da Meia-Noite, Uma Viagem ao País das Maravilhas""","Zé do Maranhão, Wilson Bombeiro e Aluizio",Neguinho da Beija-Flor,1980
-8,Vila Isabel,"""Sonho de um Sonho""","Martinho da Vila, Rodolpho e Graúna",Marcos Moran e Zé Carlos,1980
-9,Salgueiro,"""O Bailar dos Ventos, Relampejou mas não Choveu""",Ala dos Compositores,Rico Medeiros,1980
-10,Unidos de São Carlos,"""Deixa Falar""",Elinto Pires e Sidney da Conceição,Zaira,1980
-11,Mangueira,"""Coisas Nossas""","Carlos Roberto, Ney da Mangueira e Aylton da Mangueira",Juventude Samba Show,1980
-0,Imperatriz,"""O Teu Cabelo não Nega (Só Dá Lalá)""","Gibi, Serjão e Zé Catimba",Dominguinhos do Estácio,1981
-1,Salgueiro,"""Rio de Janeiro""","Buguinho, Henrique e Mauro Torrão",Rico Medeiros,1981
-2,União da Ilha,"""1910 - Burro na Cabeça""","Franco, Barbicha, Jangada e Dezinho",Aroldo Melodia,1981
-3,Vila Isabel,"""Dos Jardins do Éden, a Era de Aquarius""","Jonas, Lino Roberto e Tião Grande",Marcos Moran,1981
-4,Portela,"""Das Maravilhas do Mar, Fez-se o Esplendor de uma Noite""",David Corrêa e Jorge Macedo,David Corrêa,1981
-7,Beija-Flor,"""Carnaval do Brasil, a Oitava das Sete Maravilhas do Mundo""","Neguinho da Beija-Flor, Dicró e Picolé",Neguinho da Beija-Flor,1981
-8,Mangueira,"""De Nonô a JK""","Jurandir, Comprido e Arroz",Dirceu da Mangueira,1981
-9,Mocidade,"""Abram Alas pra Folia, Aí Vem a Mocidade""",Ney Vianna e Nezinho,Ney Vianna,1981
-10,Império Serrano,"""Na Terra do Pau-Brasil, nem Tudo Caminha Viu""",Jorge Lucas e Edson Paiva,Abílio Martins,1981
-11,Unidos da Tijuca,"""O que dá pra Rir, dá pra Chorar""","Celso Trindade, Nêa, Azeitona, Ronaldo, Ivar, Buquinha e Edmundo Araújo Santos",Sobrinho,1981
-0,Imperatriz,"""Onde Canta o Sabiá""","Tuninho, Dominguinhos do Estácio e Darcy Nascimento",Dominguinhos do Estácio,1982
-1,Unidos da Tijuca,"""Lima Barreto, Mulato, Pobre, mas Livre""",Adriano,Sobrinho,1982
-2,Mangueira,"""As Mil e Umas Noites Cariocas""","Heraldo Faria, Tolito e Flavinho Machado",Flavinho Machado[10],1982
-3,Salgueiro,"""No Reino do Faz de Conta""",Zé Di e César Veneno,Zé Di,1982
-4,União da Ilha,"""É Hoje""",Didi e Mestrinho,Aroldo Melodia,1982
-5,Unidos de São Carlos,"""Onde Há Rede, Há Renda""",Caruso e Djalma Branco,Abílio Martins,1982
-8,Beija-Flor,"""O Olho Azul da Serpente""","Wilson Bombeiro, Carlinhos Bagunça e Joel Menezes",Neguinho da Beija-Flor,1982
-9,Mocidade,"""O Velho Chico""","Da Roça, Edu, Adil e Dico da Viola",Ney Vianna,1982
-10,Vila Isabel,"""Noel Rosa e os poetas da Vila nas Batalhas do Boulevard""",J. Albertino,Marcos Moran,1982
-11,Portela,"""Meu Brasil Brasileiro""",David Corrêa e Jorge Macedo,David Corrêa,1982
-12,Império Serrano,"""Bumbum Praticumbum Prugurundum""",Beto Sem Braço e Aluísio Machado,Quinzinho,1982
-13,Império da Tijuca,"""Iara, Ouro e Pinhão na Terra da Gralha Azul""",Jorge Melodia,Almir Saint-Clair,1982
-0,Império Serrano,"""Mãe Baiana Mãe""",Aluísio Machado e Beto Sem Braço,Quinzinho,1983
-1,Unidos da Tijuca,"""Brasil, Devagar com o Andor que o Santo é de Barro""",Djalma e Eli,Sobrinho,1983
-2,Salgueiro,"""Traços e Troças""",Celso Trindade,Rico Medeiros,1983
-3,Unidos da Ponte,"""E Eles Verão a Deus""","Mazinho, Ambrósio e Renatinho",Grillo,1983
-4,Mangueira,"""Verde que te Quero Rosa... Semente Viva do Samba""","Heraldo Faria, Geraldo das Neves e Flavinho Machado",Flavinho Machado,1983
-5,União da Ilha,"""Toma Lá Dá Cá""",Robertinho e Armandinho,Aroldo Melodia,1983
-8,Portela,"""A Ressurreição das Coroas - Reisado, Reino, Reinado""",Hilton Veneno e Mazinho da Piedade,Silvinho da Portela,1983
-9,Vila Isabel,"""Os Imortais""","Rodolpho, David da Vila, Jonas e Jorge King",Marcos Moran,1983
-10,Mocidade,"""Como Era Verde o Meu Xingu""","Dico da Viola, Paulinho Mocidade, Tiãozinho da Mocidade e Adil",Ney Vianna,1983
-11,Beija-Flor,"""A Grande Constelação das Estrelas Negras""",Neguinho da Beija-Flor e Nêgo,Neguinho da Beija-Flor,1983
-12,Caprichosos,"""Um Cardápio à Brasileira""",Ratinho e Jorge Barbudo,Carlinhos de Pilares,1983
-13,Imperatriz,"""O Rei da Costa do Marfim Visita Xica da Silva em Diamantina""","Matias de Freitas, carlinhos Boemia e Nelson Lima",As Gatas,1983
-0,Beija-Flor,"""O Gigante em Berço Esplêndido""",Neguinho da Beija-Flor e Nêgo,Neguinho da Beija-Flor,1984
-1,Vila Isabel,"""Pra Tudo se Acabar na Quarta-Feira""",Martinho da Vila,Marcos Moran,1984
-2,Império Serrano,"""Foi Malandro É""",Bicalho,Ney Vianna,1984
-3,Unidos da Ponte,"""Oferendas""",Jorginho,Grillo,1984
-4,União da Ilha,"""Quem Pode, Pode, Quem não Pode...""",Didi e Aurinho da Ilha,Quinzinho,1984
-5,Mangueira,"""Yes, Nós Temos Braguinha""","Jurandir, Hélio Turco, Comprido, Arroz e Jajá",Jurandir,1984
-6,Imperatriz,"""Alô Mamãe""","Velha, Guga, Tuninho e Alvinho",Tuninho,1984
-9,Portela,"""Contos de Areia""",Dedé da Portela e Norival Reis,Silvinho da Portela,1984
-10,Estácio,"""Quem é Você? (Vem de Lá)""","Darcy do Nascimento, Jangada e Dominguinhos do Estácio",Dominguinhos do Estácio,1984
-11,Salgueiro,"""Skindô, Skindô""",David Corrêa e J. Macêdo,David Corrêa,1984
-12,Unidos da Tijuca,"""Salamaleikum, a Epopéia dos Insubmissos Malês""","Carlinhos Melodia, Jorge Moreira e Nogueirinha",Sobrinho,1984
-13,Império da Tijuca,"""9215""",Ailton e Tibu,Almir Saint-Clair,1984
-14,Mocidade,"""Mamãe eu Quero Manaus""",Edson Show e Romildo,Aroldo Melodia,1984
-15,Caprichosos,"""A Visita da Nobreza do Riso a Chico Rei num Palco nem Sempre Iluminado""","Almir de Araújo, Balinha, Marquinho Lessa e Hércules",Carlinhos de Pilares,1984
-0,Mangueira,"""Abram Alas que eu Quero Passar""","Jurandir, Hélio Turco e Darcy da Mangueira",Jurandir,1985
-1,Mocidade,"""Ziriguidum 2001, Carnaval nas Estrelas""","Gibi, Tiãozinho e Arsênio",Ney Vianna,1985
-2,Beija-Flor,"""A Lapa de Adão e Eva""","Zé do Cavaco, Carlinhos Bagunça, Carnaval, H.O. e Patrício",Neguinho da Beija-Flor,1985
-3,Imperatriz,"""Adolã, a Cidade-Mistério""","Carlinhos Sideral, Doutor, Amaurizão e Guga",Preto Jóia,1985
-4,Império da Tijuca,"""Se a Lua Contasse""","Jorge Canuto, Ademir Jacaré e Moacyr Mangueira",Alcir de Paula,1985
-5,Vila Isabel,"""Parece até que foi Ontem""","David Corrêa, Jorge Macedo e Tião Grande",Sobrinho,1985
-8,Portela,"""Recordar é Viver""","Noca da Portela, J. Rocha, Edir Poly",Silvinho da Portela,1985
-9,Império Serrano,"""Samba, Suor e Cerveja, Combustível da Ilusão""",Beto Sem Braço,Quinzinho,1985
-10,Caprichosos,"""E por Falar em Saudade...""","Almir de Araújo, Balinha, Marquinho Lessa, Hércules e Carlinhos de Pilares",Carlinhos de Pilares,1985
-11,Salgueiro,"""Anos Trinta, Vento Sul - Vargas""","Bala, Jorge Melodia e Jorge Moreira",Rico Medeiros,1985
-12,Estácio,"""Chora Chorões""","Djalma Branco, Caruso, Jangada e Djalma das Merces",Dominguinhos do Estácio,1985
-13,União da Ilha,"""Um Herói, uma Canção, um Enredo""","Didi, Aurinho da Ilha e Aritana",Quinho e Elza Soares,1985
-0,Em Cima da Hora,"""Me Acostumo mas não me Amanso""","Reco, Nunes e Renato",César do Valle,1985
-1,Unidos do Cabuçu,"""A Festa é Nossa, Ninguém Tasca ou Quem Ri por Último, Ri Melhor""","J. Leão, João do Cabuçu, Celsinho, João do Cavaco e Jorginho Harmonia","J. Leão, Celsinho e Di Miguel",1985
-4,Santa Cruz,"""Ibrahim, de Leve Eu Chego Lá""",Zé de Angola e Grajaú,Aroldo Melodia,1985
-5,São Clemente,"""Quem Casa, Quer Casa""","Rodrigo, Izaías de Paula e Helinho 101",Izaías de Paula,1985
-0,Mocidade,"""Bruxarias e Histórias do Arco-da-Velha""","Jorginho, Dudu e Tiãozinho",Ney Vianna,1986
-1,Vila Isabel,"""De Alegria Cantei, de Alegria Pulei, de Três em Três, pelo Mundo Rodei""",David Corrêa e Jorge Macedo,David Corrêa,1986
-2,Portela,"""Morfeu no Carnaval, a Utopia Brasileira""","Ary do Cavaco, Carlito Cavalcante, Vanderlei, Nilson Melodia e Paulinho",Silvinho da Portela,1986
-3,Império Serrano,"""Eu Quero""","Aluísio Machado, Luiz Carlos do Cavaco e Jorge Nóbrega",Quinzinho,1986
-4,Imperatriz,"""Um Jeito pra Ninguém Botar Defeito (Agüenta Coração)""","Niltinho Tristeza, Guga, Jurandir e Tuninho",Tuninho,1986
-7,Beija-Flor,"""O Mundo é uma Bola""",Betinho e Jorge Canuto,Neguinho da Beija-Flor,1986
-8,Mangueira,"""Caymmi Mostra ao Mundo o que a Bahia e a Mangueira têm""","Ivo Meirelles, Paulinho e Lula",Jamelão,1986
-9,Império da Tijuca,"""Tijuca, Cantos, Recantos e Encantos""","Pedrinho da Flor, Baster, Belandi e Marinho da Muda","Pedrinho da Flor, Alcir de Paula e Bruninho",1986
-10,Unidos da Ponte,"""Tá na Hora do samba, que Fala mais Alto, que Fala Primeiro""","Grillo, Freitas, Dilsinho e Denise",Grillo,1986
-11,Unidos do Cabuçu,"""Deu a Louca na História! E Agora, Stanislau, Como é que Fica?""","Beto Pernada, Orlando, Ney, Celsinho e Fernando","Celsinho, Di Miguel e Beto do Cabuçu",1986
-0,Mangueira,"""O Reino das Palavras""","Rody, Verinha e Bira do Ponto",Jamelão,1987
-1,Imperatriz,"""Estrela Dalva""","Zé Catimba, Guga, Niltinho Tristeza e Bil Amizade",Alexandre D'Mendes,1987
-2,Portela,"""Adelaide, a Pomba da Paz""","Neném, Mauro Silva, Arizão, Isaac e Carlinhos Madureira",Dedé da Portela,1987
-3,Estácio,"""O Tititi do Sapoti""","Darcy do Nascimento, Djalma Branco e Dominguinhos do Estácio",Dominguinhos do Estácio,1987
-4,Império da Tijuca,"""Viva o Povo Brasileiro""","Pedrinho da Flor, Baster, Belandi, Marinho da Muda e João Quadrado",Darcy Giorno,1987
-5,Unidos da Ponte,"""G.R.E.S. Saudade""",Silvio da Ponte e Zoinho da Ponte,Grillo,1987
-8,Beija-Flor,"""As Mágicas Luzes da Ribalta""",Mazinho e Gilson Dr.,Neguinho da Beija-Flor,1987
-9,Unidos do Cabuçu,"""Roberto Carlos na Cidade da Fantasia""","Adilson Gavião, Adalto Magalha e Sérgio Magnata",Celsinho e Di Miguel,1987
-10,Império Serrano,"""Com Boca no Mundo - Quem não se Comunica, se Trumbica""","Beto Sem Braço, Aluísio Machado e Bicalho",Quinzinho,1987
-12,Vila Isabel,"""Raízes""","Martinho da Vila, Ovídio Bessa e Azo",Martinho da Vila e Gera,1987
-13,Mocidade,"""Tupinicópolis""","Gibi, Chico Cabeleira, Nino Batera e J. Muinhos",Ney Vianna,1987
-0,Unidos da Tijuca,"""Templo do Absurdo - Bar Brasil""","Beto do Pandeiro, Nêgo, Vaguinho, Monteiro, Ivar Silva e Carlos do Pagode",Nêgo,1988
-1,Mocidade,"""Beijim, Beijim, Bye Bye Brasil""","Ferreira, J. Muinhos e João das Rosas",Ney Vianna,1988
-2,União da Ilha,"""Aquarilha do Brasil""",Robertinho Devagar e Márcio André,Quinho,1988
-3,Imperatriz,"""Conta Outra, que Essa foi Boa""","Zé Catimba, Gabi, David Corrêa e Guga",Alexandre D'Mendes,1988
-7,São Clemente,"""Quem Avisa Amigo É""","Izaías de Paula, Helinho 107 e Chocolate",Izaías de Paula,1988
-8,Estácio,"""O Boi dá Bode""",Djalma Branco e Caruso,Dominguinhos do Estácio,1988
-9,Salgueiro,"""Em Busca do Ouro""","Arizão, Alaor Macedo, Rolando Medeiros, Jorginho da Cadeira, Gilberto TobiasBuguinho, Henrique do Salgueiro, Mauro Torrão e Rixxa",Rixxah,1988
-10,Portela,"""Lenda Carioca, os Sonhos do Vice-Rei""","Nenem, Mauro Silva, Isaac, Luizinho e Carlinhos Madureira",Dedé da Portela,1988
-0,Tradição,"""O Melhor da Raça, o Melhor do Carnaval""",João Nogueira e Paulo César Pinheiro,João Nogueira,1988
-1,Caprichosos,"""Luz, Câmera e Ação""","Mílton de Luna, Zé Maria D'Angola, Grajaú, Jacó, Zeca do Lins e Madeira",Carlinhos de Pilares,1988
-2,Beija-Flor,"""Sou Negro, do Egito à Liberdade""","Ivancué, Cláudio Inspiração, Marcelo Guimarães e Aloísio Santos",Neguinho da Beija-Flor,1988
-3,Unidos do Cabuçu,"""O Mundo Mágico dos Trapalhões""","Adilson Gavião, Adalto Magalha e Sérgio Magnata",J. Leão,1988
-7,Unidos da Ponte,"""O Bem Amado Paulo Gracindo""","Mazinho, Branco e Ambrósio",Grillo,1988
-8,Vila Isabel,"""Kizomba, Festa da Raça""","Rodolpho, Jonas e Luiz Carlos da Vila",Gera,1988
-9,Império Serrano,"""Pára com Isto, Dá Cá o Meu""","Luís Carlos do Cavaco, Lula e Jarbas da Cuíca",Quinzinho,1988
-10,Mangueira,"""100 Anos de Liberdade - Realidade ou Ilusão?""","Hélio Turco, Jurandir e Alvinho",Jamelão,1988
-0,Arranco,"""Quem Vai Querer?""","Espanhol, Sylvio Paulo e Jarbas da Cuíca",Sylvio Paulo e Espanhol,1989
-1,Unidos do Cabuçu,"""Milton Nascimento - Sou do Mundo, sou de Minas Gerais""","Beto Pernada, Rebello, Ney do Cabuçu e Jadir",Di Miguel,1989
-2,Unidos da Ponte,"""Vida que te Quero Viva""","Jorginho do Axé, Renato Camunguelo e Gerson PM",Aroldo Melodia,1989
-3,Mocidade,"""Elis, um Trem Chamado Emoção""","Paulinho Mocidade, Dico da Viola e Cadinho",Ney Vianna,1989
-4,Tradição,"""Rio, Samba, Amor e Tradição""",João Nogueira e Paulo César Pinheiro,Candanga,1989
-5,União da Ilha,"""Festa Profana""","J. Brito, Bujão e Franco",Quinho,1989
-6,Caprichosos,"""O que é Bom Todo Mundo Gosta""","Wanderlei Novidade, Paulinho Rocha, Vanico do Beco, Walter Pardal e Jorge 101",J. Leão,1989
-7,Salgueiro,"""Templo Negro em Tempo de Consciência Negra""","Alaor Macedo, Helinho do Salgueiro, Arizão, Demá Chagas e Rubinho do Afro",Rixxah,1989
-8,Mangueira,"""Trinca de Reis""","Ney João, Adilson da Viola e Fandinho",Jamelão,1989
-12,Jacarezinho,"""Mitologia, Astrologia, Horóscopo, uma Benção""","Barbeirinho do Jacarezinho, Jorge Pl, Serginho da Banda, Macambira, Batista do Jacarezinho e Lúcio Bacalhau",Carlinhos de Pilares,1989
-13,Imperatriz,"""Liberdade! Liberdade! Abra as Asas sobre Nós""","Niltinho Tristeza, Preto Jóia, Vicentinho e Jurandir",Dominguinhos do Estácio,1989
-14,Unidos da Tijuca,"""De Portugal à Bienal no País do Carnaval""","Beto do Pandeiro, Vicente das Neves, Gilmar L. Silva, Nêgo e Vaguinho da Ladeira",Nêgo,1989
-15,São Clemente,"""Made in Brazil!!! Yes, nós temos banana""","João Carlos Grilo, Ricardo Goes, Ronaldo Soares e Sérgio Fernandes",Geraldão,1989
-16,Estácio,"""Um, Dois, Feijão com Arroz""","Djalma das Mercês, Déo, Gustavo, Bajão, Marinho e Pereira",Bira Havaí,1989
-17,Vila Isabel,"""Direito é Direito""","Jorge King, Serginho Tonelada, Fernando Partideiro, Zé Antonio e J. C. Couto",Gera,1989
-18,Portela,"""Achado não é Roubado""","Neném, Mauro Silva e Carlinhos Madureira",Dedé da Portela,1989
-19,Beija-Flor,"""Ratos e Urubus... Larguem Minha Fantasia""","Betinho, Giyvaldo, Zé Maria e Osmar",Neguinho da Beija-Flor,1989
-20,Império Serrano,"""Jorge Amado - Axé Brasil""","Beto Sem Braço, Aluísio Machado, Bicalho e Arlindo Cruz",Silvinho da Portela,1989
-0,Santa Cruz,"""Os Heróis da Resistência""","Zé Carlos, Carlos Henri, Carlinhos de Pilares, Doda, Mocinho e Luis Sérgio",Carlinhos de Pilares,1990
-1,Caprichosos,"""Com a Boca no Mundo""","Jarbas da Cuíca, Evaldo Santos, Grajaú, Carlinhos Democrático e Fernando",Aroldo Melodia,1990
-2,Império Serrano,"""História da Nossa História""","Jangada, Solidão, Zito, Ibraim, Edgard do Agogô e Tico do Gato",Tico do Gato,1990
-3,Vila Isabel,"""Se esta Terra, se esta Terra Fosse Minha""","Jorge Tropical, Jorginho Pereira, Anninha Guedes, Antônio Grande e Vila Silva ""Bom Bril""",Gera,1990
-4,Beija-Flor,"""Todo Mundo Nasceu Nu""","Betinho, Jorginho, Bira e Aparecida",Neguinho da Beija-Flor,1990
-5,Salgueiro,"""Sou Amigo do Rei""","Alaor Macedo, Arizão, Demá Chagas, Pedrinho da Flor e Fernando Baster",Rico Medeiros,1990
-6,Portela,"""É de Ouro e Prata esse Chão""","Espanhol, Sylvio Paulo e Cila da Portela",Dedé da Portela,1990
-9,São Clemente,"""E o Samba Sambou...""","Helinho 107, Mais Velho, Nino e Chocolate",Izaías de Paula,1990
-10,Mangueira,"""E Deu a Louca no Barroco""","Hélio Turco, Jurandir e Alvinho",Jamelão,1990
-11,Mocidade,"""Vira, Virou, a Mocidade Chegou""","Toco, Jorginho Medeiros e Tiãozinho da Mocidade",Paulinho Mocidade,1990
-12,Estácio,"""Langsdorff, Delírio na Sapucaí""","Jorge Magalhães, Adalto Magalha, Adilson Gavião e Maneco",Rixxah,1990
-13,Imperatriz,"""Terra Brasilis, o que se Plantou Deu""","Zé Katimba, Preto Jóia, Tuninho Petróleo, Baianinho e Jorginho da Barreira",Dominguinhos do Estácio,1990
-14,Unidos da Tijuca,"""E o Borel Descobriu ... Navegar foi Preciso""","Nêgo, Vaguinho, Vicente das Neves, Ditão, Gilmar L. Silva, Azeitona, Valtinho da Ladeira, Ivan Bombeiro e Beto do Pandeiro",Nêgo,1990
-15,União da Ilha,"""Sonhar com Rei dá João""",J. Brito e Bujão,Quinho,1990
-0,Mocidade,"""Chuê... Chuá... As Águas vão Rolar""","Toco, Jorginho Medeiros e Tiãozinho da Mocidade",Paulinho Mocidade,1991
-1,Estácio de Sá,"""O Brasil Brega e Kitsch""","Maneco, Orlando e Jangada",Rixxah,1991
-2,Unidos da Tijuca,"""Tá na mesa, Brasil""","Carlinhos Melodia, Nêgo e Antonio C. Conceição",Nêgo,1991
-3,Caprichosos,"""Terceiro Milênio - Em Busca do Juízo Afinal""",João Carlos e Gabriel Moura,Carlinhos de Pilares,1991
-4,Salgueiro,"""Me Masso se não Passo pela Rua do Ouvidor""","Sereno, Luiz Fernando e Diogo",Quinho,1991
-5,União da Ilha,"""De Bar em Bar, Didi um Poeta""",Franco,Aroldo Melodia,1991
-6,Império Serrano,"""É por aí que eu vou""","Wilson Solidão, Ibrahim, Beto Pernada, Valdir Sargento, Edu do Pagode e Elcy",Tico do Gato,1991
-7,Vila Isabel,"""Luiz Peixoto, e Tome Polca""","Adil, Celsinho, Jorge Secretário e Helinho",Gera,1991
-8,Beija-Flor,"""Alice no Brasil das Maravilhas""","Pelé, Cláudio Inspiração, Tonho Magrinho e Paulo Roberto",Neguinho da Beija-Flor,1991
-9,São Clemente,"""Já vi este Filme""","Manoelzinho Poeta, Jorge Moreira, Severo, Jorge Melodia e Haroldo Pereira",Sidney Moreno,1991
-10,Portela,"""Tributo à Vaidade""","Carlinhos Madureira, Café da Portela e Iran Silva",Dedé da Portela,1991
-11,Lins Imperial,"""Chico Mendes, o Arauto da Natureza""","João Banana, Serjão, Jorge Paulo, Paulinho e Tuca",Celino Dias,1991
-12,Imperatriz,"""O que é que a Banana tem?""","Preto Jóia, Niltinho Tristeza, Tuninho, Guga, Guará da Empresa e Flavinho",Preto Jóia,1991
-13,Mangueira,"""As Três Rendeiras do Universo""","Hélio Turco, Alvinho e Jurandir da Mangueira",Jamelão,1991
-14,Viradouro,"""""Bravíssimo"" - Dercy Gonçalves, o Retrato de um Povo""","Gelson, Rubinho, Odir Sereno e Adir",Quinzinho,1991
-15,Grande Rio,"""Antes, Durante e Depois, o Despertar do Homem""","Ventura, Andrade e Leovenir",Dominguinhos do Estácio,1991
-0,Mocidade,"""Sonhar não Custa Nada! Ou Quase Nada...""","Paulinho Mocidade, Dico da Viola e Moleque Silveira",Paulinho Mocidade,1992
-1,Imperatriz,"""Não Existe Pecado Abaixo do Equador""","Tuninho Professor, Jurandir, Edinho e Nilson Melodia",Preto Jóia,1992
-2,Estácio de Sá,"""Paulicéia Desvairada - 70 Anos de Modernismo""","Djalma Branco, Déo, Maneco e Caruso",Dominguinhos do Estácio,1992
-3,Viradouro,"""E a Magia da Sorte Chegou""","Heraldo Faria, Flavinho Machado, Gelson e Rubinho",Quinzinho,1992
-4,União da Ilha,"""Sou Mais Minha Ilha""","Carlinhos Fuzil, Mauricio 100 e Marquinhos do Banjo",Aroldo Melodia,1992
-5,Vila Isabel,"""A Vila vê o ovo e põe às Claras""","Sidney Sã, Miro Jr, Carlinhos da Vila, Claudinho do Orvalho e Artuzinho Só",Gera,1992
-6,Tradição,"""O Espetáculo Maior... as Flores""","Moisés Santiago, Luizinho Professor e Toninho",Moisés Santiago,1992
-7,Salgueiro,"""O Negro que Virou Ouro nas Terras do Salgueiro""","Bala, Efealves, Preto Velho, Sobral e Tiãozinho do Salgueiro",Quinho,1992
-8,Beija-Flor,"""Há um Ponto de Luz na Imensidão""","Dinoel Sampaio, Itinho e Neguinho da Beija-Flor",Neguinho da Beija-Flor,1992
-9,Portela,"""Todo o Azul que o Azul tem""","Carlinhos Madureira, Café da Portela e Ary do Cavaco",Dedé da Portela,1992
-10,Unidos da Tijuca,"""Guanabaran, o Seio do Mar""","Gilmar L. Silva, Vicente das Neves e Beto do Pandeiro",Nêgo,1992
-11,Caprichosos,"""Brasil Feito à Mão... do Barro ao Carnaval""","Jorge Barbudo, Heloir e Zé Carlos do Saara",Carlinhos de Pilares,1992
-12,Mangueira,"""Se Todos Fossem Iguais a Você""","Hélio Turco, Alvinho e Jurandir da Mangueira",Jamelão,1992
-13,Leão de Nova Iguaçu,"""O Leão na Selva de Ilusões de Janete Clair""","Carlinho Pretinho, Toninho Dafé e José Jorge",Jairo Bráulio,1992
-0,Estácio de Sá,"""A Dança da Lua""",Wilsinho Paz e Luciano Primo,Dominguinhos do Estácio,1993
-1,Imperatriz,"""Marquês que é Marquês do sassarico é Freguês""","Márcio André, Alvinho, Aranha e Alexandre da Imperatriz",Preto Jóia,1993
-2,Portela,"""Cerimônia de Casamento""","Wilson Cruz, Cláudio Russo e Jorginho Estrela Negra",Dedé da Portela,1993
-3,Beija-Flor,"""Uni-Duni-Tê, a Beija-Flor Escolheu: É Você""","Wilson Bombeiro, Edeor de Paula e Sérgio Fonseca",Neguinho da Beija-Flor,1993
-4,Viradouro,"""Amor, Sublime Amor""","Heraldo Faria, Flavinho Machado e Gelson",Quinzinho,1993
-5,Caprichosos,"""Não Existe Pecado no Lado de Cá do Túnel Rebouças""","Marco Lessa, Tico do Gato, Carlos Ortiz, Luizito e Karlinho's de Madureira",Márcio Souto,1993
-6,Mocidade,"""Marraio Feridô Sou Rei""","Serafim Adriano, Edu Ferreira e Antonio Andrade",Paulinho Mocidade,1993
-7,Salgueiro,"""Peguei um Ita no Norte""","Demá Chagas, Arizão, Bala, Guaracy e Celso Trindade",Quinho,1993
-8,Mangueira,"""Dessa Fruta eu Como até o Caroço""","Dirceu, Eraldo Caê, Verinha, Prêto, Fernando de Lima, Ney Mattos, Bira do Ponto e Gustavo",Jamelão,1993
-9,Unidos da Tijuca,"""Dança Brasil""","Dário Lima, Espanhol, Paulo Ribeiro e Azeitona",Vaguinho,1993
-10,União da Ilha,"""Os Maiores Espetáculos da Terra""","Bicudo, Djalma Falcão e Guará da Empresa",Maurício Maia,1993
-11,Vila Isabel,"""Gbala - Viagem ao Templo da Criação""",Martinho da Vila,Martinho da Vila e Gera,1993
-12,Unidos da Ponte,"""A Face do Disfarce""",Adilson Xavier,Geraldão,1993
-13,Grande Rio,"""No Mundo da Lua""","Nêgo, Jacy Inspiração, Mais Velho, G. Martins, Dicró, Juarez Dy Calvoza, Adão Conceição, Carlinhos P2, Rocco Filho e Ronaldo",Nêgo,1993
-0,Salgueiro,"""Rio de Lá pra Cá""","Celso Trindade, Demá Chagas, Bala, Arizão e Guaracy",Quinzinho,1994
-1,Império Serrano,"""Uma Festa Brasileira""","Lula, Zito e Beto Pernada",Roger da Fazenda,1994
-2,Tradição,"""Passarinho, Passarola, Quero Ver Voar""","Jajá Maravilha, Aniceto, Tonho, Sandro Maneca, Jurandir da Tradição, Jorge Makumba e Lourenço",Edmilton di Bem,1994
-3,Mangueira,"""Atrás da Verde e Rosa só não vai quem já Morreu""","David Corrêa, Paulinho Carvalho, Carlos Sena e Bira do Ponto","Jamelão(Gilberto Gil, Caetano Veloso, Maria Bethânia, Gal Costa e David Corrêa)",1994
-4,Beija-Flor,"""Margaret Mee, a Dama das Bromélias""","Arnaldo Matheus, J. Santos e Almir Moreira",Neguinho da Beija-Flor,1994
-5,Viradouro,"""Tereza de Benguela - Uma Rainha Negra no Pantanal""","Cláudio Fabrino, Paulo César Portugal, Jorge Baiano e Rico Medeiros",Rico Medeiros,1994
-6,Unidos da Ponte,"""Marrom da Cor do Samba""","Nilson Chamêgo, Charles Santana e Chiquinho do Banjo",Serginho do Porto,1994
-7,União da Ilha,"""Abrakadabra, O Despertar dos Mágicos""",Almir da Ilha e Franco,Quinho,1994
-8,Imperatriz,"""Catarina de Médicis na Corte dos Tupinambôs e Tabajeres""","Márcio André, Alvinho, Aranha e Alexandre da Imperatriz",Preto Jóia,1994
-9,Estácio de Sá,"""S.A.A.R.A. ...A Estácio Chegou no Lê lê lê de Alalaô""","Fininho, Pereira, Edmilson e Marinho",Dominguinhos do Estácio,1994
-10,Grande Rio,"""Os Santos que a África não viu""","Mais Velho, Rocco Filho, Roxidiê, Helinho 107, Marquinhos e Pipoca",Nêgo,1994
-11,Portela,"""Quando o Samba era Samba...""","Wilson Cruz, Cláudio Russo e Zé Luiz",Dedé da Portela,1994
-12,Mocidade,"""Avenida Brasil, Tudo Passa, Quem não Viu?""","Dico da Viola, Jorginho Ganem e Jefinho",Wander Pires,1994
-13,Unidos da Tijuca,"""Só... Rio e Verão""","Gilmar L. Silva, Vicente das Neves, Beto do Pandeiro e Grego",Carlinhos de Pilares,1994
-14,Caprichosos,"""Estou Amando Loucamente uma Coroa de Quase 90 Anos""","Garibaldi, Tico do Gato, Carlos Ortiz, Marco Lessa e Almir de Araújo",Luizito,1994
-15,Vila Isabel,"""Muito Prazer! Isabel de Bragança e Drummond Rosa da Silva, mas Pode me Chamar de Vila""","Vilani Silva ""Bombril"", Evandro Bocão e André Diniz",Gera e Jorge Tropical,1994
-0,Imperatriz,"""Mais Vale um Jegue que me Carregue que um Camelo que me Derrube... lá no Ceará""","Eduardo Medrado, João Estevam, Waltinho Honorato e César Som Livre",Preto Jóia,1995
-1,Vila Isabel,"""Cara ou Coroa, as Duas Faces da Moeda""",Evandro Bocão e André Diniz,Gera e Jorge Tropical,1995
-2,Caprichosos,"""Da Terra Brotei, Negro sou e Ouro Virei""",Carlos Ortiz,Luizito,1995
-3,Beija-Flor,"""Bidu Sayão e o Canto de Cristal""","Bira, Zé Carlos do Cavaco, Tião Barbudo, Dequinha Pottiér e Jorginho",Neguinho da Beija-Flor,1995
-4,Viradouro,"""O Rei e os Três Espantos de Debret""","José Antonio, Gonzaga, Olivério, Rico Medeiros, Wilsinho, Fabrino, Portugal, Bernardo, Gilberto e João Sérgio",Rico Medeiros,1995
-5,Império Serrano,"""O Tempo Não Pára""","Maurição, Jorge Lucas e Luís Carlos do Cavaco",Roger da Fazenda,1995
-6,Unidos da Tijuca,"""Os Nove Bravos do Guarany""",Espanhol e Dário Lima,Paulinho Mocidade,1995
-7,Mangueira,"""A Esmeralda do Atlântico""","Rody, Verinha, Paulinho Carvalho e Fernando de Lima",Jamelão,1995
-8,Salgueiro,"""Um Caso por Acaso""","Márcio Paiva, Adalto Magalha e Quinho",Quinho,1995
-9,Estácio de Sá,"""Uma Vez Flamengo...""","David Corrêa, Adilson Torres, Déo e Caruso",Dominguinhos do Estácio,1995
-10,Unidos da Ponte,"""Paraná - Esse Estado Leva a Sério o meu Brasil""","Wanderley Novidade, Walter Pardal e Walnei Rocha",Serginho do Porto,1995
-11,Mocidade,"""Padre Miguel, Olhai por Nós""","Marquinho PQD, Santana, Wanderley Marcação e Cardoso do Cavaco",Wander Pires,1995
-12,União da Ilha,"""Todo Dia é Dia de Índio""",Almir da Ilha e Franco,Aroldo Melodia,1995
-13,Tradição,"""Gira Roda! Roda Gira!""","Lourenço, Jurandir, Jorge Makumbba, Marcos Glorioso, J. Nascimento e Lima",Edmilton Di Bem,1995
-14,Grande Rio,"""Estória para Ninar um Povo Patriota""","Paulo Mumunha, Adão Conceição, Marcos do Açougue e Anísio Silva",Nêgo,1995
-15,Portela,"""Gosto que me Enrosco""","Noca da Portela, Colombo e Gelson",Rixxah (Carlinhos de Pilares),1995
-0,Imperatriz,"""Imperatriz Leopoldinense Honrosamente Apresenta: Leopoldina, a Imperatriz do Brasil""","Jurandir, Dominguinhos do Estácio, Demarco e Carlinhos China",Preto Jóia,1996
-1,Salgueiro,"""Anarquistas Sim, mas nem Todos""","Márcio Paiva, Adalto Magalha, Eduardo Dias e Quinho",Quinho,1996
-2,Estácio de Sá,"""De um Novo Mundo eu sou e uma Nova Cidade será""","Adilson Gavião, Déo, Orlando Landão e Caruso",David do Pandeiro,1996
-3,Vila Isabel,"""A Heróica Cavalgada de um Povo""",Tião Grande e Cafu Ouro Preto,GeraJorge Tropical,1996
-4,Portela,"""Essa Gente Bronzeada Mostra seu Valor""","Jorginho Don, Picolé da Portela, Renatinho do Sambola e Carlinhos Careca",Rixxah,1996
-5,Caprichosos,"""Samba, Sabor Chocolate""","Almir de Araújo, Marco Lessa e José Paulo",Carlinhos de PilaresLuizito,1996
-6,Grande Rio,"""Na Era dos Felipes, o Brasil era Espanhol""","Barbeirinho, Bebeto do Arrastão e Jailson da Grande Rio",Nêgo,1996
-7,Unidos da Ponte,"""Nas Sombras da Folia""",Serginho do Porto e André Fullgaz,Serginho do Porto,1996
-8,Porto da Pedra,"""Um Carnaval dos Carnavais""","Billy Boy, César Reis e Élio Sabino",Wantuir,1996
-9,Beija-Flor,"""Aurora do Povo Brasileiro""",Miro Barbosa,Neguinho da Beija-Flor,1996
-10,Mocidade,"""Criador e Criatura""","Beto Corrêa, Dico da Viola, Jefinho e Joãozinho",Wander Pires,1996
-11,União da Ilha,"""A Viagem da Pintada Encantada""",Alberto Varjão e Vicentinho,Aroldo MelodiaIto Melodia,1996
-12,Império Serrano,"""Verás que um Filho Teu não Foge à Luta""","Aluísio Machado, Lula, Beto Pernada, Arlindo Cruz e Índio do Império",Jorginho do Império,1996
-13,Mangueira,"""Os Tambores da Mangueira na Terra da Encantaria""",Chiquinho Campo Grande e Marcondes,Jamelão,1996
-14,Unidos da Tijuca,"""Ganga-Zumbi, Expressão de uma Raça""",Beto do Pandeiro,Paulinho Mocidade,1996
-15,Viradouro,"""Aquarela do Brasil, Ano 2000""","Heraldo Faria, Jorge Baiano, Mocotó e Flavinho Machado",Nêgo Martins,1996
-16,Tradição,"""Do Barril ao Brasil""",Moisés Santiago e Luizinho Professor,Edmilton Di Bem,1996
-17,Império da Tijuca,"""O Reino Unido Independente do Nordeste""","Carlinhos Melodia, Antônio da Conceição, Nogueirinha, Ricardinho do Pandeiro e Rosângela Matos",Edson Bombeiro,1996
-0,Mocidade,"""De Corpo e Alma na Avenida""","Chico Cabeleira, Joãozinho, Muca e J. Brito",Wander Pires,1997
-1,Salgueiro,"""De Poeta, Carnavalesco e Louco... Todo Mundo tem um Pouco""","Márcio Paiva, Adalto Magalha, Eduardo Dias, Tico do Gato, Guaracy e Quinho",Quinho,1997
-2,Porto da Pedra,"""No Reino da Folia, cada Louco com sua Mania""","Vadinho, Carlinho e Pinto",Wantuir,1997
-3,Viradouro,"""Trevas! Luz! A Explosão do Universo""","Dominguinhos do Estácio, Mocotó, Flavinho Machado e Heraldo Faria",Dominguinhos do Estácio,1997
-4,Beija-Flor,"""A Beija-Flor é Festa na Sapucaí""","Wilson Bombeiro, J. Santos, Arnaldo Matheus e Almir Sereno",Neguinho da Beija-Flor,1997
-5,Portela,"""Linda, Eternamente Olinda""","Doutor, Renato Valle, Tonico da Portela e Eli Penteado",Rixxah,1997
-6,Grande Rio,"""Madeira-Mamoré, a Volta dos que não foram, lá no Guaporé""","Sabará, Muralha, Jarbas da Cuíca e Grajaú",Nêgo,1997
-7,Santa Cruz,"""Não Se Vive Sem Bandeira""","Carroça, Pepê e Carlinhos 18",Cláudio Tricolor,1997
-8,Imperatriz,"""Eu sou da Lira, não posso Negar...""","Zé Catimba, Chopinho, Amaurizão e Tuninho Professor",Preto Jóia,1997
-9,Império Serrano,"""O Mundo dos Sonhos de Beto Carrero""","Carlos Sena, Maurição, Arlindo Cruz e Índio do Império",Jorginho do Império,1997
-10,Estácio de Sá,"""Através da Fumaça, o Mágico Cheiro do Carnaval""","Basílio, Zé Luiz, Gabrielzinho do Pandeiro e Baby",David do Pandeiro,1997
-11,Unidos da Tijuca,"""Viagem Pitoresca pelos Cinco Continentes num Jardim""",Edson Fio e Maurílio Theodoro,Serginho do Porto,1997
-12,Mangueira,"""O Olimpo é Verde e Rosa""","Chiquinho Campo Grande, Lequeone e Jorge Magalhães",Jamelão,1997
-13,Vila Isabel,"""Não Deixe o Samba Morrer""",J. C. Couto,GeraJorge Tropical,1997
-14,União da Ilha,"""Cidade Maravilhosa, o Sonho de Pereira Passos""","Bujão, Carlinhos Fuzil e Wanderlei Novidade",Ito Melodia,1997
-15,Rocinha,"""A Viagem Fantástica do Zé Carioca à Disney""","Gilson da Ilha Porchat, Carlinhos Mustang, Wilsinho Saravá e Jorge Mirim",Alexandre D'Mendes,1997
-0,Viradouro,"""Orfeu, o Negro do Carnaval""","Gilberto Gomes, R. Mocotó, Gustavo, P. C. Portugal e Dadinho",Dominguinhos do Estácio,1998
-1,Mocidade,"""Brilha no Céu a Estrela que me faz Sonhar""","Joãozinho, Guinna, Muca e J. Brito",Wander Pires,1998
-2,Mangueira,"""Chico Buarque da Mangueira""","Nelson Dalla Rosa, Vilas Boas, Nelson Csipai e Carlinhos das Camisas",JamelãoEraldo Caê,1998
-3,Beija-Flor,"""Pará, o Mundo Místico dos Caruanas, nas Águas do Patu-Anu""","Alencar de Oliveira, Wilsinho Paz, Noel Costa, Baby e Marcão",Neguinho da Beija-Flor,1998
-4,Porto da Pedra,"""Samba no Pé e Mãos ao Alto, Isto é um Assalto""","Índio do Império, Tião Telles, Paulo Roberto e Jorge Dodi",Wantuir,1998
-5,Imperatriz,"""Quase no Ano 2000...""","Preto Jóia, Flavinho, Darcy do Nascimento e Guga",Preto Jóia,1998
-6,Portela,"""Os Olhos da Noite""","Noca da Portela, Colombo, J. Rocha, Darcy Maravilha e Celino Dias",Rogerinho,1998
-7,Vila Isabel,"""Lágrimas, Suor e Conquistas no Mundo em Transformação""","David da Vila, Sérgio Freitas, Helinho e Mascote",GeraJorge Tropical,1998
-8,Grande Rio,"""Prestes, O Cavaleiro da Esperança""","João Carlos, Carlinhos Fiscal e Quaresma",Nêgo,1998
-9,Unidos da Tijuca,"""De Gama a Vasco, a Epopéia da Tijuca""","Adalto Magalha, Serginho do Porto, Márcio Paiva e Adilson Gavião",Serginho do Porto,1998
-10,União da Ilha,"""Fatumbi, a Ilha de Todos os Santos""","Márcio André, Almir da Ilha e Mauricio 100",Rixxah,1998
-11,Tradição,"""Viagem Fantástica ao Pulmão do Mundo""","Taroba, Lima da Tradição, Sandro Maneca, Jonas Camiseta, Marcos Glorioso e Arismar Ubaldino",Taroba,1998
-12,Caprichosos,"""Negra Origem, Negro Pelé, Negra Bené""","Flávio Quintino, Noquinha, Sidinho da Zoeira, J.B e Zé Carlos da Saara",Jackson Martins,1998
-0,Mangueira,"""O Século do Samba""","Adalberto, Jocelino e Jerônimo",Jamelão(Alexandre Pires),1999
-1,Beija-Flor,"""Araxá - Lugar Alto onde Primeiro se Avista o Sol""","Wilsinho Paz, Noel Costa e Serginho do Porto",Neguinho da Beija-Flor(Belo),1999
-2,Imperatriz,"""Brasil, Mostra a Sua Cara em... Theatrum Rerum Naturalium Brasiliae""","Cesar Som Livre, Waltinho Honorato, João Estevam e Eduardo Medrado",Preto Jóia,1999
-3,Portela,"""De Volta aos Caminhos de Minas Gerais""","Noca da Portela, Colombo, J. Rocha e Darcy Maravilha",Rogerinho,1999
-4,Viradouro,"""Anita Garibaldi - Heroína das 7 Magias""","Gilberto Gomes, R. Mocotó, Gustavo, PC Portugal e Dadinho",Dominguinhos do Estácio,1999
-5,Mocidade,"""Villa-Lobos e a Apoteose Brasileira""","Santana, Nascimento e Ricardo Simpatia",Wander Pires,1999
-6,Salgueiro,"""Salgueiro é Sol e Sal nos 400 Anos de Natal""","Celso Trindade, Demá Chagas, Eduardo Dias, Líbero e Quinho",Quinho,1999
-7,Grande Rio,"""Ei, ei, ei, Chateau é o Nosso Rei""","Nêgo, Barbeirinho e Derê",Nêgo,1999
-8,União da Ilha,"""Barbosa Lima, 101 Anos do Sobrinho do Brasil""","Bicudo, Djalma Falcão, Dito e Jota Erre",Rixxah,1999
-9,Caprichosos,"""No Universo da Beleza, Mestre Pitanguy""","Sidney Leite, Flávio Quintino, Marcelinho da Caprichosos, Bittar e Jorge 101",Jackson Martins,1999
-10,Tradição,"""Nos Braços da História, Jacarepaguá, Quatro Séculos de Glórias""","Jorge Makumbba, Erô Baianinho, Jurandir da Tradição e Antonio Português",Wantuir,1999
-11,Vila Isabel,"""João Pessoa, Onde o Sol Brilha Mais Cedo""","Evadro Bocão, Serginho 20 e Tito",GeraJorge Tropical,1999
-12,Império Serrano,"""Uma Rua Chamada Brasil""","Arlindo Cruz, Carlos Sena, Maurição e Elmo Caetano",Jorginho do Império,1999
-13,São Clemente,"""A São Clemente Comemora e Traz Rui Barbosa para os Braços do Povo""","Ricardo Góes, Ronaldo Soares, Chocolate e Fernando de Lima",Márcio Souto,1999
-0,Imperatriz,"""Quem Descobriu o Brasil, foi Seu Cabral, no dia 22 de Abril, Dois Meses depois do Carnaval...""","Marquinho Lessa, Amaurizão, Guga, Chopinho e Tuninho Professor",Paulinho Mocidade,2000
-1,Beija-Flor,"""Brasil, um Coração que Pulsa Forte, Pátria de Todos ou Terra de Ninguém""",Igor Leal e Amemdoim da Beija-Flor,Neguinho da Beija-Flor,2000
-2,Viradouro,"""Brasil, Visões de Paraísos e Infernos""","Gilberto Gomes, Gustavo, Dadinho, PC Portugal e Mocotó",Dominguinhos do Estácio,2000
-3,Mocidade,"""Verde, Amarelo, Azul Anil Colorem o Brasil no Ano 2000""","Dico da Viola, Jefinho, Marquinho Índio e Marquinho PQD",Paulo Henrique,2000
-4,Salgueiro,"""Sou Rei, sou Salgueiro, meu Reinado é Brasileiro""","Fernando Baster, J.C. Couto, João da Valsa, Touro e Wander Pires",Wander Pires,2000
-5,Grande Rio,"""Carnaval à Vista""","Pedrinho Messias, J. Mendonça e Mingau",Nêgo,2000
-6,Mangueira,"""Dom Obá II, Rei dos Esfarrapados, Príncipe do Povo""","Marcelo D'Aguiã, Bizuca, Gilson Bernini e Valter Veneno",Jamelão,2000
-7,Portela,"""Trabalhadores do Brasil - A Época de Getúlio Vargas""","Amílton Damião, Aílton Damião, Edynel, Zezé do Pandeiro e Edinho Leal",Gera,2000
-8,Caprichosos,"""Brasil, Teu Espírito é Santo""","Mauro, Claudinho Srutline, J. Bodão e Márcio do Swing",Jackson Martins,2000
-9,União da Ilha,"""Pra não Dizer que não Falei de Flores""","Marquinho do Banjo, Niva e Franco",Serginho do Porto,2000
-10,Vila Isabel,"""Eu sou Índio, Eu Também sou Imortal""","Evandro Bocão, Serginho 20, Tito, Leonel e Ivan da Wanda",Jorge Tropical,2000
-11,Tradição,"""Liberdade! Sou Negro, Raça e Tradição""",Lourenço e Adalto Magalha,Wantuir,2000
-12,Unidos da Tijuca,"""Terra dos Papagaios... Navegar foi Preciso!!!""","Badá, Jacy Inspiração, Edson de Oliveira e David do Pandeiro",David do Pandeiro,2000
-13,Porto da Pedra,"""Ordem, Progresso, Amor e Folia no Milênio da Fantasia""","Silvão, Ricardo Góes, Ronaldo Soares, Chocolate e Fernando de Lima",Ito Melodia,2000
-0,Imperatriz,"""Cana-Caiana, Cana-Roxa, Cana Fita, Cana Preta, Amarela, Pernambuco... Quero vê Descê o Suco, na Pancada do Ganzá!""","Guga, Tuninho Professor e Marquinho Lessa",Paulinho Mocidade,2001
-1,Beija-Flor,"""A Saga de Agotime, Maria Mineira Naê""","Déo, Caruso, Cleber e Osmar",Neguinho da Beija-Flor,2001
-2,Viradouro,"""Os Sete Pecados Capitais""","Gilberto Gomes, Gustavo, Dadinho, PC Portugal e Mocotó",Dominguinhos do Estácio,2001
-3,Mocidade,"""Paz e Harmonia, Mocidade é Alegria""","Joãozinho, Marcelo do Rap, Domenil e J. Brito",David do Pandeiro,2001
-4,Unidos da Tijuca,"""A Tijuca apresenta Nélson Rodrigues pelo Buraco da Fechadura""","Vicente das Neves, Gilmar L. Silva, Douglas, Toninho Gentil e Wantuir",Wantuir,2001
-5,Salgueiro,"""Salgueiro no Mar de Xarayés, é Pantanal, é Carnaval""","Augusto, José Carlos da Saara, Rocco Filho e Nêgo",Nêgo,2001
-6,Mangueira,"""A Seiva da Vida""","Marcelo D'Aguiã, Bizuca, Gilson Bernini e Clóvis Pê",JamelãoClóvis Pê,2001
-7,União da Ilha,"""A União faz a Força, com Muita Energia""","Márcio André, Djalma Falcão, Almir da Ilha e Dito",Wander Pires,2001
-8,Grande Rio,"""Gentileza, o Profeta Saído do Fogo""","Carlos Santos, Cláudio Russo, Zé Luiz e Ciro",Quinho,2001
-9,Portela,"""Querer é Poder""","Flavio Bororó, Zeca Sereno, Wagner Alves e Paulo Aparício",Gera,2001
-10,Caprichosos,"""Goiás, um Sonho de Amor no Coração do Brasil""","Jorge 101, Luiz Pião, Gule e Lequinho",Jackson Martins,2001
-11,Tradição,"""Hoje é Domingo, é Alegria, Vamos Sorrir e Cantar!""",Lourenço e Adalto Magalha,Celino Dias,2001
-12,Império Serrano,"""O Rio Corre pro Mar""","Arlindo Cruz, Maurição, Carlos Sena e Elmo Caetano",Carlinhos da Paz,2001
-13,Paraíso do Tuiuti,"""'Um Mouro no Quilombo' - Isto a História Registra""","Cesar Som Livre, Kleber Rodrigues, David Lima e Claudio Martins",Ciganerey,2001
-0,Imperatriz,"""Goytacazes... Tupy, or not Tupy, in a South American Way!""","Marquinho Lessa, Guga e Tuninho Professor",Paulinho Mocidade,2002
-1,Imperatriz,"""Liberdade, Liberdade, Abre as Asas sobre Nós"" (1989)","Niltinho Tristeza, Preto Jóia, Vicentinho e Jurandir",Dominguinhos do Estácio,2002
-2,Beija-Flor,"""O Brasil dá o Ar da sua Graça de Ícaro a Rubem Berta, o Ímpeto de Voar""","Wilsinho Paz, Elcy, Gil das Flores, Alexandre Moraes, Tamir, Tom-Tom e Igor Leal",Neguinho da Beija-Flor,2002
-3,Beija-Flor,"""Araxá, Lugar Alto Onde Primeiro Se Avista o Sol"" (1999)","Wilsinho Paz, Noel Costa e Serginho do Porto",Neguinho da Beija-Flor,2002
-4,Mangueira,"""Brazil com Z é pra Cabra da Peste, Brasil com S é Nação do Nordeste""",Lequinho e Amendoim B-F,Jamelão,2002
-5,Mangueira,"""Cem Anos de Liberdade, Realidade ou Ilusão"" (1988)","Hélio Turco, Jurandir e Alvinho",Jamelão,2002
-6,Salgueiro,"""Asas de um Sonho Viajando com o Salgueiro, O Orgulho de ser Brasileiro""","Leonel, Luizinho Professor, Serginho 20, Sidney Sã, Claudinho e Nêgo",Nêgo,2002
-7,Salgueiro,"""Peguei um Ita no Norte"" (1993)","Demá Chagas, Arizão, Celso Trindade, Bala, Guaracy, Quinho.",Quinho,2002
-8,Viradouro,"""Viradouro, Viramundo, Rei do Mundo""","Gilberto Gomes, Gustavo, Dadinho, P.C. Portugal e Mocotó",Dominguinhos do Estácio,2002
-9,Viradouro,"""Orfeu, o Negro do Carnaval"" (1998, ao vivo)","Gilberto Gomes, Gustavo, Dadinho, P.C. Portugal e Mocotó",Dominguinhos do Estácio,2002
-10,Grande Rio,"""Os Papagaios Amarelos nas Terras Encantadas do Maranhão""",Alailson Cruz e Agenor Neto,Quinho,2002
-11,Grande Rio,"""No Mundo da Lua"" (1993)","Nêgo, Jacy Inspiração, Mais Velho, G. Martins, Dicró, Juarez Dy Calvoza, Adão Conceição, Carlinhos P2, Rocco Filho e Ronaldo",Nêgo,2002
-12,Mocidade,"""O Grande Circo Místico""","Beto Corrêa, Dico da Viola, Jefinho e Marquinhos Índio",Wander Pires,2002
-13,Mocidade,"""Sonhar não custa nada, ou quase nada"" (1992)","Paulinho Mocidade, Dico da Viola e Moleque Silveira",Paulinho Mocidade,2002
-14,Tradição,"""Os Encantos da Costa do Sol""",Lourenço e Adalto Magalha,Celino Dias,2002
-15,Tradição,"""Hoje é Domingo, é Alegria, Vamos Sorrir e Cantar!"" (2001)",Lourenço e Adalto Magalha,Celino Dias,2002
-16,Unidos da Tijuca,"""O Sol Brilha Eternamente sobre o Mundo de Língua Portuguesa""","Haroldo Pereira, Valtinho Júnior e Wantuir",Wantuir,2002
-17,Unidos da Tijuca,"""Terra dos Papagaios... Navegar foi preciso!!!"" (2000)","Henrique Badá, Jacy Inspiração e Édson de Oliveira",David do Pandeiro,2002
-18,Portela,"""Amazonas, Esse Desconhecido (Delírios e Verdades do Eldorado Verde)""","David Corrêa, Grillo e Naldo",Gera,2002
-19,Portela,"""Gosto que me Enrosco"" (1995)","Noca da Portela, Colombo e Gelson",Rixxah (Carlinhos de Pilares),2002
-20,Império Serrano,"""Aclamação e Coroação do Imperador da Pedra do Reino Ariano Suassuna""","Aluizio Machado, Maurição, Lula, Carlos Sena e Elmo Caetano",Carlinhos da Paz,2002
-21,Império Serrano,"""E verás que um filho teu não foge à luta"" (1996)","Aluísio Machado, Lula, Beto Pernarda, Arlindo Cruz e Índio do Império",Jorginho do Império,2002
-22,Caprichosos,"""Deu pra Ti! Tô em Alto Astral! Tô com Porto Alegre Trilegal!""",J. Mazarim e André Fullgáz,Jackson Martins,2002
-23,Caprichosos,"""Goiás, um Sonho de Amor no Coração do Brasil"" (2001)","Jorge 101, Luiz Pião, Gule e Lequinho",Jackson Martins,2002
-24,Porto da Pedra,"""Serra Acima Rumo à Terra dos Coroados""","Evaldo Melodia, Ernesto do Cavaco e Beto Grande",Preto Jóia,2002
-25,Porto da Pedra,"""Um Carnaval dos Carnavais"" (1996)","Billy Boy, Cesar Reis e Elio Sabino",Wantuir,2002
-26,São Clemente,"""Guapimirim, Paraíso Ecológico Abençoado pelo Dedo de Deus","Rodrigo Índio, Eugênio Leal, Fabinho, Paulo Renato e Anderson Paz",Anderson Paz,2002
-27,São Clemente,"""E o Samba Sambou"" (1990)","Helinho 107, Mais Velho, Nino e Chocolate",Izaias de Paula,2002
-0,Mangueira,"""Os Dez Mandamentos - O Samba da Paz Canta a Saga da Liberdade""","Marcelo D'Aguiã, Bizuca, Gilson Bernini e Clóvis Pê",Jamelão,2003
-1,Beija-Flor,"""O Povo Conta a sua História: ""Saco Vazio não pára em pé - A Mão que faz a Guerra, faz a Paz""""","Betinho, J. C. Coelho, Ribeirinho, Glyvaldo, Luis Otávio, Manoel do Cavaco, Serginho Sumaré e Vinicius",Neguinho da Beija-Flor,2003
-2,Imperatriz,"""Nem todo Pirata tem a perna de pau, olho de vidro e a cara de mau""","Darcy do Nascimento, Brandãozinho da Imperatriz, Rubens Napoleão e Jorge Rita",David do Pandeiro,2003
-3,Mocidade,"""Para Sempre no seu Coração - Carnaval da Doação""",Santana e Ricardo Simpatia,Paulinho Mocidade,2003
-4,Viradouro,"""A Viradouro Canta e Conta Bibi, Uma Homenagem ao Teatro Brasileiro""","Gustavo, Gilberto Gomes, Heraldo Faria e Gelson",Dominguinhos do Estácio,2003
-5,Salgueiro,"""Salgueiro, Minha Paixão, Minha Raiz - 50 Anos de Glória""","Leonel, Luizinho Professor, Serginho 20, Sidney Sã, Claudinho e Quinho",Quinho,2003
-6,Grande Rio,"""O Nosso Brasil que Vale""","Mingau, Marco Moreno e Derê",Wander Pires,2003
-7,Portela,"""Ontem, Hoje, Sempre Cinelândia - O samba entra em cena na Broadway Brasileira""","Caixa D'Água, Alexandre Fernandes, Lilian Martins e Júlio Alves",Gera,2003
-8,Império Serrano,"""E onde houver Trevas... Que se faça a Luz!""","Arlindo Cruz, Maurição, Carlos Sena, Aluizio Machado e Elmo Caetano",Wantuir,2003
-9,Unidos da Tijuca,"""Agudás, os que levaram a África no Coração e trouxeram para o Coração da África, o Brasil!""","Haroldo Pereira, Valtinho Junior e Wantuir",Nêgo,2003
-10,Porto da Pedra,"""Os Donos da Rua, um Jeitinho Brasileiro de Ser""","Dudu, Max Mendonça e Silva",Preto Jóia,2003
-11,Caprichosos,"""Zumbi, Rei de Palmares e Herói do Brasil. A História que não foi contada""","Carlos Ortiuz, Claudia Nel, Alberto Capital e Mestre Augusto",Jackson Martins,2003
-12,Tradição,"""O Brasil é Penta; R é 9, O Fenômeno Iluminado""",Lourenço e Adalto Magalha,Celino Dias,2003
-13,Santa Cruz,"""Do Universo teatral à Ribalta do Carnaval""","Doutor, Eli Penteado, Jorge Charuto, Marquinho Bombeiro e Fernando de Lima",Luizinho Andanças,2003
-0,Beija-Flor,"""Manôa, Manaus, Amazônia, Terra Santa... Que Alimenta o Corpo, Equilibra a Alma e Transmite a Paz""","Cláudio Russo, Zé Luiz, Marquinhos, Jessi e Leleco",Neguinho da Beija-Flor,2004
-1,Mangueira,"""Mangueira redescobre a Estrada Real... e deste Eldorado faz seu Carnaval""","Cadu, Gabriel, Almyr e Guilherme",Jamelão,2004
-2,Grande Rio,"""Vamos Vestir a Camisinha, meu Amor!""","Marco Moreno, Mingau, Derê e Djalma Falcão",Wander Pires,2004
-3,Imperatriz,"""Breazail""","Jéferson Lima, Veneza, Carlos de Olaria, Me Leva e Guga",David do Pandeiro,2004
-4,Mocidade,"""Não Corra, Não Mate, Não Morra, pegue Carona com a Mocidade! Educação no Trânsito""",Santana e Ricardo Simpatia,Paulinho Mocidade,2004
-5,Viradouro,"""Pediu pra Pará, parou!... Com a Viradouro eu vou. Pro Círio de Nazaré"" (Reedição de ""Festa do Círio de Nazaré"" do carnaval de 1975, da Unidos de São Carlos)","Dario Marciano, Nilo Mendes (Esmera) e Aderbal Moreira",Dominguinhos do Estácio,2004
-6,Salgueiro,"""A Cana que aqui se Planta tudo dá, até Energia... Álcool, o Combustível do Futuro""","Leonel, Luizinho Professor, Serginho 20, Sidney Sã, Professor Newtão e Quinho",Quinho,2004
-7,Portela,"""Lendas e Mistérios da Amazônia""(Reedição do carnaval de 1970)","Catoni, Jabolô e Waltenir",Gera,2004
-8,Unidos da Tijuca,"""O Sonho da Criação e a Criação do Sonho: a Arte da Ciência no Tempo do Impossível""","Jurandir, Wanderlei, Sereno e Enilson",Wantuir,2004
-9,Caprichosos,"""Xuxa e seu Reino Encantado no Carnaval da Imaginação""","Preto Jóia, Nei Negrone, Silvio Araújo e Riquinho Gremião",Jackson Martins,2004
-10,Porto da Pedra,"""Sou Tigre, sou Porto, da Pedra à Internet - Mensageiro da História da Vida do Leva-e-Traz""","Jorge Remédio, Paulinho Freitas e Luiz Pessanha",Preto Jóia,2004
-11,Império Serrano,"""Aquarela Brasileira"" Reedição do carnaval de 1964",Silas de Oliveira,Nêgo,2004
-12,Tradição,"""Contos de Areia""(Reedição do carnaval de 1984, da Portela)",Dedé da Portela e Norival Reis,Alcione,2004
-13,São Clemente,"""Boi Voador sobre o Recife: o Cordel da Galhofa Nacional""","Jorge Melodia, Noronha, Marcos Zero e César Ouro",Anderson Paz,2004
-0,Beija-Flor,"""O Vento Corta as Terras dos Pampas. Em Nome do Pai, do Filho e do Espírito Guarani - Sete Povos na Fé e na Dor... Sete Missões de Amor""","J.C. Coelho, Ribeirinho, Adilson China, Serginho Sumaré, Domingos PS, Sidney de Pilares, Zequinha do Cavaco, Jorginho Moreira, Wanderlei Novidade, Walnei Rocha e Paulinho Rocha",Neguinho da Beija-Flor,2005
-1,Unidos da Tijuca,"""Entrou por um lado, saiu pelo outro... Quem quiser que invente Outro""","Sérgio Alan, Jorge Remédio e Valtinho Jr.",Wantuir,2005
-2,Mangueira,"""Mangueira Energiza a Avenida. O Carnaval é Pura Energia e a Energia é o Nosso Desafio""","Lequinho, Junior Fionda e Amendoim",Jamelão,2005
-3,Viradouro,A Viradouro É Só Sorriso,"Gusttavo, Gilberto Gomes, P.C. Portugal, Zé Antônio e Dominguinhos do Estácio",Dominguinhos do Estácio,2005
-4,Imperatriz,"""Uma Delirante Confusão Fabulística""","Josimar, Evaldo Ruy, Jorge Artur, P.C. e Jorginho",Ronaldo Yllê,2005
-5,Salgueiro,"""Do Fogo que Ilumina a Vida, Salgueiro é Chama que não se Apaga""","Moisés Santiago, Waltinho Honorato, Fernando Magaça, Luiz Antonio e Quinho",Quinho,2005
-6,Portela,"""Nós Podemos: Oito Idéias para Mudar o Mundo""","Noca da Portela, Darcy Maravilha, J. Rocha e Noquinha",Bruno Ribas,2005
-7,Mocidade,"""Buon Mangiare, Mocidade! A Arte está na Mesa""","Inácio Rios, Nilton Mello e Jorginho Valle",Roger Linhares,2005
-8,Império Serrano,"""Um Grito que Ecoa no Ar (Homem/Natureza - O Perfeito Equilíbrio)""","Marcão, Marcelo Ramos e João Bosco",Nêgo,2005
-9,Grande Rio,"""Alimentar o Corpo e a Alma faz bem""","Barberinho, Competência, Bitar, Marcelinho Santos, Levi Dutra, Licinho Jr., Deré Mingau, Leleco e Ciro",Wander Pires,2005
-10,Porto da Pedra,"""Festa Profana""(Reedição do carnaval de 1989, da União da Ilha)","J. Brito, Bujão e Franco",Luizinho Andanças,2005
-11,Tradição,"""De Sol a Sol, de Sol à Soja - Um Negócio da China!""","Tonho, Lu Gama e Nascimento",Preto Jóia,2005
-12,Caprichosos,"""Carnaval, Doce Ilusão - A Gente se Encontra aqui, no meio da Multidão! 20 Anos de Liga""","J.L. Fróes, Carlinhos Danoninho, Edmar Silva, Jorge 101, Fernando de Lima, Rafael França e Lee Santana",Serginho do Porto,2005
-13,Vila Isabel,"""Singrando em Mares Bravios... Construindo o Futuro""","André Diniz, Serginho 20, Sidney Sã, Professor Newtão e Miguel BD",Tinga,2005
-0,Beija-Flor,"""Poços de Caldas, derrama sobre a Terra suas águas milagrosas - Do caos inicial à explosão da vida - Água, a nave-mãe da existência""","Wilsinho da Paz, Noel Costa, Alexandre Moraes e Silvio Romai",Neguinho da Beija-Flor,2006
-1,Unidos da Tijuca,"""Ouvindo tudo que Vejo, vou vendo tudo que Ouço""",Jorge Remédio e Julio Alves,Wantuir,2006
-2,Grande Rio,"""Amazonas, o Eldorado é Aqui""","Márcio das Camisas, Mariano Araújo, Gilbertinho e Professor Elísio",Bruno Ribas,2006
-3,Imperatriz,"""Um por todos e todos por um""","Niltinho Tristeza, Amauryzão, Maininho do Ponto e Tuninho Professor",Ronaldo Yllê,2006
-4,Salgueiro,"""Microcosmos: o que os olhos não vêem, o Coração sente""","Moisés Santiago, Waltinho Honorato, Fernando Magaça, Paulo Shell, Tiãozinho do Salgueiro, ABS, Leonel, Luizinho Professor e Quinho",Quinho,2006
-5,Mangueira,"""Das Águas do Velho Chico, nasce um Rio de Esperança""","Henrique Gomes, Gilson Bernini e Cosminho",Jamelão,2006
-6,Porto da Pedra,"""Bendita és tu entre as Mulheres do Brasil""","Vadinho, Bento e Fernando Macaco",Luizinho Andanças,2006
-7,Viradouro,"""Arquitetando Folias""","Dadinho, Evaldo, Waldeir Melodia, Tamiro e Peralta",Dominguinhos do Estácio,2006
-8,Mocidade,"""A Vida que Pedi a Deus""","Toco, Rafael Paura e Marquinho Marino",Wander Pires,2006
-9,Vila Isabel,"""Soy Loco por ti América: a Vila Canta a Latinidade""","André Diniz, Serginho 20, Carlinhos do Peixe e Carlinhos Petisco",Tinga,2006
-10,Caprichosos,"""Na Folia com o Espírito Santo: o Espírito Santo Caprichou""","Josemar Manfredini, Mauro Speranza e Márcio do Swing",Clóvis Pê,2006
-11,Império Serrano,"""O Império do Divino""","Arlindo Cruz, Maurição, Carlos Sena, Aluízio Machado e Elmo Caetano",Nêgo,2006
-12,Portela,"""Brasil, Marca a tua Cara e Mostra para o Mundo""","Mauro Diniz, Ary do Cavaco, Junior Escafura, Marquinhos de Oswaldo Cruz e Naldo",Gilsinho,2006
-13,Rocinha,"""Felicidade não tem Preço""","Marquinhos, Marinho e Wander Timbalada",Anderson Paz,2006
-0,Vila Isabel,"""Metamorfoses, do Reino Natural à Corte Popular do Carnaval - As Transformações da Vida""","Evandro Bocão, André Diniz, Serginho 20, Carlinhos Petisco e Professor Wladimir",Tinga,2007
-1,Grande Rio,"""Caxias, o Caminho do Progresso, o Retrato do Brasil""","Márcio das Camisas, Professor Elísio, Mariano Araújo e Robson Moratelli",Wander Pires,2007
-2,Viradouro,"""A Viradouro Vira o Jogo""","Gusttavo Clarão, Gilberto Gomes, Nando, Pablo Fernandes, P.C. Portugal e Dominguinhos do Estácio",Dominguinhos do Estácio,2007
-3,Mangueira,"""Minha Pátria é minha Língua, Mangueira meu Grande Amor, meu Samba vai ao Lácio Colher a Última Flor""","Lequinho, Junior Fionda, Aníbal e Amendoim do Samba",Luizito,2007
-4,Beija-Flor,"""Áfricas, do Berço Real à Corte Brasileira""","Cláudio Russo, J. Velloso, Carlinhos do Detran e Gilson DR",Neguinho da Beija-Flor,2007
-5,Unidos da Tijuca,"""De Lambida em Lambida, a Tijuca dá um Click na Avenida""","Ivinho do Cavaco, Totonho, Silvão e Jorge Remédio",Wantuir,2007
-6,Portela,"""Os Deuses do Olimpo na Terra do Carnaval - Uma Festa dos Esportes da Saúda e da Beleza""","Diogo Nogueira, Ciraninho e Celsinho de Andrade",Gilsinho,2007
-7,Império Serrano,"""Ser Diferente é Normal - O Império Serrano faz a Diferença no Carnaval""","Arlindo Cruz, Maurição, Aluísio Machado, Carlos Sena e João Bosco",Nêgo,2007
-8,Imperatriz,"""Teresinha, Uhuhuuu!!!! Vocês Querem Bacalhau?""","Merrenga, Xande Sobrinho, Lula Inspiração, Bill Amizade e Aliomar",Preto Jóia,2007
-9,Mocidade,"""O Futuro no Pretérito, uma História feita à Mão""","Tôco, Rafael Paura e Marquinho Marino",Bruno Ribas,2007
-10,Salgueiro,"""Candaces""","Dudu Botelho, Marcelo Motta, Zé Paulo e Luiz Pilão",Quinho,2007
-11,Porto da Pedra,"""Preto e Branco a Cores""","David Souza, Fábio Costa, Francisco, William dos Anjos e Vagner Fonseca",Luizinho Andanças,2007
-12,Estácio,"""O Tititi do Sapoti""Reedição do carnaval de 1987","Darcy do Nascimento, Djalma Branco e Dominguinhos do Estácio",Anderson Paz,2007
-0,Beija-Flor,"""Macapaba: Equinócio Solar, Viagens Fantásticas ao Meio do Mundo""","Cláudio Russo, Carlinhos Detran, J. Velloso, Gilson Dr., Kid e Marquinhos",Neguinho da Beija-Flor,2008
-1,Grande Rio,"""Do Verde de Coari vem meu Gás, Sapucaí!""","Arlindo Cruz, Mingau, Emerson Dias, Maurição, Carlos Sena e Edu da Penha",Wander Pires,2008
-2,Mangueira,"""100 Anos do Frevo, é de Perder o Sapato, Recife Mandou me Chamar""","Lequinho, Junior Fionda, Francisco do Pagode, Silvão e Aníbal",Luizito,2008
-3,Unidos da Tijuca,"""Vou Juntando o que eu Quiser, Minha Mania Vale Ouro, Sou Tijuca, Trago a Arte Colecionando o meu Tesouro""","Julio Alves, Sereno, Paulo Rios e Beto Lima",Wantuir,2008
-4,Viradouro,"""É de Arrepiar!""","Paulo César Portugal, Evaldo, Tamiro e Lima de Andrade",Nêgo,2008
-5,Vila Isabel,"""Trabalhadores do Brasil""","André Diniz, Carlinhos Petisco, Evandro Bocão, Pingüim, Professor Wladimir, Dedé Aguiar, Eduardo Katata, Dinny, Miro Jr. e Carlinhos do Peixe",Tinga,2008
-6,Salgueiro,"""O Rio de Janeiro Continua Sendo...""","Dudu Botelho, Marcelo Motta, Josemar Manfredini, João Conga e Luiz Pião",Quinho,2008
-7,Portela,"""Reconsturindo a Natureza, Recriando a Vida: O Sonho Vira Realidade""","Junior Scafura, Diogo Nogueira, Ciraninho, Ari do Cavaco e Celsinho de Andrade",Gilsinho,2008
-8,Imperatriz,"""João e Marias""","Josimar, Di Andrade, Valtencir, Carlos Kind e Jorge Arthur",Preto Jóia,2008
-9,Porto da Pedra,"""100 Anos de Imigração Japonesa - Tem Pagode no Maru""","David Souza, Fábio Costa e Carlos Júnior",Luizinho Andanças,2008
-10,Mocidade,"""O Quinto Império: De Portugal ao Brasil, uma Utopia na História""","Marquinho Marino, Gustavo Henrique e Igor Leal",Bruno Ribas,2008
-11,São Clemente,"""O Clemente João VI no Rio: A Redescoberta do Brasil""","Helinho 107, Ricardo Góes, Naldo, Cláudio Filé, Armandinho do Cavaco, Marcelo Santa e Clara",Leonardo Bessa,2008
-0,Beija-Flor,"""No chuveiro da alegria, quem banha o corpo lava a alma na folia""","Tom Tom, Marcelo Guimarães, Lopita, Jorge Augusto e Veni Vieira",Neguinho da Beija-Flor,2009
-1,Salgueiro,"""Tambor""","Moisés Santiago, Paulo Shell, Leandro Costa e Tatiana Leite",Quinho,2009
-2,Grande Rio,"""Voila, Caxias! Pra sempre Liberté, egalité, fraternité, merci beaucoup, Brésil! Não tem de quê!""","Derê, Emerson Dias, Rafael Ribeiro e Mingau",Wantuir,2009
-3,Portela,"""E Por Falar em Amor... Onde Anda Você?""","Ciraninho, Wanderley Monteiro, Diogo Nogueira, Luiz Carlos Máximo e Júnior Escafura",Gilsinho,2009
-4,Unidos da Tijuca,"""Tijuca 2009: Uma odisséia sobre o espaço""",Júlio Alves e Totonho,Bruno Ribas,2009
-5,Imperatriz,"""Imperatriz... Só quer mostrar que faz samba também""","Josimar, Carlos Kind, Jorge Arthur, Di Andrade e Valtencir",Paulinho Mocidade(Fundo de Quintal),2009
-6,Viradouro,"""Vira-Bahia, Pura energia""","Heraldo Faria, Flavinho Machado, Edu Velocci, Rafael Richard e Floriano do Caranguejo",David do Pandeiro,2009
-7,Mocidade,"""Mocidade Apresenta: Clube literário, Machado de Assis e Guimarães Rosa... estrelas em poesia!""","Jefinho, Santana, Ricardo Simpatia, Marquinho Índio e Diego Rodrigues",Wander Pires,2009
-8,Vila Isabel,"""Neste palco da folia, minha Vila anuncia: Theatro Municipal, o centenário maravilha""","André Diniz, Serginho 20, Artur das Ferragens e Leonel",Tinga(Coro da Comunidade),2009
-9,Mangueira,"""A Mangueira traz os Brasis do Brasil mostrando a formação do povo brasileiro""","Lequinho, Jr. Fionda, Gilson Bernini e Gusttavo Clarão",Luizito(Alcione e Velha Guarda da Mangueira),2009
-10,Porto da Pedra,"""Não me proíbam criar. Pois preciso curiar! Sou o país do futuro e tenho muito a inventar!""","Fábio Costa, David de Souza e André Felix",Luizinho Andanças,2009
-11,Império Serrano,"""Lendas das sereias, mistérios do mar""Mesmo samba-enredo de 1976 (Lenda das sereias, rainhas do mar), apenas com o título alterado.","Vicente Mattos, Dinoel Sampaio e Arlindo Velloso",Nêgo,2009
-0,Salgueiro,"""Histórias sem fim""","Josemar Manfredini, Brasil do Quintal, Jassa, Betinho do Ponto e Fernando Magaça",Quinho,2010
-1,Beija-Flor,"""Brilhante ao Sol do Novo Mundo, Brasília: do Sonho à Realidade, a Capital da Esperança""","Picolé da Beija Flor, Serginho Sumaré, Samir Trindade, Serginho Aguiar, Dilson Marimba e André do Cavaco",Neguinho da Beija-Flor,2010
-2,Portela,"""Derrubando fronteiras, conquistando a liberdade, o Rio de paz em estado de graça""","Diogo Nogueira, Rafael dos Santos, Ciraninho, Naldo e Júnior Escafura",Gilsinho,2010
-3,Vila Isabel,"""Noel: a presença do poeta da Vila""",Martinho da Vila,Tinga(Martinho da Vila),2010
-4,Grande Rio,"""Das arquibancadas ao camarote número 1, um ""Grande Rio"" de emoção, na Apoteose do seu coração""","Barbeirinho, Mingau, G. Marins, Arlindo Cruz, Emerson Dias, Levi Dutra, Carlos Sena, Chico da Vila, Da Lua, Isaac, Rafael Ribeiro e Juarez Pantoja",Wantuir,2010
-5,Mangueira,"""Mangueira é a música do Brasil""","Renan Brandão, Machado, Paulinho Bandolim e Rodrigo Carioca","Luizito, Zé Paulo Sierra e Rixxah(Emílio Santiago)",2010
-6,Imperatriz,"""Brasil de todos os deuses""","Jeferson Lima, Flavinho, Gil Branco, Me Leva e Guga",Dominguinhos do Estácio,2010
-7,Viradouro,"""México, o Paraíso das Cores, sob o Signo do Sol""","Floriano do Carangueijo, Gustavo da Marbela e Sacadura Cabral",Wander Pires,2010
-8,Unidos da Tijuca,"""É segredo!""","Júlio Alves, Totonho e Marcelinho Calil",Bruno Ribas,2010
-9,Porto da Pedra,"""Com que roupa eu vou? Pro samba que você me convidou""","Bira, Porkinho e Heitor Costa",Luizinho Andanças,2010
-10,Mocidade,"Do paraíso de Deus ao paraíso da loucura, cada um sabe o que procura","J. Giovanni, Zé Glória e Hugo Reis",David do Pandeiro,2010
-11,União da Ilha,"""Dom Quixote de La Mancha, o cavaleiro dos sonhos impossíveis""","Grassano, Gabriel Fraga, Márcio André Filho, João Bosco, Arlindo Neto, Gugu das Candongas, Marquinho do Banjo, Barbosão, Ito Melodia e Léo da Ilha",Ito Melodia,2010
-0,Unidos da Tijuca,"""Esta noite levarei sua alma""",Júlio Alves e Totonho,Bruno Ribas,2011
-1,Grande Rio,"""Y-Jurerê Mirim - A Encantadora Ilha das Bruxas (Um conto de Cascaes)""","Edispuma, Licinho Júnior, Marcelinho Santos e Foca",Wantuir,2011
-2,Beija-Flor,"""A Simplicidade de um Rei""","Samir Trindade, Serginho Aguiar, JR Beija Flor, Sidney de Pilares, Jorginho Moreira, Théo M. Neto, Klbéber do Sindicato e Marcelo Mourão",Neguinho da Beija-Flor,2011
-3,Vila Isabel,"""Mitos e Histórias Entrelaçadas pelos Fios de Cabelo""","Andre Diniz, Leonel, Professor Wladimir, Arthur das Ferragens e Pinguim",Tinga,2011
-4,Salgueiro,"""Salgueiro Apresenta: O Rio no Cinema!""","Dudu Botelho, Miudinho, Anderson Benson e Luiz Pião","Quinho, Serginho do Porto e Leonardo Bessa",2011
-5,Mangueira,"""O filho fiel, sempre Mangueira""","Alemão do Cavaco, Cesinha Maluco, Xavier, Ailton Nunes, Rifai e Pê Baianinho","Luizito, Zé Paulo Sierra e Ciganerey(Beth Carvalho)",2011
-6,Mocidade,"""Parábola dos Divinos Semeadores""","J. Giovanni, Zé Glória e Hugo Reis",Nêgo,2011
-7,Imperatriz,"""A Imperatriz adverte: sambar faz bem à saúde""","Flavinho, Me leva, Gil Branco, Tião Pinheiro e Drummond",Dominguinhos do Estácio,2011
-8,Portela,"""Rio, azul da cor do mar""","Wanderley Monteiro, Gilsinho, Luiz Carlos Máximo, Júnior Escafura e Naldo",Gilsinho,2011
-9,Porto da Pedra,"""O sonho sempre vem pra quem sonhar""","Bira, Robinho, Diego Ferreiro e Porkinho",Luizinho Andanças,2011
-10,União da Ilha,"""O Mistério da Vida""","Gugu das Candongas, Marquinhus do Banjo, João Paulo, Márcio André Filho, Ito Melodia e Arlindo Neto",Ito Melodia,2011
-11,São Clemente,"""O seu, o meu, o nosso Rio, abençoado por Deus e bonito por natureza""","Helinho 107, Ricardo Góes, Claudio Filé, Naldo, Armandinho do Cavaco, FM, Nelson Amatuzzi, Grey, Fábio Portugal, Serginho Machado, Rodrigo Maia, Flavinho Segal, J.J. Santos e Junior Fionda",Igor Sorriso,2011
-0,Beija-Flor,"""São Luís, o poema encantado do Maranhão""","J. Velloso, Adilson China, Carlinhos do Detran, Samir Trindade, Serginho Aguiar, Jr Beija-Flor, Silvio Romai, Hugo Leal, Gilberto Oliveira, Ricardo Lucena, Thiago Alves e Romulo Presidente",Neguinho da Beija-Flor,2012
-1,Unidos da Tijuca,"""O dia em que toda a realeza desembarcou na avenida para coroar o rei Luiz do Sertão""","Cesinha, Jorge Calado, Josemar Manfredini, Silas Augusto e Vadinho",Bruno Ribas,2012
-2,Mangueira,"""Vou festejar! Sou Cacique, sou Mangueira""","Junior Fionda, Igor Leal, Lequinho e Paulinho Carvalho","Luizito, Zé Paulo Sierra, Ciganerey e Vadinho Freire(Beth Carvalho, Dudu Nobre, Jorge Aragão, Xande de Pilares e Sombrinha)",2012
-3,Vila Isabel,"""Você semba lá... Que eu sambo cá - O canto livre de Angola""","André Diniz, Arlindo Cruz, Artur das Ferragens, Evandro Bocão e Leonel",Tinga,2012
-4,Salgueiro,"""Cordel branco e encarnado""","Diego Tavares, Dílson Marimba, Domingos PS, Marcelo Motta, Ribeirinho e Tico do Gato","Quinho, Serginho do Porto e Leonardo Bessa",2012
-5,Imperatriz,"""Jorge, amado Jorge""","Alexandre D’Mendes, Cristovão Luiz, Jeferson Lima, Ribamar e Tuninho Professor",Dominguinhos do Estácio,2012
-6,Mocidade,"""Por ti, Portinari rompendo a tela, a realidade!""","Diego Nicolau, Gabriel Teixeira e Gustavo Soares",Luizinho Andanças,2012
-7,Porto da Pedra,"""Da Seiva Materna ao Equilíbrio da Vida""","Bento, Cici Maravilha, Denil, Fernando Macaco, Oscar Bessa, Tião Califórnia e Vadinho",Wander Pires,2012
-8,São Clemente,"""Uma Aventura Musical na Sapucaí!""","Flavinho Segal, FM, Grey, Guguinha, Marcos Antunes, Ricardo Góes, Serginho Machado e Vânia",Igor Sorriso,2012
-9,Grande Rio,"""Eu acredito em você. E você?""","Edispuma, Foca, Licinho Júnior e Marcelinho Santos",Wantuir,2012
-10,Portela,"""Bahia: E o povo na rua cantando é feito uma reza, um ritual...""","Luiz Carlos Máximo, Naldo, Toninho Nascimento e Wanderley Monteiro",Gilsinho,2012
-11,União da Ilha,"""De Londres ao Rio: Era uma vez...uma Ilha""","Alberto Varjão, Allan, Aloísio Villar, Cadinho, Carlinhos Fuzil, Eduardo, Fabiano Fernandes, Márcio André Filho, Marquinhos do Banjo e Roger Linhares",Ito Melodia,2012
-12,Renascer,"""O artista da alegria, dá o tom na folia""","Adriano Cesário, Cláudio Russo, Fábio Costa e Isaac",Rogerinho Renascer,2012
-0,Unidos da Tijuca,"Desceu num raio, é trovoada! O deus Thor pede passagem pra mostrar nessa viagem a Alemanha encantada","Dudu, Elson Ramires, Julio Alves e Totonho",Bruno Ribas,2013
-1,Salgueiro,Fama,"Ge Lopes, João Ferreira, Marcelo Motta e Thiago Daniel",QuinhoSerginho do PortoLeonardo Bessa(Xande de Pilares),2013
-2,Vila Isabel,"A Vila canta o Brasil celeiro do mundo - ""Água no Feijão que chegou mais um...""","André Diniz, Arlindo Cruz, Leonel, Martinho da Vila e Tunico da Vila",Tinga(Arlindo Cruz e Martinho da Vila),2013
-3,Beija-Flor,Amigo Fiel - Do Cavalo do Amanhecer ao Manga-larga Marchador,"Dilson Marimba, Gilberto Oliveira, J. Velloso, Marquinho Beija-Flor e Ribeirinho",Neguinho da Beija-Flor,2013
-4,Grande Rio,Amo o Rio e vou à luta: Ouro negro sem disputa… Contra a injustiça em defesa do Rio,"Arlindo Neto, Derê, Júnior Fragga, Mingau e Mingauzinho",Emerson Dias(Nêgo),2013
-5,Portela,Madureira... onde o meu coração se deixou levar,"André do Posto 7, Luiz Carlos Máximo, Toninho Nascimento e Wanderley Monteiro",Gilsinho,2013
-6,Mangueira,"Cuiabá, um paraíso no centro da América","Igor Leal, Jr. Fionda, Lequinho e Paulinho Carvalho","Luizito, Zé Paulo Sierra, Ciganerey e Agnaldo Amaral",2013
-7,União da Ilha,"Vinicius, no plural. Paixão, poesia e carnaval!","Eduardo Conti, Ginho, Jair Turra, Júnior, Professor Hugo e Vinícius do Cavaco",Ito Melodia,2013
-8,Mocidade,Eu vou de Mocidade com samba e Rock in Rio - Por um mundo melhor!,"Domingos PS, Gustavo Henrique, Jefinho, Jorginho Medeiros, Marquinho Indio e Moleque Silveira",Luizinho Andanças,2013
-9,Imperatriz,"Pará - O Muiraquitã do Brasil. Sob a nudez forte da verdade, o manto diáfano da fantasia.","Drummond, Me leva, Gil Branco, Maninho do Porto e Tião Pinheiro",Dominguinhos do EstácioWander Pires,2013
-10,São Clemente,Horário Nobre,"Nelson Amatuzzi, Victor Alves, Floriano do Carangueijo, Sacadura Cabral, Guguinha, Fabio Portugal e Gabrielzinho Poeta",Igor Sorriso,2013
-11,Inocentes,As Sete Confluências do Rio Han,"Billy, Dominguinhos, Ildo, J.J Santos, Juarez e Mará",Thiago BritoWantuir,2013
-0,Vila Isabel,Retratos de um Brasil plural,"Arlindo Cruz, Evandro Bocão, André Diniz, Professor Wladimir, Artur das Ferragens e Leonel",Gilsinho,2014
-1,Beija-Flor,O Astro iluminado da comunicação Brasileira,"Jr. Beija-Flor, Sidney de Pilares, Junior Trindade, Adilson Brandão, Zé Carlos, Diogo Rosa, Carlinhos Careca e Samir Trindade",Neguinho da Beija-Flor,2014
-2,Unidos da Tijuca,"Acelera, Tijuca","Caio Alves, Fadico, Gustavo Oliveira e Tinguinha",Tinga,2014
-3,Imperatriz,Arthur X - O Reino do Galinho de Ouro na Corte da Imperatriz,"Elymar Santos, Guga, Tião Pinheiro, Gil Branco e Me Leva",Wander Pires(Elymar Santos),2014
-4,Salgueiro,Gaia - A vida em nossas mãos,"Xande de Pilares, Dudu Botelho, Miudinho, Betinho de Pilares, Rodrigo Raposo e Jassa",QuinhoSerginho do PortoLeonardo Bessa(Xande de Pilares),2014
-5,Grande Rio,"Verdes olhos de Maysa sobre o mar, no caminho: Maricá","Deré, Robson Moratelli, Rafael Ribeiro, Hugo da Grande Rio e Toni Vietnã",Emerson Dias,2014
-6,Portela,"Um Rio, de Mar a Mar. Do Valongo à Glória de São Sebastião","Toninho Nascimento, Luís Carlos Máximo, Waguinho, Edson Alves e J.Amaral",Wantuir,2014
-7,Mangueira,A Festança Brasileira cai no samba da Mangueira,"Lequinho, Júnior Fionda, Paulinho Carvalho, Flavinho Horta e Igor Leal",Luizito,2014
-8,União da Ilha,"É Brinquedo, É Brincadeira. A Ilha vai levantar poeira!","Paulinho Poeta, Régis, Gabriel Fraga, Carlinhos Fuzileiro, Canindé e Flávio Pires",Ito Melodia,2014
-9,São Clemente,Favela,"Ricardo Góes, Serginho Machado, Naldo, Grey, Anderson Benson, FM e Flavinho Segal",Igor Sorriso,2014
-10,Mocidade,Pernambucópolis,"Dudu Nobre, Jefinho Rodrigues, Marquinho Índio, Jorginho Medeiros, Gabriel Teixeira e Diego Nicolau",Bruno Ribas(Dudu Nobre),2014
-11,Império da Tijuca,Batuk,"Márcio André, Vaguinho, Marcão Meu Rei, Alexandre Alegria, Rono Maia e Karine Santos",Pixulé,2014
-0,Unidos da Tijuca,Um conto marcado no tempo - O olhar suíço de Clóvis Bornay,"Josemar Manfredini, Fadico, Carlinhos Careca, Zé Luiz, Gustavinho Oliveira, Caio Alves, Rafael Tinguinha e Cosminho",Tinga,2015
-1,Salgueiro,"Do fundo do quintal, saberes e sabores na Sapucaí","Xande de Pilares, Jassa, Betinho de Pilares, Miudinho, Luiz Pião e W. Corrêa",Serginho do PortoLeonardo Bessa(Xande de Pilares),2015
-2,Portela,ImaginaRIO - 450 janeiros de uma cidade surreal,"Noca da Portela, Celso Lopes, Charlles André, Vinicius Ferreira e Xandy Azevedo",Wantuir(Wander Pires),2015
-3,União da Ilha,Beleza Pura?,"Djalma Falcão, Carlos Caetano, Gugu das Candongas, Beto Mascarenhas, Roger Linhares e Marco Moreno",Ito Melodia,2015
-4,Imperatriz,"Axé, Nkenda! Um ritual de liberdade ""E que a voz da liberdade seja sempre a nossa voz""","Marquinho Lessa, Adriano Ganso, Zé Catimba, Jorge do Finge e Aldir Senna",Nêgo,2015
-5,Grande Rio,A Grande Rio é do baralho,"Rafael Santos, Lucas Donato, Gabriel Sorriso, Leandro Canavarro e Rodrigo Moreira",Emerson Dias,2015
-6,Beija-Flor,Um griô conta a história: Um olhar sobre a África e o despontar da Guiné Equatorial. Caminhemos sobre a trilha de nossa felicidade,"J. Velloso, Samir Trindade, Jr Beija-Flor, Marquinhos Beija-Flor, Gilberto Oliveira, Elson Ramires, Dílson Marimba, Silvio Romai, Ribeirinho e Junior Trindade",Neguinho da Beija-Flor,2015
-7,Mangueira,"Agora chegou a vez vou cantar: Mulher de Mangueira, Mulher Brasileira em primeiro lugar","Renan Brandão, Cadu, Alemão do Cavaco, Paulinho Bandolim, Deivid Domênico e Almyr",Luizito(Alcione),2015
-8,Mocidade,"Se o Mundo fosse acabar, me diz o que faria se só lhe restasse um dia?","Ricardo Mendonça, Tio Bira, Anderson Viana e Lúcio Naval",Bruno Ribas,2015
-9,Vila Isabel,O Maestro Brasileiro está na Terra de Noel... A Partitura Azul e Branca da nossa Vila Isabel,"Carlinhos Petisco, Serginho 20, Machadinho, Paulinho Valença e Henrique Hoffman",Gilsinho,2015
-10,São Clemente,"A incrível história do homem que só tinha medo da Matinta Pereira, da Tocandira e da Onça Pé de Boi","Leozinho Nunes, Wiverson Machado, Diego Estrela, Ronni Costa, Hugo Bruno e Victor Alves",Igor Sorriso,2015
-11,Viradouro,"Nas veias do Brasil, é a Viradouro em um dia de graça!","Luiz Carlos da VilaAdaptação das canções ""Nas Veias do Brasil"" e ""Por um dia de graça"" feitas por Gusttavo Clarão",Zé Paulo Sierra,2015
-0,Beija-Flor,Mineirinho Genial! Nova Lima – Cidade Natal. Marquês de Sapucaí - O Poeta Imortal,"Marcelo Guimarães, Sidney de Pilares, Manolo, Jorginho Moreira, Kirraizinho e Diogo Rosa",Neguinho da Beija-Flor,2016
-1,Salgueiro,A Ópera dos Malandros,"Marcelo Motta, Fred Camacho, Guinga do Salgueiro, Getúlio Coelho, Ricardo Fernandes e Francisco Aquino",Serginho do PortoLeonardo Bessa(Xande de Pilares),2016
-2,Grande Rio,"Fui no Itororó beber água, não achei. Mas achei a bela Santos, e por ela me apaixonei...","Márcio das Camisas, Mariano Araújo, Competência, Kaká e Dinho Artigliri",Emerson Dias,2016
-3,Unidos da Tijuca,"Semeando sorriso, a Tijuca festeja o solo sagrado","Dudu Nobre, Zé Paulo Sierra, Claudio Mattos, Paulo Oliveira e Gusttavo Clarão",Tinga,2016
-4,Portela,"No voo da águia, uma viagem sem fim...","Samir Trindade, Wanderley Monteiro, Elson Ramires, Paulo Lopita 77, Dimenor e Edmar Jr.",WantuirGilsinho,2016
-5,Imperatriz,É o amor... Que mexe com a minha cabeça e me deixa assim... Do sonho de um caipira nascem os filhos do Brasil,"Zé Katimba, Adriano Ganso, Jorge do Finge, Moisés Santiago e Aldir Senna",Marquinho Art'Samba(Lucy Alves e Zezé Di Camargo & Luciano),2016
-6,Mocidade,"O Brasil de La Mancha: Sou Miguel, Sou Cervantes, Sou Quixote Cavaleiro, Pixote Brasileiro","Jefinho Rodrigues, Marquinho Índio, Jorginho Medeiros, Jonas Marques, Domingos PS, Paulo Ferraz, Lauro Silva, Lero Pires e Wander Pires",Bruno Ribas,2016
-7,São Clemente,Mais de Mil Palhaços no Salão,"Rodrigo Índio, Alexandre Araujo, Fabio Rossi, Vinicius Nagem, Amado Osman, Armando Daltro, Rodrigo Telles e Davi Dias",Leozinho Nunes,2016
-8,União da Ilha,Olímpico por Natureza: Todo Mundo se Encontra no Rio,"Capitão Barreto, Miguel, Marquinhus do Banjo, Roger Linhares, Paulo Guimarães, Dr. Robson, Jamiro Faria e Gugu das Cadongas",Ito Melodia,2016
-9,Mangueira,Maria Bethânia: A Menina dos Olhos de Oyá,"Alemão do Cavaco, Almyr, Cadu, Lacyr D Mangueira, Paulinho Bandolim e Renan Brandão",Ciganerey(Maria Bethânia),2016
-10,Vila Isabel,"Memórias do ""Pai Arraia"" - Um sonho pernambucano, Um legado brasileiro","Martinho da Vila, André Diniz, Mart'nália, Arlindo Cruz e Leonel","Igor Sorriso(Martinho da Vila, Mart'nália e Arlindo Cruz)",2016
-11,Estácio de Sá,Salve Jorge! O Guerreiro na Fé,"Julio Alves, Edson Marinho, Adilson Alves, Jorge Xavier, Andre Felix, Jorge Babu e Salviano",Leandro SantosDominguinhos do EstácioWander Pires,2016
-0,Mangueira,Só com a ajuda do Santo,"Lequinho, Júnior Fionda, Flavinho Horta, Gabriel Martins, Gabriel Machado e Igor Leal",Ciganerey(Milton Gonçalves),2017
-1,Unidos da Tijuca,"Música na alma, inspiração de uma nação","Totonho, Fadico, Josemar Manfredini, Dudu e Sergio Alan",Tinga,2017
-2,Portela,Quem Nunca Sentiu o Corpo Arrepiar ao Ver Esse Rio Passar?,"Samir Trindade, Elson Ramires, Neizinho do Cavaco, Paulo Lopita 77, Beto Rocha, Girão e J.Sales",Gilsinho,2017
-3,Salgueiro,A Divina Comédia do Carnaval,"Marcelo Motta, Fred Camacho, Guinga do Salgueiro, Getúlio Coelho, Ricardo Neves e Francisco Aquino",Serginho do PortoLeonardo Bessa(Xande de Pilares),2017
-4,Beija-Flor,"Iracema, A Virgem dos Lábios de Mel","Claudemir, Maurição, Ronaldo Barcellos, Bruno Ribas, Fábio Alemão, Wilson Tatá, Alan Vinicius e Betinho Santos",Neguinho da Beija-Flor,2017
-5,Imperatriz,"Xingu, O Clamor Que Vem da Floresta","Moisés Santiago, Adriano Ganso, Jorge do Finge e Aldir Senna",Arthur Franco,2017
-6,Grande Rio,Ivete do Rio ao Rio!,"Paulo Onça, Kaká, Dinho Artiligri, Rubens Gordinho, Alan Vasconcelos e Marco Moreno",Emerson Dias(Ivete Sangalo),2017
-7,Vila Isabel,O Som da Cor,"Arthur das Ferragens, Gustavinho Oliveira, Danilo Garcia, Braguinha, Rafael Zimmermann e Júlio Alves",Igor Sorriso,2017
-8,São Clemente,Onisuáquimalipanse,"Toninho Nascimento, Luiz Carlos Máximo, Anderson Paz, Gustavo Albuquerque, Camilo Jorge e Marcelão da Ilha",Leozinho Nunes,2017
-9,Mocidade,"As Mil e Uma Noites de uma ""Mocidade"" pra lá de Marrakech","Altay Veloso, Paulo César Feital, Zé Glória, J. Giovanni, Dadinho, Zé Paulo Sierra, Gustavo Soares, Fábio Borges, André Baiacu e Thiago Meiners",Wander Pires,2017
-10,União da Ilha,Nzara Ndembu - Glória ao senhor tempo,"Marinho, Lobo Junior, Felipe Mussili, Beto Mascarenhas, Dr. Robson, Rony Sena, Marcelão da Ilha, MM e Gusttavo Clarão",Ito Melodia,2017
-11,Paraíso do Tuiuti,Carnavaleidoscópio Tropifágico,"Carlinhos Chirrinha, Rafael Bernini, Luis Caxias, Wellington Onirê, Fernandão e Alexandre Cabeça",Wantuir,2017
-0,Mocidade,Namastê: A estrela que habita em mim saúda a que existe em você,"Altay Veloso, Paulo César Feital, Zé Glória, J. Giovanni, Denilson do Rozário, Carlinhos da Chácara, Léo Peres e Alex Saraiça",Wander Pires,2018
-1,Portela,De repente de lá pra cá e dirrepente daqui pra lá,"Samir Trindade, Elson Ramires, Neizinho do Cavaco, Paulo Lopita 77, Beto Rocha, Girão e J.Sales",Gilsinho,2018
-2,Salgueiro,Senhoras do Ventre do Mundo,"Xande de Pilares, Demá Chagas, Dudu Botelho, Renato Galante, Jassa, Leonardo Gallo, Betinho de Pilares, Vanderley Sena, Ralfe Ribeiro e W Corrêa",Leonardo BessaHudson LuizTuninho Junior(Xande de Pilares e Zezé Motta),2018
-3,Mangueira,"Com Dinheiro ou Sem Dinheiro, Eu Brinco!","Lequinho, Junior Fionda, Alemão do Cavaco, Gabriel Machado, Wagner Santos, Gabriel Martins e Igor Leal",Ciganerey(Péricles),2018
-4,Grande Rio,Vai Para o Trono ou Não Vai?,"Edispuma, Licinho Jr, JL Escafura, Marcelinho Santos, Gylnei Bueno e Hélio Oliveira",Emerson Dias(Stepan Nercessian),2018
-5,Beija-Flor,Monstro é aquele que não sabe amar: Os filhos abandonados da pátria que os pariu,"Di Menor BF, Kirazinho, Diogo Rosa, Julio Assis, Bakaninha, Diego Oliveira, JJ Santos, Manolo e Rafael Prates",Neguinho da Beija-Flor,2018
-6,Imperatriz,Uma Noite Real no Museu Nacional,"Jorge Arthur, Maninho do Ponto, Julio Alves, Marcio Pessi e Piu das Casinhas",Arthur Franco,2018
-7,União da Ilha,Brasil Bom de Boca,"Ginho, Marcelão da Ilha, Flavinho Queiroga, Júnior, Thiago Caldas, John Bahiense, André de Souza e Prof. Hugo",Ito Melodia,2018
-8,São Clemente,Academicamente Popular,"Gustavo Clarão, Ricardo Góes, Flavinho Segal, Serginho Machado, Naldo, Fabiano Paiva, Igor Marinho e Orlando Ambrósio",Leozinho Nunes,2018
-9,Vila Isabel,Corra Que o Futuro Vem Aí,"Evandro Bocão, André Diniz, Pinguim, JP, Marcelo Valência, Julio Alves e Deco Augusto",Igor Sorriso,2018
-10,Unidos da Tijuca,"Um Coração Urbano: Miguel, o arcanjo das artes, saúda o povo e pede passagem","Totonho, Mart'nália, Dudu, Marcelinho Moreira e Fadico",Tinga,2018
-11,Paraíso do Tuiuti,"Meu Deus, Meu Deus, Está Extinta a Escravidão?","Cláudio Russo, Moacyr Luz, Jurandir, Zezé e Aníbal",Nino do MilênioCelsinho Mody(Grazzi Brasil),2018
-12,Império Serrano,O Império do Samba na Rota da China,"Tico do Gato, Chupeta, Henrique Hoffman, Lucas Donato, Arlindinho, Andinho Samara, Victor Rangel, Jefferson Oliveira, Ronaldo Nunes e André do Posto 7",Marquinho Art'Samba,2018
-0,Beija-Flor,"Quem não viu, vai ver... As Fábulas do Beija-Flor","Di Menor BF, Júlio Assis, Kiraizinho, Diego Oliveira, Fabinho Ferreira, Diogo Rosa, Dr. Rogério, Carlinho Ousadia, Márcio França, Kaká Kalmão, Jorge Aila e Serginho Aguiar",Neguinho da Beija-Flor,2019
-1,Paraíso do Tuiuti,O Salvador da Pátria,"Cláudio Russo, Moacyr Luz, Zezé, Jurandir e Aníbal",Celsinho ModyGrazzi Brasil,2019
-2,Salgueiro,Xangô,"Demá Chagas, Marcelo Motta, Renato Galante, Fred Camacho, Leonnardo Gallo, Getúlio Coelho, Vanderlei Sena, Francisco Aquino, Guinga do Salgueiro e Ricardo Fernandes",Emerson Dias,2019
-3,Portela,"Na Madureira Moderníssima, hei sempre de ouvir cantar uma Sabiá","Jorge do Batuke, Valtinho Botafogo, Rogério Lobo, Beto Aquino, Claudinho Oliveira, José Carlos, Zé Miranda, D'Souza e Araguaci",Gilsinho,2019
-4,Mangueira,História para ninar gente grande,"Deivid Domênico, Tomaz Miranda, Mama, Marcio Bola, Ronie Oliveira e Danilo Firmino",Marquinho Art'Samba,2019
-5,Mocidade,Eu sou o Tempo. Tempo é vida,"Jefinho Rodrigues, Diego Nicolau, Marquinho Índio, Jonas Marques, Richard Valença, Roni Pit Stop, Orlando Ambrosio e Cabeça do Ajax",Wander Pires(Elza Soares),2019
-6,Unidos da Tijuca,"Cada macaco no seu galho. Ó, meu pai, me dê o pão que eu não morro de fome!","Márcio André, Júlio Alves, Daniel Katar, Diego Moura, Dr. Jairo, Nego, Elias Lopes e Junior Trindade",Wantuir(Pedro Paulo Japhet Gonçalves),2019
-7,Imperatriz,Me dá um dinheiro aí!,"Elymar Santos, Maninho do Ponto, Júlio Alves, Dudu Miler, Marcio Pessi e Jorge Arthur",Arthur Franco,2019
-8,Vila Isabel,"Em nome do pai, do filho e dos santos, a Vila canta a cidade de Pedro","Evandro Bocão, André Diniz, Professor Wladimir, Marcelo Valência, Júlio Alves, Deco Augusto e Ivan Ribeiro",Tinga(Camila Morgado),2019
-9,União da Ilha,A peleja poética entre Rachel e Alencar no avarandado do céu,"Myngal, Marcelão da Ilha, Roger Linhares, Marinho, Cap. Barreto, Eli Doutor, Fernando Nicola e Marco Moreno",Ito Melodia,2019
-10,São Clemente,E o Samba SambouReedição do carnaval de 1990,"Helinho 107, Mais Velho, Nino e Chocolate",Leozinho NunesBruno RibasLarissa Luz,2019
-11,Grande Rio,Quem Nunca...? Que atire a primeira pedra,"Moacyr Luz, Cláudio Russo, André Diniz, G. Martins, Licinho Júnior e Elias Bililico",Evandro Malandro,2019
-12,Império Serrano,"O que é, o que é?","Gonzaguinha(A escola utiliza a canção ""O que é, o que é?"" como seu samba-enredo)",Silas LeleuAnderson Paz,2019
-13,Viradouro,Viraviradouro!,"Renan Gêmeo, Bebeto Maneiro, Thiago Carvalhal, Ludson Areia, Júnior Filhão, Raphael Richaid, Ricardo Neves, Carlinhos Viradouro e Rodrigo Gêmeo",Zé Paulo Sierra,2019
-0,Mangueira,A Verdade Vos Fará Livre,Manu da Cuíca e Luiz Carlos Máximo,Marquinho Art'Samba,2020
-1,Viradouro,Viradouro de Alma Lavada,"Cláudio Russo, Paulo César Feital, Diego Nicolau, Júlio Alves, Dadinho, Rildo Seixas, Manolo, Anderson Lemos e Carlinhos Fionda",Zé Paulo Sierra,2020
-2,Vila Isabel,Gigante pela própria natureza: Jaçanã e um Índio chamado Brasil,"Cláudio Russo, Chico Alves e Julio Alves",Tinga,2020
-3,Portela,"Guajupiá, terra sem males","Valtinho Botafogo, Rogério Lobo, José Carlos, Zé Miranda, Beto Aquino, Pecê Ribeiro, D’Sousa e Araguaci",Gilsinho,2020
-4,Salgueiro,O Rei Negro do Picadeiro,"Marcelo Motta, Fred Camacho, Guinga do Salguueiro, Getúlio Coelho, Ricardo Neves e Francisco Aquino",Emerson DiasQuinho,2020
-5,Mocidade,Elza Deusa Soares,"Sandra de Sá, Igor Vianna, Dr. Márcio, Solano Santos, Renan Diniz, Jefferson Oliveira, Professor Laranjo e Telmo Augusto",Wander Pires,2020
-6,Unidos da Tijuca,Onde Moram os Sonhos,"Dudu Nobre, Totonho, André Diniz, Fadico e Jorge Aragão",Wantuir,2020
-7,Paraíso do Tuiuti,O Santo e o Rei – Encantarias de Sebastião,"Moacyr Luz, Cláudio Russo, Aníbal, Píer, Júlio Alves e Alessandro Falcão",Celsinho ModyNino do Milênio,2020
-8,Grande Rio,Tata Londirá: O canto do caboclo no Quilombo de Caxias,"Deré, Robson Moratelli, Rafael Ribeiro e Toni Vietnã",Evandro Malandro,2020
-9,União da Ilha,"Nas encruzilhadas da vida, entre becos, ruas e vielas, a sorte está lançada: Salve-se quem puder!","Marcio André, Márcio André Filho, Daniel Katar, Júlio Alves, Marinho e Rafael Prates",Ito Melodia,2020
-10,Beija-Flor,Se essa rua fosse minha,"Magal Clareou, Diogo Rosa, Julio Assis, Jean Costa, Dario Jr, Thiago Soares e Junior Fionda",Neguinho da Beija-Flor,2020
-11,São Clemente,O Conto do Vigário,"Marcelo Adnet, André Carvalho, Pedro Machado, Gustavo Albuquerque, Gabriel Machado, Camilo Jorge, Luiz Carlos França e Raphael Candela",Leozinho NunesBruno RibasGrazzi Brasil,2020
-12,Estácio de Sa,Pedra,"Edson Marinho, Jorge Xavier, Júlio Alves, Jailton Russo, Ivan Ribeiro, Dudu Miller, Alexandre Moraes e Hugo Bruno",Serginho do Porto,2020
-0,Viradouro,Não há tristeza que possa suportar tanta alegria,"Felipe Filósofo, Fabio Borges, Ademir Ribeiro, Devid Gonçalves, Lucas Marques e Porkinho",Zé Paulo Sierra,2022
-1,Grande Rio,"Fala, Majeté! Sete Chaves de Exu","Gustavo Clarão, Arlindinho Cruz, Júnior Fragga, Claudio Mattos, Thiago Meiners e Igor Leal",Evandro Malandro,2022
-2,Mocidade,Batuque ao Caçador,"Carlinhos Brown, Richard Valença, Orlando Ambrosio, Gigi da Estiva, Nattan Lopes, JJ Santos, Cabeça do Ajax e Diego Nicolau",Wander Pires,2022
-3,Beija-Flor,Empretecer o Pensamento é Ouvir a Voz da Beija-Flor,"J. Velloso, Júnior Fionda, Léo do Piso, Beto Nega, Júlio Assis, Manolo e Diego Rosa",Neguinho da Beija-Flor,2022
-4,Salgueiro,Resistência,"Demá Chagas, Pedrinho da Flor, Leonardo Gallo, Zeca do Cavaco, Cláudio Gladiador e Renato Galante",Emerson DiasQuinho,2022
-5,Mangueira,"Angenor, José e Laurindo","Moacyr Luz, Pedro Terra, Bruno Souza e Leandro Almeida",Marquinho Art'Samba,2022
-6,Portela,Igi Osè Baobá,"Edmar Jr., André do Posto 7, Rafael Gigante, Paulo Borges, Vinicius Ferreira, Wanderley Monteiro e Bira",Gilsinho,2022
-7,Vila Isabel,"Canta, Canta, Minha Gente! A Vila é de Martinho!","Evandro Bocão, André Diniz, Professor Wladimir, Dudu Nobre, Leno Dias, Mauro Speranza, Marcelo Valência e Wanderson Pinguim",Tinga,2022
-8,Unidos da Tijuca,Waranã – A Reexistência Vermelha,"Anderson Benson, Eduardo Medrado e Kleber Rodrigues",WantuirWic Tavares,2022
-9,São Clemente,Minha Vida é Uma Peça,"Cláudio Filé, James Bernardes, Arlindinho Neto, Braguinha, Colaço, Marcus Lopes, Caio Tinguinha, Danilo Gustavinho, Kaike Vinícius e Igor Leal",Leozinho NunesManinho,2022
-10,Paraíso do Tuiuti,Ka Ríba Tí Ye - Que Nossos Caminhos Se Abram,"Cláudio Russo, Moacyr Luz, Júlio Alves, Alessandro Falcão, W. Correa, Chico Alves e Pier",Celsinho ModyCarlos Junior(Grazzi Brasil),2022
-11,Imperatriz,"Meninos, Eu Vivi... Onde canta o Sabiá, onde cantam Dalva e Lamartine",Gabriel Melo,Arthur FrancoBruno Ribas,2022
-0,Grande Rio,"Ô Zeca, o pagode onde é que é? Andei descalço, carroça e trem, procurando por Xerém, pra te ver, pra te abraçar, pra beber e batucar",,Evandro Malandro,2023
-1,Beija-Flor,Brava Gente! O Grito dos Excluídos no Bicentenário da Independência,,Neguinho da Beija-Flor,2023
-2,Viradouro,Rosa Maria Egipcíaca,,Zé Paulo Sierra,2023
-3,Vila Isabel,,,Tinga,2023
-4,Portela,O Azul que vem do Infinito,,Gilsinho,2023
-5,Salgueiro,Delírios de um Paraíso Vermelho,,Emerson DiasQuinho,2023
-6,Mangueira,As Áfricas que a Bahia canta,,Marquinho Art'SambaDowglas Diniz,2023
-7,Mocidade,,,Nino do Milênio,2023
-8,Unidos da Tijuca,,,WantuirWic Tavares,2023
-9,Imperatriz,O aperreio do cabra que o excomungado tratou com má-querença e o santíssimo não deu guarida,,Pitty de Menezes,2023
-10,Paraíso do Tuiuti,Mogangueiro da Cara Preta,,Wander Pires,2023
-11,Império Serrano,Lugares de Arlindo,,Ito Melodia,2023
+escola,enredo,autor,interpete,ano
+Salgueiro,"""Dona Beija, Feiticeira do Araxá""",Aurinho da Ilha,,1968
+Unidos de Lucas,"""Sublime Pergaminho""","Carlinhos Madrugada, Zeca Melodia e Nílton Russo",Abílio Martins,1968
+Mocidade,"""Viagem Pitoresca Através do Brasil""",Da Roça e Djalma,,1968
+Império Serrano,"""Pernambuco, o Leão do Norte""",Silas de Oliveira,Damasceno,1968
+Portela,"""Tronco do Ipê""",Cabana,,1968
+Mangueira,"""Samba, Festa de um Povo""","Darci, Hélio Turco, Luiz, Batista e Dico",Darci,1968
+Vila Isabel,"""Quatro Séculos de Modas e Costumes""",Martinho da Vila,Martinho da Vila,1968
+Ritmos das escolas,Ritmos das escolas,Ritmos das escolas,Ritmos das escolas,1968
+Mangueira,"""Samba, Festa de um Povo""","Darci, Hélio Turco, Luiz, Batista e Dico",Cartola,1968
+Estácio,"""Visita ao Museu Imperial""",Wanderlei e Jorge Canário,Jorge Cabo,1968
+Império Serrano,"""Pernambuco, o Leão do Norte""",Silas de Oliveira,,1968
+Independentes de Cordovil,"""Aspecto da Vida Carioca no Século XVIII""",Alexandre e Ivan,Lucio Martins,1968
+Vila Isabel,"""Quatro Séculos de Modas e Costumes""",Martinho da Vila,Martinho da Vila,1968
+Mocidade,"""Viagem Pitoresca Através do Brasil""",Da Roça e Djalma,,1968
+salgueiro,"""Dona Beija, Feiticeira do Araxá""",Aurinho da Ilha,,1968
+Império da Tijuca,"""Homenagem a Portinari""",Ailton Furtado e Mario Pereira,Marinho da Muda,1968
+Unidos de Lucas,"""Sublime Pergaminho""","Carlinhos Madrugada, Zeca Melodia e Nílton Russo",Abílio Martins,1968
+Portela,"""Tronco do Ipê""",Cabana,,1968
+Império Serrano,"""Heróis da Liberdade""","Silas de Oliveira, Mano Décio da Viola e Manoel Ferreira",,1969
+Mocidade,"""Vida e Glória de Francisco Adolfo de Varnhagen""",Claudino Costa,,1969
+Estácio,"""Gabriela, Cravo e Canela""","Sidney da Conceição, Velha e Geninho",,1969
+Portela,"""Treze Naus""",Ary do Cavaco,Silvinho do Pandeiro,1969
+Ritmos da escolas,Ritmos da escolas,Ritmos da escolas,Ritmos da escolas,1969
+Mangueira,"""Mercadores e suas Tradições""","Darcy da Mangueira, Hélio Turco e Jurandir da Mangueira",,1969
+Unidos de Lucas,"""Rapsódia Folclórica""","Tolito, N. Russo e Pechincha",,1969
+Em Cima da Hora,"""Ouro Escravo""",Normi de Freitas e Jair Santos,,1969
+Imperatriz,"""Brasil, Flor Amorosa de Três Raças""",Mathias de Freitas e Carlinhos Sideral,,1969
+Vila Isabel,"""Yayá do Cais Dourado""",Martinho da Vila e Rodolpho,,1969
+Mangueira,"""Um Cântico à Natureza""","Aylton, Dilmo e Ney",Darcy,1970
+Mocidade,"""Meu Pé de Laranja Lima""",Arsênio e Gibi,Tôco,1970
+Vila Isabel,"""Glórias Gaúchas""",Martinho da Vila,Paulinho da Vila,1970
+Império Serrano,"""Arte em Tom Maior""","Aidno, Jorginho e Nino",Coro da Escola,1970
+Jacarezinho,"""O Fabuloso Mundo do Circo""",Marcos e Sarabanda,,1970
+Portela,"""Lendas e Mistérios da Amazônia""","Catoni, Jabolô e Waltenir",Silvinho do Pandeiro,1970
+Imperatriz,"""Oropa, França e Bahia""",Carlinhos Sideral e Mathias de Freitas,,1970
+Salgueiro,"""Praça Onze, Carioca da Gema""","Duduca, Miro, Omildo e Silvão",,1970
+Santa Cruz,"""Bravura, Amor e Beleza da Mulher Brasileira""",Fausto e Paulo,,1970
+Unidos de São Carlos,"""Terra de Caruaru""",Corvina e Sidney da Conceição,,1970
+Portela,"""Lendas e Mistérios da Amazônia""","Catoni, Jabolô e Waltenir",Coro da Escola,1970
+Mangueira,"""Um Cântico à Natureza""","Aylton, Dilmo e Ney",,1970
+Santa Cruz,"""Bravura, Amor e Beleza da Mulher Brasileira""",Fausto e Paulo,,1970
+Unidos de São Lucas,"""Terra de Caruaru""",Corvina e Sidney da Conceição,,1970
+Jacarezinho,"""O Fabuloso Mundo do Circo""",Marcos e Sarabanda,,1970
+Salgueiro,"""Praça Onze, Carioca da Gema""","Duduca, Miro, Omildo e Silvão",,1970
+Imperatriz,"""Oropa, França e Bahia""",Carlinhos Sideral e Mathias de Freitas,,1970
+Império Serrano,"""Arte em Tom Maior""","Aidno, Jorginho e Nino",,1970
+Vila Isabel,"""Glórias Gaúchas""",Martinho da Vila,Antonio Grande,1970
+Ritmos da escolas,Ritmos da escolas,Ritmos da escolas,Ritmos da escolas,1970
+Mangueira,Os Modernos Bandeirantes,"""Darcy da Mangueira, Hélio Turco e Jurandir",,1971
+Vila Isabel,"""Ouro Mascavo""","Arroz, Djalma e Jonas",,1971
+Mocidade,"""Rapsódia de Saudade""",Tôco,,1971
+Imperatriz,"""Barra de Ouro, Barra de Rio, Barra de Saia""",Niltinho Tristeza e Zé Catimba,,1971
+Império Serrano,"""Nordeste, seu Povo, seu Canto e sua Glória""","Heitor Achiles, Maneco e Wilson Diabo da Cuíca",,1971
+Salgueiro,"""Festa Para um Rei Negro""",Zuzuca,,1971
+Império da Tijuca,"""Misticismo da África ao Brasil""","João Galvão, Mario Pereira e Wilmar Costa",,1971
+Unidos de Padre Miguel,"""Samba do Crioulo Doido""",Duduca da Aliança e Nelson Oliveira,,1971
+Unidos de São Carlos,"""Brasil Turístico""","Darcy do Nascimento, Oliviel e Nilo Mendes",,1971
+Portela,"""Lapa em Três Tempos""",Ary do Cavaco e Rubens,,1971
+Salgueiro,"""Festa para um Rei Negro""",Zuzuca,Coro da Escola,1971
+Vila Isabel,"""Ouro Mascavo""","Arroz, Djalma e Jonas",Paulinho da Vila,1971
+Mocidade,"""Rapsódia de Saudade""",Tôco,Tôco,1971
+Imperatriz,"""Barra de Ouro, Barra de Rio, Barra de Saia""",Niltinho Tristeza e Zé Catimba,Niltinho Tristeza,1971
+Império Serrano,"""Nordeste, seu Povo, seu Canto e sua Glória""","Heitor Achiles, Maneco e Wilson Diabo da Cuíca",Damasceno,1971
+Mangueira,"""Modernos Bandeirantes""","Darcy da Mangueira, Hélio Turco e Jurandir",Darcy da Mangueira,1971
+Império da Tijuca,"""Misticismo da África ao Brasil""","João Galvão, Mario Pereira e Wilmar Costa",Marinho da Muda,1971
+Unidos de Padre Miguel,"""Samba do Crioulo Doido""",Duduca da Aliança e Nelson Oliveira,Ivan,1971
+Unidos de São Carlos,"""Brasil Turístico""","Darcy do Nascimento, Oliviel e Nilo Mendes",Dominguinhos do Estácio,1971
+Portela,"""Lapa em Três Tempos""",Ary do Cavaco e Rubens,Silvinho da Portela,1971
+Portela,"""Ilu-Ayê, Terra da Vida""",Cabana e Norival Reis,Silvinho da Portela,1972
+Imperatriz,"""Martim Cererê""",Gibi e Zé Catimba,Coro da escola,1972
+Unidos de Lucas,"""Brasil das 200 Milhas""","Capixaba, Joãozinho, Jorginho de Caxias e Pedro Paulo",Pedro Paulo,1972
+Unidos de Padre Miguel,"""Madureira, seu Samba, sua História""",Duduca da Aliança,Ivan,1972
+Império da Tijuca,"""O Samba no Morro e na Sociedade""",Djalma do Cavaco e Vicente,Wilmar Costa,1972
+Vila Isabel,"""Onde o Brasil Aprendeu a Liberdade""",Martinho da Vila,Paulinho,1972
+Salgueiro,"""Mangueira, minha Querida Madrinha (Tengo Tengo)""",Zuzuca do Salgueiro,Zuzuca do Salgueiro,1972
+Império Serrano,"""Alô, Alô, Taí, Carmem Miranda""","Heitor Rocha, Maneco e Wilson Diabo da Cuíca",Damasceno,1972
+Unidos de São Carlos,"""Rio Grande do Sul na Festa do Preto Forro""",Dario Marciano e Nilo Mendes,Dario Marciano,1972
+Mocidade,"""Rainha Mestiça em Tempo de Lundu""",Jurandir Melo e Serafim Adriano,Jurandir Melo,1972
+Em Cima da Hora,"""Bahia, Berço do Brasil""",Baianinho,Baianinho,1972
+Mangueira,"""Rio Carnaval dos Carnavais""","Moacir, Nilton Russo e Padeirinho",Jorge Nery,1972
+Portela,"""Pasárgada, Amigo do Rei""",David Corrêa,David Corrêa,1973
+Em Cima da Hora,"""O Saber Poético da Literatura de Cordel""",Baianinho,Ney Vianna,1973
+Jacarezinho,"""Ameno Resedá""","Nonô, Sereno, Zé Dedão e Ala dos Compositores",Ivete Garcia,1973
+Imperatriz,"""ABC do Carnaval à Maneira da Literatura de Cordel""","Nelson Lima, Caxambu e Ala de Compositores",Dom Barbosa,1973
+Império Serrano,"""Viagem Encantada, Pindorama Adentro""",Wilson Diabo e Malaquias,Graciete,1973
+Mangueira,"""Lendas do Abaeté""","Jajá, Preto Rico e Manoel",Genaro da Bahia,1973
+Vila Isabel,"""Zodíaco no Samba""",Paulo Brasão e Irany S. Silva,Antonio Grande,1973
+Mocidade,"""Rio, Zé Pereira""","Tião da Roça, Edu e Ala de Compositores",Tião da Roça,1973
+Tupy de Brás de Pina,"""Assim Dança o Brasil""",Sérgio Ignácio e Ala de Compositores,Mazola,1973
+Salgueiro,"""Eneida, Amor e Fantasia""",Geraldo Babão,Marron,1973
+Portela,"""O Mundo Melhor de Pixinguinha (Pizindim)""","Velha, Jair Amorim e Evaldo Gouveia",Silvinho da Portela,1974
+Beija-Flor,"""Brasil Ano 2000""","Walter de Oliveira, João Rosa e Ala dos Compositores",Coro da Escola,1974
+Unidos de São Carlos,"""Heroínas do Romance Brasileiro""",Djalma das Mercês e Maneca,Delmo,1974
+Imperatriz,"""Requiém por um Sambista - Silas de Oliveira""","Cosme, Damião e Guga",Wilson Corrêa,1974
+Império Serrano,"""Dona Santa, Rainha do Maracatu""","Wilson Diabo, Malaquias e Carlinhos",Abílio Martins,1974
+Mangueira,"""Mangueira em Tempo de Folclore""","Jajá, Preto Rico e Manoel",Beth Carvalho,1974
+Mocidade,"""A Festa do Divino""","Tatu, Nezinho e Campo",Ney Vianna,1974
+Vila Isabel,"""Aruana-Açu""",Paulinho da Vila e Rodolpho,Paulinho da Vila,1974
+Em Cima da Hora,"""A Festa dos Deuses Afro-Brasileiros""",Baianinho,As Gatas,1974
+Salgueiro,"""Rei de França na Ilha da Assombração""",Zé Di e Malandro,Laíla,1974
+Portela,"""Macunaíma""",David Corrêa e Norival Reis,Genaro Soalheiro,1975
+Mocidade,"""O Mundo Fantástico do Uirapuru""","Tatu, Nezinho e Campo Grande",Ney Vianna,1975
+Vila Isabel,"""Quatro Séculos de Paixão""",Tião Graúna e Arroz,Zé Carlos,1975
+União da Ilha,"""Nos Confins de Vila Monte""",Cezão,Conjunto TB Samba,1975
+Beija-Flor,"""O Grande Decênio""",Bira Quininho,Bira Quininho,1975
+Império Serrano,"""Záquia-Jorge, a Vedete do Subúrbio, Estrela de Madureira""",Avarese,Coro da Escola,1975
+Mangueira,"""Imagens Poéticas de Jorge de Lima""","Tolito, Mozart e Delson",Sobrinho,1975
+Unidos de São Carlos,"""A Festa do Círio de Nazaré""","Aderbal Moreira, Dario Marciano e Nilo Esmera Mendes",Conjunto Nosso Samba,1975
+Imperatriz,"""A Morte da Porta-Estandarte""","Walter da Imperatriz, Nelson Lima, Caxambu e Denir",Jorge Goulart,1975
+Unidos de Lucas,"""Cidades Feitas de Memórias""","Baianinho, Ladyr Goulart e Laci",Ledi Goulart,1975
+Em Cima da Hora,"""Personagens Marcantes dos Carnavais""",Cigarra,Valdir Marujo,1975
+Salgueiro,"""O Segredo das Minas do Rei Salomão""","Dauro, Zé Pinto, Nininha Rossi e Mário Pedra",Laíla,1975
+Mangueira,"""No Reino da Mãe do Ouro""",Tolito e Rubem da Mangueira,Rubem da Mangueira,1976
+Mocidade,"""Mãe Menininha do Gantois""",Tôco e Djalma Crill,Ney Vianna,1976
+Imperatriz,"""Por Mares Nunca Dantes Navegados""","Gigi, Sereno e Guga",Jeremias Ferraz,1976
+Tupy de Brás de Pina,"""Riquezas Áureas de Nossa Bandeira""",Caciça,Celso Landrini,1976
+União da Ilha,"""Poemas de Máscaras e Sonhos""","Da Vala, L. Barbicha, Wilson Jangada, Dito e Mestrinho",Aroldo Melodia,1976
+Lins Imperial,"""Folia de Reis""",Agnelo Campos e Efe Alves,Abílio Martins,1976
+Portela,"""O Homem do Pacoval""","Noca da Portela, Colombo e Edir",Silvinho do Pandeiro,1976
+Império Serrano,"""Lenda das Sereias - Rainha do Mar""","Vicente Mattos, Dinoel Sampaio e Arlindo Velloso",Sobrinho,1976
+Beija-Flor,"""Sonhar com Rei dá Leão""",Neguinho da Beija-Flor,Neguinho da Beija-Flor,1976
+Vila Isabel,"""Invenção de Orfeu""","Rodolpho, Paulo Brazão e Irani",Barbinha,1976
+Unidos de São Carlos,"""Arte Negra na Legendária Bahia""","Caruso, Caramba e Dominguinhos do Estácio",Dominguinhos do Estácio,1976
+Em Cima da Hora,"""Os Sertões""",Edeor de Paula,Nando,1976
+Unidos de Lucas,"""Mar Baiano em Noite de Gala""","Carlão Elegante, Pedro Paulo e Joãozinho",Carlão Elegante,1976
+Salgueiro,"""Valongo""",Djalma Sabiá,Dinalva,1976
+Beija-Flor,"""Vovó e o Rei da Saturnália na Corte Egipciana""",Savinho da Beija-Flor e Luciano da Beija-Flor,Nonô,1977
+Salgueiro,"""Do Cauim ao Efó, com Moça Branca, Branquinha""",Geraldo Babão e Renato de Verdade,Ernesto Martins,1977
+Imperatriz,"""Viagem Fantástica às Terras de Ibirapitanga""","Walter da Imperatriz, Carlinhos Madrugada e Nelson Lima",Abílio Martins,1977
+União da Ilha,"""Domingo""","Waldyr da Vala, Aurinho da Ilha, Ione do Nascimento e Adhemar de A. Vinhaes",Aroldo Melodia,1977
+Império da Tijuca,"""O Mundo de Barro do Mestre Vitalino""","Biel Reza Forte, Adilson da Viola e Chipolechi",Adilson da Viola,1977
+Portela,"""Festa da Aclamação""","Catoni, Dedé da Portela, Waltenir e Jabolô",Silvinho da Portela,1977
+Mangueira,"""Parapanã, o Segredo do Amor""",Jajá e Tantinho,Dirceu da Mangueira,1977
+Mocidade,"""Samba, Marca Registrada do Brasil""",Dico da Viola e Jurandir Pacheco,Ney Vianna,1977
+Vila Isabel,"""Ai, que Saudade que eu Tenho""","Dida, Gemeu e Rodolpho",Jorge Goulart,1977
+Unidos de São Carlos,"""Alô, Alô! Brasil, 40 Anos de Rádio Nacional""",Dominguinhos do Estácio,Dominguinhos do Estácio,1977
+Unidos do Cabuçu,"""Sete Povos das Missões""",Waldir Prateado,Beto,1977
+Império Serrano,"""Brasil, Berço dos Imigrantes""",Roberto Ribeiro e Jorge Lucas,Grupo Família,1977
+Beija-Flor,"""A Criação do Mundo na Tradição Nagô""","Neguinho da Beija-Flor, Gilson Dr. e Mazinho",Neguinho da Beija-Flor,1978
+Mocidade,"""Brasiliana""","Djalma Santos, Loiola e Domenil",Ney Vianna,1978
+União da Ilha,"""O Amanhã""",João Sérgio,Aroldo Melodia,1978
+Arrastão de Cascadura,"""Talaque-Talaque, o Romance da Maria-Fumaça""",Pestana e Jorginho do Pandeiro,Adilson Madureira,1978
+Portela,"""Mulher à Brasileira""",Jair Amorim e Evaldo Gouveia,Silvinho do Pandeiro,1978
+Mangueira,"""Dos Carroceiros do Imperador ao Palácio do Samba""",Rubem da Mangueira e Jurandir,Rubem da Mangueira,1978
+Salgueiro,"""De Yorubá à Luz, a Aurora dos Deuses""",Renato de Verdade,Rico Medeiros,1978
+Vila Isabel,"""Dique, um Mar de Amor""","Jarbas, Garganta de Ferro, Boanésio e Augusto Messias",Garganta de Ferro,1978
+Arranco,"""Sonho Infantil""",Aldyr do Arranco e Sinval,Paulo Samara,1978
+Império Serrano,"""Oscarito, Carnaval e Samba, uma Chanchada no Asfalto""","Nina Rodrigues, Aidno Sá e Ubirajara Cardoso",Cardoso,1978
+Beija-Flor,"""O Paraíso da Loucura""","Mara, Luciano e Walter de Oliveira",Neguinho da Beija-Flor,1979
+Mocidade,"""O Descobrimento do Brasil""",Tôco e Djalma Cril,Ney Vianna,1979
+Imperatriz,"""Oxumarê - a Lenda do Arco-Íris""","Gibi, Darcy do Nascimento e Dominguinhos do Estácio",Dominguinhos do Estácio,1979
+Unidos de São Carlos,"""Das Trevas à Luz do Sol, uma Odisséia dos Karajás""",Elinto Pires e Leleco,Leleco,1979
+Unidos de Lucas,"""O Rio de Janeiro em Tempo de Debret""","Altair, Erodilson e Joãozinho",As Gatas e Conjunto Nosso Samba,1979
+Portela,"""Incrível, Fantástico, Extraordinário""","David Corrêa, Tião Nascimento e J. Rodrigues",David Corrêa,1979
+Mangueira,"""Avatar... E a Selva Transformou-se em Ouro""","Rato do Tamborim, Tolito e Ananias",Juventude Samba Show,1979
+Salgueiro,"""O Reino Encantado da Mãe Natureza Contra o Rei do Mal""","Bala, L. Marinheiro e Caíca",Rico Medeiros,1979
+União da Ilha,"""O Que Será?""",Didi e Aroldo Melodia,Aroldo Melodia,1979
+Vila Isabel,"""Os Dourados Anos de Carlos Machado""","Jonas, Rodolpho, Tião Grande e Luiz Carlos",Marcos Moran,1979
+Unidos do Cabuçu,"""O Gigante Negro da Abolição à República""","Izalmar, Marlon, Valmir e Amauri",Beto,1979
+Império Serrano,"""Municipal, Maravilhoso, 70 Anos de Glórias""","Roberto Ribeiro, Jorge Lucas e Edson Paiva",Grupo Família,1979
+Mocidade,"""Tropicália Brasileira""","Djalma Santos, Arsênio e Domenil",Ney Vianna,1980
+Imperatriz,"""O que que a Bahia tem""",Darcy do Nascimento e Dominguinhos do Estácio,Dominguinhos do Estácio,1980
+Império Serrano,"""Império das Ilusões, Atlântida, Eldorado, Sonho e Aventura""",Durval e Joaquim,Darcy Maravilha,1980
+União da Ilha,"""Bom, Bonito e Barato""","Robertinho Devagar, Jorge Ferreira e Edinho Capeta",Robertinho Devagar,1980
+Portela,"""Hoje tem Marmelada""","David Corrêa, Norival Reis e Jorge Macedo",David Corrêa,1980
+Beija-Flor,"""O Sol da Meia-Noite, Uma Viagem ao País das Maravilhas""","Zé do Maranhão, Wilson Bombeiro e Aluizio",Neguinho da Beija-Flor,1980
+Vila Isabel,"""Sonho de um Sonho""","Martinho da Vila, Rodolpho e Graúna",Marcos Moran e Zé Carlos,1980
+Salgueiro,"""O Bailar dos Ventos, Relampejou mas não Choveu""",Ala dos Compositores,Rico Medeiros,1980
+Unidos de São Carlos,"""Deixa Falar""",Elinto Pires e Sidney da Conceição,Zaira,1980
+Mangueira,"""Coisas Nossas""","Carlos Roberto, Ney da Mangueira e Aylton da Mangueira",Juventude Samba Show,1980
+Imperatriz,"""O Teu Cabelo não Nega (Só Dá Lalá)""","Gibi, Serjão e Zé Catimba",Dominguinhos do Estácio,1981
+Salgueiro,"""Rio de Janeiro""","Buguinho, Henrique e Mauro Torrão",Rico Medeiros,1981
+União da Ilha,"""1910 - Burro na Cabeça""","Franco, Barbicha, Jangada e Dezinho",Aroldo Melodia,1981
+Vila Isabel,"""Dos Jardins do Éden, a Era de Aquarius""","Jonas, Lino Roberto e Tião Grande",Marcos Moran,1981
+Portela,"""Das Maravilhas do Mar, Fez-se o Esplendor de uma Noite""",David Corrêa e Jorge Macedo,David Corrêa,1981
+Beija-Flor,"""Carnaval do Brasil, a Oitava das Sete Maravilhas do Mundo""","Neguinho da Beija-Flor, Dicró e Picolé",Neguinho da Beija-Flor,1981
+Mangueira,"""De Nonô a JK""","Jurandir, Comprido e Arroz",Dirceu da Mangueira,1981
+Mocidade,"""Abram Alas pra Folia, Aí Vem a Mocidade""",Ney Vianna e Nezinho,Ney Vianna,1981
+Império Serrano,"""Na Terra do Pau-Brasil, nem Tudo Caminha Viu""",Jorge Lucas e Edson Paiva,Abílio Martins,1981
+Unidos da Tijuca,"""O que dá pra Rir, dá pra Chorar""","Celso Trindade, Nêa, Azeitona, Ronaldo, Ivar, Buquinha e Edmundo Araújo Santos",Sobrinho,1981
+Imperatriz,"""Onde Canta o Sabiá""","Tuninho, Dominguinhos do Estácio e Darcy Nascimento",Dominguinhos do Estácio,1982
+Unidos da Tijuca,"""Lima Barreto, Mulato, Pobre, mas Livre""",Adriano,Sobrinho,1982
+Mangueira,"""As Mil e Umas Noites Cariocas""","Heraldo Faria, Tolito e Flavinho Machado",Flavinho Machado[10],1982
+Salgueiro,"""No Reino do Faz de Conta""",Zé Di e César Veneno,Zé Di,1982
+União da Ilha,"""É Hoje""",Didi e Mestrinho,Aroldo Melodia,1982
+Unidos de São Carlos,"""Onde Há Rede, Há Renda""",Caruso e Djalma Branco,Abílio Martins,1982
+Beija-Flor,"""O Olho Azul da Serpente""","Wilson Bombeiro, Carlinhos Bagunça e Joel Menezes",Neguinho da Beija-Flor,1982
+Mocidade,"""O Velho Chico""","Da Roça, Edu, Adil e Dico da Viola",Ney Vianna,1982
+Vila Isabel,"""Noel Rosa e os poetas da Vila nas Batalhas do Boulevard""",J. Albertino,Marcos Moran,1982
+Portela,"""Meu Brasil Brasileiro""",David Corrêa e Jorge Macedo,David Corrêa,1982
+Império Serrano,"""Bumbum Praticumbum Prugurundum""",Beto Sem Braço e Aluísio Machado,Quinzinho,1982
+Império da Tijuca,"""Iara, Ouro e Pinhão na Terra da Gralha Azul""",Jorge Melodia,Almir Saint-Clair,1982
+Império Serrano,"""Mãe Baiana Mãe""",Aluísio Machado e Beto Sem Braço,Quinzinho,1983
+Unidos da Tijuca,"""Brasil, Devagar com o Andor que o Santo é de Barro""",Djalma e Eli,Sobrinho,1983
+Salgueiro,"""Traços e Troças""",Celso Trindade,Rico Medeiros,1983
+Unidos da Ponte,"""E Eles Verão a Deus""","Mazinho, Ambrósio e Renatinho",Grillo,1983
+Mangueira,"""Verde que te Quero Rosa... Semente Viva do Samba""","Heraldo Faria, Geraldo das Neves e Flavinho Machado",Flavinho Machado,1983
+União da Ilha,"""Toma Lá Dá Cá""",Robertinho e Armandinho,Aroldo Melodia,1983
+Portela,"""A Ressurreição das Coroas - Reisado, Reino, Reinado""",Hilton Veneno e Mazinho da Piedade,Silvinho da Portela,1983
+Vila Isabel,"""Os Imortais""","Rodolpho, David da Vila, Jonas e Jorge King",Marcos Moran,1983
+Mocidade,"""Como Era Verde o Meu Xingu""","Dico da Viola, Paulinho Mocidade, Tiãozinho da Mocidade e Adil",Ney Vianna,1983
+Beija-Flor,"""A Grande Constelação das Estrelas Negras""",Neguinho da Beija-Flor e Nêgo,Neguinho da Beija-Flor,1983
+Caprichosos,"""Um Cardápio à Brasileira""",Ratinho e Jorge Barbudo,Carlinhos de Pilares,1983
+Imperatriz,"""O Rei da Costa do Marfim Visita Xica da Silva em Diamantina""","Matias de Freitas, carlinhos Boemia e Nelson Lima",As Gatas,1983
+Beija-Flor,"""O Gigante em Berço Esplêndido""",Neguinho da Beija-Flor e Nêgo,Neguinho da Beija-Flor,1984
+Vila Isabel,"""Pra Tudo se Acabar na Quarta-Feira""",Martinho da Vila,Marcos Moran,1984
+Império Serrano,"""Foi Malandro É""",Bicalho,Ney Vianna,1984
+Unidos da Ponte,"""Oferendas""",Jorginho,Grillo,1984
+União da Ilha,"""Quem Pode, Pode, Quem não Pode...""",Didi e Aurinho da Ilha,Quinzinho,1984
+Mangueira,"""Yes, Nós Temos Braguinha""","Jurandir, Hélio Turco, Comprido, Arroz e Jajá",Jurandir,1984
+Imperatriz,"""Alô Mamãe""","Velha, Guga, Tuninho e Alvinho",Tuninho,1984
+Portela,"""Contos de Areia""",Dedé da Portela e Norival Reis,Silvinho da Portela,1984
+Estácio,"""Quem é Você? (Vem de Lá)""","Darcy do Nascimento, Jangada e Dominguinhos do Estácio",Dominguinhos do Estácio,1984
+Salgueiro,"""Skindô, Skindô""",David Corrêa e J. Macêdo,David Corrêa,1984
+Unidos da Tijuca,"""Salamaleikum, a Epopéia dos Insubmissos Malês""","Carlinhos Melodia, Jorge Moreira e Nogueirinha",Sobrinho,1984
+Império da Tijuca,"""9215""",Ailton e Tibu,Almir Saint-Clair,1984
+Mocidade,"""Mamãe eu Quero Manaus""",Edson Show e Romildo,Aroldo Melodia,1984
+Caprichosos,"""A Visita da Nobreza do Riso a Chico Rei num Palco nem Sempre Iluminado""","Almir de Araújo, Balinha, Marquinho Lessa e Hércules",Carlinhos de Pilares,1984
+Mangueira,"""Abram Alas que eu Quero Passar""","Jurandir, Hélio Turco e Darcy da Mangueira",Jurandir,1985
+Mocidade,"""Ziriguidum 2001, Carnaval nas Estrelas""","Gibi, Tiãozinho e Arsênio",Ney Vianna,1985
+Beija-Flor,"""A Lapa de Adão e Eva""","Zé do Cavaco, Carlinhos Bagunça, Carnaval, H.O. e Patrício",Neguinho da Beija-Flor,1985
+Imperatriz,"""Adolã, a Cidade-Mistério""","Carlinhos Sideral, Doutor, Amaurizão e Guga",Preto Jóia,1985
+Império da Tijuca,"""Se a Lua Contasse""","Jorge Canuto, Ademir Jacaré e Moacyr Mangueira",Alcir de Paula,1985
+Vila Isabel,"""Parece até que foi Ontem""","David Corrêa, Jorge Macedo e Tião Grande",Sobrinho,1985
+Portela,"""Recordar é Viver""","Noca da Portela, J. Rocha, Edir Poly",Silvinho da Portela,1985
+Império Serrano,"""Samba, Suor e Cerveja, Combustível da Ilusão""",Beto Sem Braço,Quinzinho,1985
+Caprichosos,"""E por Falar em Saudade...""","Almir de Araújo, Balinha, Marquinho Lessa, Hércules e Carlinhos de Pilares",Carlinhos de Pilares,1985
+Salgueiro,"""Anos Trinta, Vento Sul - Vargas""","Bala, Jorge Melodia e Jorge Moreira",Rico Medeiros,1985
+Estácio,"""Chora Chorões""","Djalma Branco, Caruso, Jangada e Djalma das Merces",Dominguinhos do Estácio,1985
+União da Ilha,"""Um Herói, uma Canção, um Enredo""","Didi, Aurinho da Ilha e Aritana",Quinho e Elza Soares,1985
+Em Cima da Hora,"""Me Acostumo mas não me Amanso""","Reco, Nunes e Renato",César do Valle,1985
+Unidos do Cabuçu,"""A Festa é Nossa, Ninguém Tasca ou Quem Ri por Último, Ri Melhor""","J. Leão, João do Cabuçu, Celsinho, João do Cavaco e Jorginho Harmonia","J. Leão, Celsinho e Di Miguel",1985
+Santa Cruz,"""Ibrahim, de Leve Eu Chego Lá""",Zé de Angola e Grajaú,Aroldo Melodia,1985
+São Clemente,"""Quem Casa, Quer Casa""","Rodrigo, Izaías de Paula e Helinho 101",Izaías de Paula,1985
+Mocidade,"""Bruxarias e Histórias do Arco-da-Velha""","Jorginho, Dudu e Tiãozinho",Ney Vianna,1986
+Vila Isabel,"""De Alegria Cantei, de Alegria Pulei, de Três em Três, pelo Mundo Rodei""",David Corrêa e Jorge Macedo,David Corrêa,1986
+Portela,"""Morfeu no Carnaval, a Utopia Brasileira""","Ary do Cavaco, Carlito Cavalcante, Vanderlei, Nilson Melodia e Paulinho",Silvinho da Portela,1986
+Império Serrano,"""Eu Quero""","Aluísio Machado, Luiz Carlos do Cavaco e Jorge Nóbrega",Quinzinho,1986
+Imperatriz,"""Um Jeito pra Ninguém Botar Defeito (Agüenta Coração)""","Niltinho Tristeza, Guga, Jurandir e Tuninho",Tuninho,1986
+Beija-Flor,"""O Mundo é uma Bola""",Betinho e Jorge Canuto,Neguinho da Beija-Flor,1986
+Mangueira,"""Caymmi Mostra ao Mundo o que a Bahia e a Mangueira têm""","Ivo Meirelles, Paulinho e Lula",Jamelão,1986
+Império da Tijuca,"""Tijuca, Cantos, Recantos e Encantos""","Pedrinho da Flor, Baster, Belandi e Marinho da Muda","Pedrinho da Flor, Alcir de Paula e Bruninho",1986
+Unidos da Ponte,"""Tá na Hora do samba, que Fala mais Alto, que Fala Primeiro""","Grillo, Freitas, Dilsinho e Denise",Grillo,1986
+Unidos do Cabuçu,"""Deu a Louca na História! E Agora, Stanislau, Como é que Fica?""","Beto Pernada, Orlando, Ney, Celsinho e Fernando","Celsinho, Di Miguel e Beto do Cabuçu",1986
+Mangueira,"""O Reino das Palavras""","Rody, Verinha e Bira do Ponto",Jamelão,1987
+Imperatriz,"""Estrela Dalva""","Zé Catimba, Guga, Niltinho Tristeza e Bil Amizade",Alexandre D'Mendes,1987
+Portela,"""Adelaide, a Pomba da Paz""","Neném, Mauro Silva, Arizão, Isaac e Carlinhos Madureira",Dedé da Portela,1987
+Estácio,"""O Tititi do Sapoti""","Darcy do Nascimento, Djalma Branco e Dominguinhos do Estácio",Dominguinhos do Estácio,1987
+Império da Tijuca,"""Viva o Povo Brasileiro""","Pedrinho da Flor, Baster, Belandi, Marinho da Muda e João Quadrado",Darcy Giorno,1987
+Unidos da Ponte,"""G.R.E.S. Saudade""",Silvio da Ponte e Zoinho da Ponte,Grillo,1987
+Beija-Flor,"""As Mágicas Luzes da Ribalta""",Mazinho e Gilson Dr.,Neguinho da Beija-Flor,1987
+Unidos do Cabuçu,"""Roberto Carlos na Cidade da Fantasia""","Adilson Gavião, Adalto Magalha e Sérgio Magnata",Celsinho e Di Miguel,1987
+Império Serrano,"""Com Boca no Mundo - Quem não se Comunica, se Trumbica""","Beto Sem Braço, Aluísio Machado e Bicalho",Quinzinho,1987
+Vila Isabel,"""Raízes""","Martinho da Vila, Ovídio Bessa e Azo",Martinho da Vila e Gera,1987
+Mocidade,"""Tupinicópolis""","Gibi, Chico Cabeleira, Nino Batera e J. Muinhos",Ney Vianna,1987
+Unidos da Tijuca,"""Templo do Absurdo - Bar Brasil""","Beto do Pandeiro, Nêgo, Vaguinho, Monteiro, Ivar Silva e Carlos do Pagode",Nêgo,1988
+Mocidade,"""Beijim, Beijim, Bye Bye Brasil""","Ferreira, J. Muinhos e João das Rosas",Ney Vianna,1988
+União da Ilha,"""Aquarilha do Brasil""",Robertinho Devagar e Márcio André,Quinho,1988
+Imperatriz,"""Conta Outra, que Essa foi Boa""","Zé Catimba, Gabi, David Corrêa e Guga",Alexandre D'Mendes,1988
+São Clemente,"""Quem Avisa Amigo É""","Izaías de Paula, Helinho 107 e Chocolate",Izaías de Paula,1988
+Estácio,"""O Boi dá Bode""",Djalma Branco e Caruso,Dominguinhos do Estácio,1988
+Salgueiro,"""Em Busca do Ouro""","Arizão, Alaor Macedo, Rolando Medeiros, Jorginho da Cadeira, Gilberto TobiasBuguinho, Henrique do Salgueiro, Mauro Torrão e Rixxa",Rixxah,1988
+Portela,"""Lenda Carioca, os Sonhos do Vice-Rei""","Nenem, Mauro Silva, Isaac, Luizinho e Carlinhos Madureira",Dedé da Portela,1988
+Tradição,"""O Melhor da Raça, o Melhor do Carnaval""",João Nogueira e Paulo César Pinheiro,João Nogueira,1988
+Caprichosos,"""Luz, Câmera e Ação""","Mílton de Luna, Zé Maria D'Angola, Grajaú, Jacó, Zeca do Lins e Madeira",Carlinhos de Pilares,1988
+Beija-Flor,"""Sou Negro, do Egito à Liberdade""","Ivancué, Cláudio Inspiração, Marcelo Guimarães e Aloísio Santos",Neguinho da Beija-Flor,1988
+Unidos do Cabuçu,"""O Mundo Mágico dos Trapalhões""","Adilson Gavião, Adalto Magalha e Sérgio Magnata",J. Leão,1988
+Unidos da Ponte,"""O Bem Amado Paulo Gracindo""","Mazinho, Branco e Ambrósio",Grillo,1988
+Vila Isabel,"""Kizomba, Festa da Raça""","Rodolpho, Jonas e Luiz Carlos da Vila",Gera,1988
+Império Serrano,"""Pára com Isto, Dá Cá o Meu""","Luís Carlos do Cavaco, Lula e Jarbas da Cuíca",Quinzinho,1988
+Mangueira,"""100 Anos de Liberdade - Realidade ou Ilusão?""","Hélio Turco, Jurandir e Alvinho",Jamelão,1988
+Arranco,"""Quem Vai Querer?""","Espanhol, Sylvio Paulo e Jarbas da Cuíca",Sylvio Paulo e Espanhol,1989
+Unidos do Cabuçu,"""Milton Nascimento - Sou do Mundo, sou de Minas Gerais""","Beto Pernada, Rebello, Ney do Cabuçu e Jadir",Di Miguel,1989
+Unidos da Ponte,"""Vida que te Quero Viva""","Jorginho do Axé, Renato Camunguelo e Gerson PM",Aroldo Melodia,1989
+Mocidade,"""Elis, um Trem Chamado Emoção""","Paulinho Mocidade, Dico da Viola e Cadinho",Ney Vianna,1989
+Tradição,"""Rio, Samba, Amor e Tradição""",João Nogueira e Paulo César Pinheiro,Candanga,1989
+União da Ilha,"""Festa Profana""","J. Brito, Bujão e Franco",Quinho,1989
+Caprichosos,"""O que é Bom Todo Mundo Gosta""","Wanderlei Novidade, Paulinho Rocha, Vanico do Beco, Walter Pardal e Jorge 101",J. Leão,1989
+Salgueiro,"""Templo Negro em Tempo de Consciência Negra""","Alaor Macedo, Helinho do Salgueiro, Arizão, Demá Chagas e Rubinho do Afro",Rixxah,1989
+Mangueira,"""Trinca de Reis""","Ney João, Adilson da Viola e Fandinho",Jamelão,1989
+Jacarezinho,"""Mitologia, Astrologia, Horóscopo, uma Benção""","Barbeirinho do Jacarezinho, Jorge Pl, Serginho da Banda, Macambira, Batista do Jacarezinho e Lúcio Bacalhau",Carlinhos de Pilares,1989
+Imperatriz,"""Liberdade! Liberdade! Abra as Asas sobre Nós""","Niltinho Tristeza, Preto Jóia, Vicentinho e Jurandir",Dominguinhos do Estácio,1989
+Unidos da Tijuca,"""De Portugal à Bienal no País do Carnaval""","Beto do Pandeiro, Vicente das Neves, Gilmar L. Silva, Nêgo e Vaguinho da Ladeira",Nêgo,1989
+São Clemente,"""Made in Brazil!!! Yes, nós temos banana""","João Carlos Grilo, Ricardo Goes, Ronaldo Soares e Sérgio Fernandes",Geraldão,1989
+Estácio,"""Um, Dois, Feijão com Arroz""","Djalma das Mercês, Déo, Gustavo, Bajão, Marinho e Pereira",Bira Havaí,1989
+Vila Isabel,"""Direito é Direito""","Jorge King, Serginho Tonelada, Fernando Partideiro, Zé Antonio e J. C. Couto",Gera,1989
+Portela,"""Achado não é Roubado""","Neném, Mauro Silva e Carlinhos Madureira",Dedé da Portela,1989
+Beija-Flor,"""Ratos e Urubus... Larguem Minha Fantasia""","Betinho, Giyvaldo, Zé Maria e Osmar",Neguinho da Beija-Flor,1989
+Império Serrano,"""Jorge Amado - Axé Brasil""","Beto Sem Braço, Aluísio Machado, Bicalho e Arlindo Cruz",Silvinho da Portela,1989
+Santa Cruz,"""Os Heróis da Resistência""","Zé Carlos, Carlos Henri, Carlinhos de Pilares, Doda, Mocinho e Luis Sérgio",Carlinhos de Pilares,1990
+Caprichosos,"""Com a Boca no Mundo""","Jarbas da Cuíca, Evaldo Santos, Grajaú, Carlinhos Democrático e Fernando",Aroldo Melodia,1990
+Império Serrano,"""História da Nossa História""","Jangada, Solidão, Zito, Ibraim, Edgard do Agogô e Tico do Gato",Tico do Gato,1990
+Vila Isabel,"""Se esta Terra, se esta Terra Fosse Minha""","Jorge Tropical, Jorginho Pereira, Anninha Guedes, Antônio Grande e Vila Silva ""Bom Bril""",Gera,1990
+Beija-Flor,"""Todo Mundo Nasceu Nu""","Betinho, Jorginho, Bira e Aparecida",Neguinho da Beija-Flor,1990
+Salgueiro,"""Sou Amigo do Rei""","Alaor Macedo, Arizão, Demá Chagas, Pedrinho da Flor e Fernando Baster",Rico Medeiros,1990
+Portela,"""É de Ouro e Prata esse Chão""","Espanhol, Sylvio Paulo e Cila da Portela",Dedé da Portela,1990
+São Clemente,"""E o Samba Sambou...""","Helinho 107, Mais Velho, Nino e Chocolate",Izaías de Paula,1990
+Mangueira,"""E Deu a Louca no Barroco""","Hélio Turco, Jurandir e Alvinho",Jamelão,1990
+Mocidade,"""Vira, Virou, a Mocidade Chegou""","Toco, Jorginho Medeiros e Tiãozinho da Mocidade",Paulinho Mocidade,1990
+Estácio,"""Langsdorff, Delírio na Sapucaí""","Jorge Magalhães, Adalto Magalha, Adilson Gavião e Maneco",Rixxah,1990
+Imperatriz,"""Terra Brasilis, o que se Plantou Deu""","Zé Katimba, Preto Jóia, Tuninho Petróleo, Baianinho e Jorginho da Barreira",Dominguinhos do Estácio,1990
+Unidos da Tijuca,"""E o Borel Descobriu ... Navegar foi Preciso""","Nêgo, Vaguinho, Vicente das Neves, Ditão, Gilmar L. Silva, Azeitona, Valtinho da Ladeira, Ivan Bombeiro e Beto do Pandeiro",Nêgo,1990
+União da Ilha,"""Sonhar com Rei dá João""",J. Brito e Bujão,Quinho,1990
+Mocidade,"""Chuê... Chuá... As Águas vão Rolar""","Toco, Jorginho Medeiros e Tiãozinho da Mocidade",Paulinho Mocidade,1991
+Estácio de Sá,"""O Brasil Brega e Kitsch""","Maneco, Orlando e Jangada",Rixxah,1991
+Unidos da Tijuca,"""Tá na mesa, Brasil""","Carlinhos Melodia, Nêgo e Antonio C. Conceição",Nêgo,1991
+Caprichosos,"""Terceiro Milênio - Em Busca do Juízo Afinal""",João Carlos e Gabriel Moura,Carlinhos de Pilares,1991
+Salgueiro,"""Me Masso se não Passo pela Rua do Ouvidor""","Sereno, Luiz Fernando e Diogo",Quinho,1991
+União da Ilha,"""De Bar em Bar, Didi um Poeta""",Franco,Aroldo Melodia,1991
+Império Serrano,"""É por aí que eu vou""","Wilson Solidão, Ibrahim, Beto Pernada, Valdir Sargento, Edu do Pagode e Elcy",Tico do Gato,1991
+Vila Isabel,"""Luiz Peixoto, e Tome Polca""","Adil, Celsinho, Jorge Secretário e Helinho",Gera,1991
+Beija-Flor,"""Alice no Brasil das Maravilhas""","Pelé, Cláudio Inspiração, Tonho Magrinho e Paulo Roberto",Neguinho da Beija-Flor,1991
+São Clemente,"""Já vi este Filme""","Manoelzinho Poeta, Jorge Moreira, Severo, Jorge Melodia e Haroldo Pereira",Sidney Moreno,1991
+Portela,"""Tributo à Vaidade""","Carlinhos Madureira, Café da Portela e Iran Silva",Dedé da Portela,1991
+Lins Imperial,"""Chico Mendes, o Arauto da Natureza""","João Banana, Serjão, Jorge Paulo, Paulinho e Tuca",Celino Dias,1991
+Imperatriz,"""O que é que a Banana tem?""","Preto Jóia, Niltinho Tristeza, Tuninho, Guga, Guará da Empresa e Flavinho",Preto Jóia,1991
+Mangueira,"""As Três Rendeiras do Universo""","Hélio Turco, Alvinho e Jurandir da Mangueira",Jamelão,1991
+Viradouro,"""""Bravíssimo"" - Dercy Gonçalves, o Retrato de um Povo""","Gelson, Rubinho, Odir Sereno e Adir",Quinzinho,1991
+Grande Rio,"""Antes, Durante e Depois, o Despertar do Homem""","Ventura, Andrade e Leovenir",Dominguinhos do Estácio,1991
+Mocidade,"""Sonhar não Custa Nada! Ou Quase Nada...""","Paulinho Mocidade, Dico da Viola e Moleque Silveira",Paulinho Mocidade,1992
+Imperatriz,"""Não Existe Pecado Abaixo do Equador""","Tuninho Professor, Jurandir, Edinho e Nilson Melodia",Preto Jóia,1992
+Estácio de Sá,"""Paulicéia Desvairada - 70 Anos de Modernismo""","Djalma Branco, Déo, Maneco e Caruso",Dominguinhos do Estácio,1992
+Viradouro,"""E a Magia da Sorte Chegou""","Heraldo Faria, Flavinho Machado, Gelson e Rubinho",Quinzinho,1992
+União da Ilha,"""Sou Mais Minha Ilha""","Carlinhos Fuzil, Mauricio 100 e Marquinhos do Banjo",Aroldo Melodia,1992
+Vila Isabel,"""A Vila vê o ovo e põe às Claras""","Sidney Sã, Miro Jr, Carlinhos da Vila, Claudinho do Orvalho e Artuzinho Só",Gera,1992
+Tradição,"""O Espetáculo Maior... as Flores""","Moisés Santiago, Luizinho Professor e Toninho",Moisés Santiago,1992
+Salgueiro,"""O Negro que Virou Ouro nas Terras do Salgueiro""","Bala, Efealves, Preto Velho, Sobral e Tiãozinho do Salgueiro",Quinho,1992
+Beija-Flor,"""Há um Ponto de Luz na Imensidão""","Dinoel Sampaio, Itinho e Neguinho da Beija-Flor",Neguinho da Beija-Flor,1992
+Portela,"""Todo o Azul que o Azul tem""","Carlinhos Madureira, Café da Portela e Ary do Cavaco",Dedé da Portela,1992
+Unidos da Tijuca,"""Guanabaran, o Seio do Mar""","Gilmar L. Silva, Vicente das Neves e Beto do Pandeiro",Nêgo,1992
+Caprichosos,"""Brasil Feito à Mão... do Barro ao Carnaval""","Jorge Barbudo, Heloir e Zé Carlos do Saara",Carlinhos de Pilares,1992
+Mangueira,"""Se Todos Fossem Iguais a Você""","Hélio Turco, Alvinho e Jurandir da Mangueira",Jamelão,1992
+Leão de Nova Iguaçu,"""O Leão na Selva de Ilusões de Janete Clair""","Carlinho Pretinho, Toninho Dafé e José Jorge",Jairo Bráulio,1992
+Estácio de Sá,"""A Dança da Lua""",Wilsinho Paz e Luciano Primo,Dominguinhos do Estácio,1993
+Imperatriz,"""Marquês que é Marquês do sassarico é Freguês""","Márcio André, Alvinho, Aranha e Alexandre da Imperatriz",Preto Jóia,1993
+Portela,"""Cerimônia de Casamento""","Wilson Cruz, Cláudio Russo e Jorginho Estrela Negra",Dedé da Portela,1993
+Beija-Flor,"""Uni-Duni-Tê, a Beija-Flor Escolheu: É Você""","Wilson Bombeiro, Edeor de Paula e Sérgio Fonseca",Neguinho da Beija-Flor,1993
+Viradouro,"""Amor, Sublime Amor""","Heraldo Faria, Flavinho Machado e Gelson",Quinzinho,1993
+Caprichosos,"""Não Existe Pecado no Lado de Cá do Túnel Rebouças""","Marco Lessa, Tico do Gato, Carlos Ortiz, Luizito e Karlinho's de Madureira",Márcio Souto,1993
+Mocidade,"""Marraio Feridô Sou Rei""","Serafim Adriano, Edu Ferreira e Antonio Andrade",Paulinho Mocidade,1993
+Salgueiro,"""Peguei um Ita no Norte""","Demá Chagas, Arizão, Bala, Guaracy e Celso Trindade",Quinho,1993
+Mangueira,"""Dessa Fruta eu Como até o Caroço""","Dirceu, Eraldo Caê, Verinha, Prêto, Fernando de Lima, Ney Mattos, Bira do Ponto e Gustavo",Jamelão,1993
+Unidos da Tijuca,"""Dança Brasil""","Dário Lima, Espanhol, Paulo Ribeiro e Azeitona",Vaguinho,1993
+União da Ilha,"""Os Maiores Espetáculos da Terra""","Bicudo, Djalma Falcão e Guará da Empresa",Maurício Maia,1993
+Vila Isabel,"""Gbala - Viagem ao Templo da Criação""",Martinho da Vila,Martinho da Vila e Gera,1993
+Unidos da Ponte,"""A Face do Disfarce""",Adilson Xavier,Geraldão,1993
+Grande Rio,"""No Mundo da Lua""","Nêgo, Jacy Inspiração, Mais Velho, G. Martins, Dicró, Juarez Dy Calvoza, Adão Conceição, Carlinhos P2, Rocco Filho e Ronaldo",Nêgo,1993
+Salgueiro,"""Rio de Lá pra Cá""","Celso Trindade, Demá Chagas, Bala, Arizão e Guaracy",Quinzinho,1994
+Império Serrano,"""Uma Festa Brasileira""","Lula, Zito e Beto Pernada",Roger da Fazenda,1994
+Tradição,"""Passarinho, Passarola, Quero Ver Voar""","Jajá Maravilha, Aniceto, Tonho, Sandro Maneca, Jurandir da Tradição, Jorge Makumba e Lourenço",Edmilton di Bem,1994
+Mangueira,"""Atrás da Verde e Rosa só não vai quem já Morreu""","David Corrêa, Paulinho Carvalho, Carlos Sena e Bira do Ponto","Jamelão(Gilberto Gil, Caetano Veloso, Maria Bethânia, Gal Costa e David Corrêa)",1994
+Beija-Flor,"""Margaret Mee, a Dama das Bromélias""","Arnaldo Matheus, J. Santos e Almir Moreira",Neguinho da Beija-Flor,1994
+Viradouro,"""Tereza de Benguela - Uma Rainha Negra no Pantanal""","Cláudio Fabrino, Paulo César Portugal, Jorge Baiano e Rico Medeiros",Rico Medeiros,1994
+Unidos da Ponte,"""Marrom da Cor do Samba""","Nilson Chamêgo, Charles Santana e Chiquinho do Banjo",Serginho do Porto,1994
+União da Ilha,"""Abrakadabra, O Despertar dos Mágicos""",Almir da Ilha e Franco,Quinho,1994
+Imperatriz,"""Catarina de Médicis na Corte dos Tupinambôs e Tabajeres""","Márcio André, Alvinho, Aranha e Alexandre da Imperatriz",Preto Jóia,1994
+Estácio de Sá,"""S.A.A.R.A. ...A Estácio Chegou no Lê lê lê de Alalaô""","Fininho, Pereira, Edmilson e Marinho",Dominguinhos do Estácio,1994
+Grande Rio,"""Os Santos que a África não viu""","Mais Velho, Rocco Filho, Roxidiê, Helinho 107, Marquinhos e Pipoca",Nêgo,1994
+Portela,"""Quando o Samba era Samba...""","Wilson Cruz, Cláudio Russo e Zé Luiz",Dedé da Portela,1994
+Mocidade,"""Avenida Brasil, Tudo Passa, Quem não Viu?""","Dico da Viola, Jorginho Ganem e Jefinho",Wander Pires,1994
+Unidos da Tijuca,"""Só... Rio e Verão""","Gilmar L. Silva, Vicente das Neves, Beto do Pandeiro e Grego",Carlinhos de Pilares,1994
+Caprichosos,"""Estou Amando Loucamente uma Coroa de Quase 90 Anos""","Garibaldi, Tico do Gato, Carlos Ortiz, Marco Lessa e Almir de Araújo",Luizito,1994
+Vila Isabel,"""Muito Prazer! Isabel de Bragança e Drummond Rosa da Silva, mas Pode me Chamar de Vila""","Vilani Silva ""Bombril"", Evandro Bocão e André Diniz",Gera e Jorge Tropical,1994
+Imperatriz,"""Mais Vale um Jegue que me Carregue que um Camelo que me Derrube... lá no Ceará""","Eduardo Medrado, João Estevam, Waltinho Honorato e César Som Livre",Preto Jóia,1995
+Vila Isabel,"""Cara ou Coroa, as Duas Faces da Moeda""",Evandro Bocão e André Diniz,Gera e Jorge Tropical,1995
+Caprichosos,"""Da Terra Brotei, Negro sou e Ouro Virei""",Carlos Ortiz,Luizito,1995
+Beija-Flor,"""Bidu Sayão e o Canto de Cristal""","Bira, Zé Carlos do Cavaco, Tião Barbudo, Dequinha Pottiér e Jorginho",Neguinho da Beija-Flor,1995
+Viradouro,"""O Rei e os Três Espantos de Debret""","José Antonio, Gonzaga, Olivério, Rico Medeiros, Wilsinho, Fabrino, Portugal, Bernardo, Gilberto e João Sérgio",Rico Medeiros,1995
+Império Serrano,"""O Tempo Não Pára""","Maurição, Jorge Lucas e Luís Carlos do Cavaco",Roger da Fazenda,1995
+Unidos da Tijuca,"""Os Nove Bravos do Guarany""",Espanhol e Dário Lima,Paulinho Mocidade,1995
+Mangueira,"""A Esmeralda do Atlântico""","Rody, Verinha, Paulinho Carvalho e Fernando de Lima",Jamelão,1995
+Salgueiro,"""Um Caso por Acaso""","Márcio Paiva, Adalto Magalha e Quinho",Quinho,1995
+Estácio de Sá,"""Uma Vez Flamengo...""","David Corrêa, Adilson Torres, Déo e Caruso",Dominguinhos do Estácio,1995
+Unidos da Ponte,"""Paraná - Esse Estado Leva a Sério o meu Brasil""","Wanderley Novidade, Walter Pardal e Walnei Rocha",Serginho do Porto,1995
+Mocidade,"""Padre Miguel, Olhai por Nós""","Marquinho PQD, Santana, Wanderley Marcação e Cardoso do Cavaco",Wander Pires,1995
+União da Ilha,"""Todo Dia é Dia de Índio""",Almir da Ilha e Franco,Aroldo Melodia,1995
+Tradição,"""Gira Roda! Roda Gira!""","Lourenço, Jurandir, Jorge Makumbba, Marcos Glorioso, J. Nascimento e Lima",Edmilton Di Bem,1995
+Grande Rio,"""Estória para Ninar um Povo Patriota""","Paulo Mumunha, Adão Conceição, Marcos do Açougue e Anísio Silva",Nêgo,1995
+Portela,"""Gosto que me Enrosco""","Noca da Portela, Colombo e Gelson",Rixxah (Carlinhos de Pilares),1995
+Imperatriz,"""Imperatriz Leopoldinense Honrosamente Apresenta: Leopoldina, a Imperatriz do Brasil""","Jurandir, Dominguinhos do Estácio, Demarco e Carlinhos China",Preto Jóia,1996
+Salgueiro,"""Anarquistas Sim, mas nem Todos""","Márcio Paiva, Adalto Magalha, Eduardo Dias e Quinho",Quinho,1996
+Estácio de Sá,"""De um Novo Mundo eu sou e uma Nova Cidade será""","Adilson Gavião, Déo, Orlando Landão e Caruso",David do Pandeiro,1996
+Vila Isabel,"""A Heróica Cavalgada de um Povo""",Tião Grande e Cafu Ouro Preto,GeraJorge Tropical,1996
+Portela,"""Essa Gente Bronzeada Mostra seu Valor""","Jorginho Don, Picolé da Portela, Renatinho do Sambola e Carlinhos Careca",Rixxah,1996
+Caprichosos,"""Samba, Sabor Chocolate""","Almir de Araújo, Marco Lessa e José Paulo",Carlinhos de PilaresLuizito,1996
+Grande Rio,"""Na Era dos Felipes, o Brasil era Espanhol""","Barbeirinho, Bebeto do Arrastão e Jailson da Grande Rio",Nêgo,1996
+Unidos da Ponte,"""Nas Sombras da Folia""",Serginho do Porto e André Fullgaz,Serginho do Porto,1996
+Porto da Pedra,"""Um Carnaval dos Carnavais""","Billy Boy, César Reis e Élio Sabino",Wantuir,1996
+Beija-Flor,"""Aurora do Povo Brasileiro""",Miro Barbosa,Neguinho da Beija-Flor,1996
+Mocidade,"""Criador e Criatura""","Beto Corrêa, Dico da Viola, Jefinho e Joãozinho",Wander Pires,1996
+União da Ilha,"""A Viagem da Pintada Encantada""",Alberto Varjão e Vicentinho,Aroldo MelodiaIto Melodia,1996
+Império Serrano,"""Verás que um Filho Teu não Foge à Luta""","Aluísio Machado, Lula, Beto Pernada, Arlindo Cruz e Índio do Império",Jorginho do Império,1996
+Mangueira,"""Os Tambores da Mangueira na Terra da Encantaria""",Chiquinho Campo Grande e Marcondes,Jamelão,1996
+Unidos da Tijuca,"""Ganga-Zumbi, Expressão de uma Raça""",Beto do Pandeiro,Paulinho Mocidade,1996
+Viradouro,"""Aquarela do Brasil, Ano 2000""","Heraldo Faria, Jorge Baiano, Mocotó e Flavinho Machado",Nêgo Martins,1996
+Tradição,"""Do Barril ao Brasil""",Moisés Santiago e Luizinho Professor,Edmilton Di Bem,1996
+Império da Tijuca,"""O Reino Unido Independente do Nordeste""","Carlinhos Melodia, Antônio da Conceição, Nogueirinha, Ricardinho do Pandeiro e Rosângela Matos",Edson Bombeiro,1996
+Mocidade,"""De Corpo e Alma na Avenida""","Chico Cabeleira, Joãozinho, Muca e J. Brito",Wander Pires,1997
+Salgueiro,"""De Poeta, Carnavalesco e Louco... Todo Mundo tem um Pouco""","Márcio Paiva, Adalto Magalha, Eduardo Dias, Tico do Gato, Guaracy e Quinho",Quinho,1997
+Porto da Pedra,"""No Reino da Folia, cada Louco com sua Mania""","Vadinho, Carlinho e Pinto",Wantuir,1997
+Viradouro,"""Trevas! Luz! A Explosão do Universo""","Dominguinhos do Estácio, Mocotó, Flavinho Machado e Heraldo Faria",Dominguinhos do Estácio,1997
+Beija-Flor,"""A Beija-Flor é Festa na Sapucaí""","Wilson Bombeiro, J. Santos, Arnaldo Matheus e Almir Sereno",Neguinho da Beija-Flor,1997
+Portela,"""Linda, Eternamente Olinda""","Doutor, Renato Valle, Tonico da Portela e Eli Penteado",Rixxah,1997
+Grande Rio,"""Madeira-Mamoré, a Volta dos que não foram, lá no Guaporé""","Sabará, Muralha, Jarbas da Cuíca e Grajaú",Nêgo,1997
+Santa Cruz,"""Não Se Vive Sem Bandeira""","Carroça, Pepê e Carlinhos 18",Cláudio Tricolor,1997
+Imperatriz,"""Eu sou da Lira, não posso Negar...""","Zé Catimba, Chopinho, Amaurizão e Tuninho Professor",Preto Jóia,1997
+Império Serrano,"""O Mundo dos Sonhos de Beto Carrero""","Carlos Sena, Maurição, Arlindo Cruz e Índio do Império",Jorginho do Império,1997
+Estácio de Sá,"""Através da Fumaça, o Mágico Cheiro do Carnaval""","Basílio, Zé Luiz, Gabrielzinho do Pandeiro e Baby",David do Pandeiro,1997
+Unidos da Tijuca,"""Viagem Pitoresca pelos Cinco Continentes num Jardim""",Edson Fio e Maurílio Theodoro,Serginho do Porto,1997
+Mangueira,"""O Olimpo é Verde e Rosa""","Chiquinho Campo Grande, Lequeone e Jorge Magalhães",Jamelão,1997
+Vila Isabel,"""Não Deixe o Samba Morrer""",J. C. Couto,GeraJorge Tropical,1997
+União da Ilha,"""Cidade Maravilhosa, o Sonho de Pereira Passos""","Bujão, Carlinhos Fuzil e Wanderlei Novidade",Ito Melodia,1997
+Rocinha,"""A Viagem Fantástica do Zé Carioca à Disney""","Gilson da Ilha Porchat, Carlinhos Mustang, Wilsinho Saravá e Jorge Mirim",Alexandre D'Mendes,1997
+Viradouro,"""Orfeu, o Negro do Carnaval""","Gilberto Gomes, R. Mocotó, Gustavo, P. C. Portugal e Dadinho",Dominguinhos do Estácio,1998
+Mocidade,"""Brilha no Céu a Estrela que me faz Sonhar""","Joãozinho, Guinna, Muca e J. Brito",Wander Pires,1998
+Mangueira,"""Chico Buarque da Mangueira""","Nelson Dalla Rosa, Vilas Boas, Nelson Csipai e Carlinhos das Camisas",JamelãoEraldo Caê,1998
+Beija-Flor,"""Pará, o Mundo Místico dos Caruanas, nas Águas do Patu-Anu""","Alencar de Oliveira, Wilsinho Paz, Noel Costa, Baby e Marcão",Neguinho da Beija-Flor,1998
+Porto da Pedra,"""Samba no Pé e Mãos ao Alto, Isto é um Assalto""","Índio do Império, Tião Telles, Paulo Roberto e Jorge Dodi",Wantuir,1998
+Imperatriz,"""Quase no Ano 2000...""","Preto Jóia, Flavinho, Darcy do Nascimento e Guga",Preto Jóia,1998
+Portela,"""Os Olhos da Noite""","Noca da Portela, Colombo, J. Rocha, Darcy Maravilha e Celino Dias",Rogerinho,1998
+Vila Isabel,"""Lágrimas, Suor e Conquistas no Mundo em Transformação""","David da Vila, Sérgio Freitas, Helinho e Mascote",GeraJorge Tropical,1998
+Grande Rio,"""Prestes, O Cavaleiro da Esperança""","João Carlos, Carlinhos Fiscal e Quaresma",Nêgo,1998
+Unidos da Tijuca,"""De Gama a Vasco, a Epopéia da Tijuca""","Adalto Magalha, Serginho do Porto, Márcio Paiva e Adilson Gavião",Serginho do Porto,1998
+União da Ilha,"""Fatumbi, a Ilha de Todos os Santos""","Márcio André, Almir da Ilha e Mauricio 100",Rixxah,1998
+Tradição,"""Viagem Fantástica ao Pulmão do Mundo""","Taroba, Lima da Tradição, Sandro Maneca, Jonas Camiseta, Marcos Glorioso e Arismar Ubaldino",Taroba,1998
+Caprichosos,"""Negra Origem, Negro Pelé, Negra Bené""","Flávio Quintino, Noquinha, Sidinho da Zoeira, J.B e Zé Carlos da Saara",Jackson Martins,1998
+Mangueira,"""O Século do Samba""","Adalberto, Jocelino e Jerônimo",Jamelão(Alexandre Pires),1999
+Beija-Flor,"""Araxá - Lugar Alto onde Primeiro se Avista o Sol""","Wilsinho Paz, Noel Costa e Serginho do Porto",Neguinho da Beija-Flor(Belo),1999
+Imperatriz,"""Brasil, Mostra a Sua Cara em... Theatrum Rerum Naturalium Brasiliae""","Cesar Som Livre, Waltinho Honorato, João Estevam e Eduardo Medrado",Preto Jóia,1999
+Portela,"""De Volta aos Caminhos de Minas Gerais""","Noca da Portela, Colombo, J. Rocha e Darcy Maravilha",Rogerinho,1999
+Viradouro,"""Anita Garibaldi - Heroína das 7 Magias""","Gilberto Gomes, R. Mocotó, Gustavo, PC Portugal e Dadinho",Dominguinhos do Estácio,1999
+Mocidade,"""Villa-Lobos e a Apoteose Brasileira""","Santana, Nascimento e Ricardo Simpatia",Wander Pires,1999
+Salgueiro,"""Salgueiro é Sol e Sal nos 400 Anos de Natal""","Celso Trindade, Demá Chagas, Eduardo Dias, Líbero e Quinho",Quinho,1999
+Grande Rio,"""Ei, ei, ei, Chateau é o Nosso Rei""","Nêgo, Barbeirinho e Derê",Nêgo,1999
+União da Ilha,"""Barbosa Lima, 101 Anos do Sobrinho do Brasil""","Bicudo, Djalma Falcão, Dito e Jota Erre",Rixxah,1999
+Caprichosos,"""No Universo da Beleza, Mestre Pitanguy""","Sidney Leite, Flávio Quintino, Marcelinho da Caprichosos, Bittar e Jorge 101",Jackson Martins,1999
+Tradição,"""Nos Braços da História, Jacarepaguá, Quatro Séculos de Glórias""","Jorge Makumbba, Erô Baianinho, Jurandir da Tradição e Antonio Português",Wantuir,1999
+Vila Isabel,"""João Pessoa, Onde o Sol Brilha Mais Cedo""","Evadro Bocão, Serginho 20 e Tito",GeraJorge Tropical,1999
+Império Serrano,"""Uma Rua Chamada Brasil""","Arlindo Cruz, Carlos Sena, Maurição e Elmo Caetano",Jorginho do Império,1999
+São Clemente,"""A São Clemente Comemora e Traz Rui Barbosa para os Braços do Povo""","Ricardo Góes, Ronaldo Soares, Chocolate e Fernando de Lima",Márcio Souto,1999
+Imperatriz,"""Quem Descobriu o Brasil, foi Seu Cabral, no dia 22 de Abril, Dois Meses depois do Carnaval...""","Marquinho Lessa, Amaurizão, Guga, Chopinho e Tuninho Professor",Paulinho Mocidade,2000
+Beija-Flor,"""Brasil, um Coração que Pulsa Forte, Pátria de Todos ou Terra de Ninguém""",Igor Leal e Amemdoim da Beija-Flor,Neguinho da Beija-Flor,2000
+Viradouro,"""Brasil, Visões de Paraísos e Infernos""","Gilberto Gomes, Gustavo, Dadinho, PC Portugal e Mocotó",Dominguinhos do Estácio,2000
+Mocidade,"""Verde, Amarelo, Azul Anil Colorem o Brasil no Ano 2000""","Dico da Viola, Jefinho, Marquinho Índio e Marquinho PQD",Paulo Henrique,2000
+Salgueiro,"""Sou Rei, sou Salgueiro, meu Reinado é Brasileiro""","Fernando Baster, J.C. Couto, João da Valsa, Touro e Wander Pires",Wander Pires,2000
+Grande Rio,"""Carnaval à Vista""","Pedrinho Messias, J. Mendonça e Mingau",Nêgo,2000
+Mangueira,"""Dom Obá II, Rei dos Esfarrapados, Príncipe do Povo""","Marcelo D'Aguiã, Bizuca, Gilson Bernini e Valter Veneno",Jamelão,2000
+Portela,"""Trabalhadores do Brasil - A Época de Getúlio Vargas""","Amílton Damião, Aílton Damião, Edynel, Zezé do Pandeiro e Edinho Leal",Gera,2000
+Caprichosos,"""Brasil, Teu Espírito é Santo""","Mauro, Claudinho Srutline, J. Bodão e Márcio do Swing",Jackson Martins,2000
+União da Ilha,"""Pra não Dizer que não Falei de Flores""","Marquinho do Banjo, Niva e Franco",Serginho do Porto,2000
+Vila Isabel,"""Eu sou Índio, Eu Também sou Imortal""","Evandro Bocão, Serginho 20, Tito, Leonel e Ivan da Wanda",Jorge Tropical,2000
+Tradição,"""Liberdade! Sou Negro, Raça e Tradição""",Lourenço e Adalto Magalha,Wantuir,2000
+Unidos da Tijuca,"""Terra dos Papagaios... Navegar foi Preciso!!!""","Badá, Jacy Inspiração, Edson de Oliveira e David do Pandeiro",David do Pandeiro,2000
+Porto da Pedra,"""Ordem, Progresso, Amor e Folia no Milênio da Fantasia""","Silvão, Ricardo Góes, Ronaldo Soares, Chocolate e Fernando de Lima",Ito Melodia,2000
+Imperatriz,"""Cana-Caiana, Cana-Roxa, Cana Fita, Cana Preta, Amarela, Pernambuco... Quero vê Descê o Suco, na Pancada do Ganzá!""","Guga, Tuninho Professor e Marquinho Lessa",Paulinho Mocidade,2001
+Beija-Flor,"""A Saga de Agotime, Maria Mineira Naê""","Déo, Caruso, Cleber e Osmar",Neguinho da Beija-Flor,2001
+Viradouro,"""Os Sete Pecados Capitais""","Gilberto Gomes, Gustavo, Dadinho, PC Portugal e Mocotó",Dominguinhos do Estácio,2001
+Mocidade,"""Paz e Harmonia, Mocidade é Alegria""","Joãozinho, Marcelo do Rap, Domenil e J. Brito",David do Pandeiro,2001
+Unidos da Tijuca,"""A Tijuca apresenta Nélson Rodrigues pelo Buraco da Fechadura""","Vicente das Neves, Gilmar L. Silva, Douglas, Toninho Gentil e Wantuir",Wantuir,2001
+Salgueiro,"""Salgueiro no Mar de Xarayés, é Pantanal, é Carnaval""","Augusto, José Carlos da Saara, Rocco Filho e Nêgo",Nêgo,2001
+Mangueira,"""A Seiva da Vida""","Marcelo D'Aguiã, Bizuca, Gilson Bernini e Clóvis Pê",JamelãoClóvis Pê,2001
+União da Ilha,"""A União faz a Força, com Muita Energia""","Márcio André, Djalma Falcão, Almir da Ilha e Dito",Wander Pires,2001
+Grande Rio,"""Gentileza, o Profeta Saído do Fogo""","Carlos Santos, Cláudio Russo, Zé Luiz e Ciro",Quinho,2001
+Portela,"""Querer é Poder""","Flavio Bororó, Zeca Sereno, Wagner Alves e Paulo Aparício",Gera,2001
+Caprichosos,"""Goiás, um Sonho de Amor no Coração do Brasil""","Jorge 101, Luiz Pião, Gule e Lequinho",Jackson Martins,2001
+Tradição,"""Hoje é Domingo, é Alegria, Vamos Sorrir e Cantar!""",Lourenço e Adalto Magalha,Celino Dias,2001
+Império Serrano,"""O Rio Corre pro Mar""","Arlindo Cruz, Maurição, Carlos Sena e Elmo Caetano",Carlinhos da Paz,2001
+Paraíso do Tuiuti,"""'Um Mouro no Quilombo' - Isto a História Registra""","Cesar Som Livre, Kleber Rodrigues, David Lima e Claudio Martins",Ciganerey,2001
+Imperatriz,"""Goytacazes... Tupy, or not Tupy, in a South American Way!""","Marquinho Lessa, Guga e Tuninho Professor",Paulinho Mocidade,2002
+Imperatriz,"""Liberdade, Liberdade, Abre as Asas sobre Nós"" (1989)","Niltinho Tristeza, Preto Jóia, Vicentinho e Jurandir",Dominguinhos do Estácio,2002
+Beija-Flor,"""O Brasil dá o Ar da sua Graça de Ícaro a Rubem Berta, o Ímpeto de Voar""","Wilsinho Paz, Elcy, Gil das Flores, Alexandre Moraes, Tamir, Tom-Tom e Igor Leal",Neguinho da Beija-Flor,2002
+Beija-Flor,"""Araxá, Lugar Alto Onde Primeiro Se Avista o Sol"" (1999)","Wilsinho Paz, Noel Costa e Serginho do Porto",Neguinho da Beija-Flor,2002
+Mangueira,"""Brazil com Z é pra Cabra da Peste, Brasil com S é Nação do Nordeste""",Lequinho e Amendoim B-F,Jamelão,2002
+Mangueira,"""Cem Anos de Liberdade, Realidade ou Ilusão"" (1988)","Hélio Turco, Jurandir e Alvinho",Jamelão,2002
+Salgueiro,"""Asas de um Sonho Viajando com o Salgueiro, O Orgulho de ser Brasileiro""","Leonel, Luizinho Professor, Serginho 20, Sidney Sã, Claudinho e Nêgo",Nêgo,2002
+Salgueiro,"""Peguei um Ita no Norte"" (1993)","Demá Chagas, Arizão, Celso Trindade, Bala, Guaracy, Quinho.",Quinho,2002
+Viradouro,"""Viradouro, Viramundo, Rei do Mundo""","Gilberto Gomes, Gustavo, Dadinho, P.C. Portugal e Mocotó",Dominguinhos do Estácio,2002
+Viradouro,"""Orfeu, o Negro do Carnaval"" (1998, ao vivo)","Gilberto Gomes, Gustavo, Dadinho, P.C. Portugal e Mocotó",Dominguinhos do Estácio,2002
+Grande Rio,"""Os Papagaios Amarelos nas Terras Encantadas do Maranhão""",Alailson Cruz e Agenor Neto,Quinho,2002
+Grande Rio,"""No Mundo da Lua"" (1993)","Nêgo, Jacy Inspiração, Mais Velho, G. Martins, Dicró, Juarez Dy Calvoza, Adão Conceição, Carlinhos P2, Rocco Filho e Ronaldo",Nêgo,2002
+Mocidade,"""O Grande Circo Místico""","Beto Corrêa, Dico da Viola, Jefinho e Marquinhos Índio",Wander Pires,2002
+Mocidade,"""Sonhar não custa nada, ou quase nada"" (1992)","Paulinho Mocidade, Dico da Viola e Moleque Silveira",Paulinho Mocidade,2002
+Tradição,"""Os Encantos da Costa do Sol""",Lourenço e Adalto Magalha,Celino Dias,2002
+Tradição,"""Hoje é Domingo, é Alegria, Vamos Sorrir e Cantar!"" (2001)",Lourenço e Adalto Magalha,Celino Dias,2002
+Unidos da Tijuca,"""O Sol Brilha Eternamente sobre o Mundo de Língua Portuguesa""","Haroldo Pereira, Valtinho Júnior e Wantuir",Wantuir,2002
+Unidos da Tijuca,"""Terra dos Papagaios... Navegar foi preciso!!!"" (2000)","Henrique Badá, Jacy Inspiração e Édson de Oliveira",David do Pandeiro,2002
+Portela,"""Amazonas, Esse Desconhecido (Delírios e Verdades do Eldorado Verde)""","David Corrêa, Grillo e Naldo",Gera,2002
+Portela,"""Gosto que me Enrosco"" (1995)","Noca da Portela, Colombo e Gelson",Rixxah (Carlinhos de Pilares),2002
+Império Serrano,"""Aclamação e Coroação do Imperador da Pedra do Reino Ariano Suassuna""","Aluizio Machado, Maurição, Lula, Carlos Sena e Elmo Caetano",Carlinhos da Paz,2002
+Império Serrano,"""E verás que um filho teu não foge à luta"" (1996)","Aluísio Machado, Lula, Beto Pernarda, Arlindo Cruz e Índio do Império",Jorginho do Império,2002
+Caprichosos,"""Deu pra Ti! Tô em Alto Astral! Tô com Porto Alegre Trilegal!""",J. Mazarim e André Fullgáz,Jackson Martins,2002
+Caprichosos,"""Goiás, um Sonho de Amor no Coração do Brasil"" (2001)","Jorge 101, Luiz Pião, Gule e Lequinho",Jackson Martins,2002
+Porto da Pedra,"""Serra Acima Rumo à Terra dos Coroados""","Evaldo Melodia, Ernesto do Cavaco e Beto Grande",Preto Jóia,2002
+Porto da Pedra,"""Um Carnaval dos Carnavais"" (1996)","Billy Boy, Cesar Reis e Elio Sabino",Wantuir,2002
+São Clemente,"""Guapimirim, Paraíso Ecológico Abençoado pelo Dedo de Deus","Rodrigo Índio, Eugênio Leal, Fabinho, Paulo Renato e Anderson Paz",Anderson Paz,2002
+São Clemente,"""E o Samba Sambou"" (1990)","Helinho 107, Mais Velho, Nino e Chocolate",Izaias de Paula,2002
+Mangueira,"""Os Dez Mandamentos - O Samba da Paz Canta a Saga da Liberdade""","Marcelo D'Aguiã, Bizuca, Gilson Bernini e Clóvis Pê",Jamelão,2003
+Beija-Flor,"""O Povo Conta a sua História: ""Saco Vazio não pára em pé - A Mão que faz a Guerra, faz a Paz""""","Betinho, J. C. Coelho, Ribeirinho, Glyvaldo, Luis Otávio, Manoel do Cavaco, Serginho Sumaré e Vinicius",Neguinho da Beija-Flor,2003
+Imperatriz,"""Nem todo Pirata tem a perna de pau, olho de vidro e a cara de mau""","Darcy do Nascimento, Brandãozinho da Imperatriz, Rubens Napoleão e Jorge Rita",David do Pandeiro,2003
+Mocidade,"""Para Sempre no seu Coração - Carnaval da Doação""",Santana e Ricardo Simpatia,Paulinho Mocidade,2003
+Viradouro,"""A Viradouro Canta e Conta Bibi, Uma Homenagem ao Teatro Brasileiro""","Gustavo, Gilberto Gomes, Heraldo Faria e Gelson",Dominguinhos do Estácio,2003
+Salgueiro,"""Salgueiro, Minha Paixão, Minha Raiz - 50 Anos de Glória""","Leonel, Luizinho Professor, Serginho 20, Sidney Sã, Claudinho e Quinho",Quinho,2003
+Grande Rio,"""O Nosso Brasil que Vale""","Mingau, Marco Moreno e Derê",Wander Pires,2003
+Portela,"""Ontem, Hoje, Sempre Cinelândia - O samba entra em cena na Broadway Brasileira""","Caixa D'Água, Alexandre Fernandes, Lilian Martins e Júlio Alves",Gera,2003
+Império Serrano,"""E onde houver Trevas... Que se faça a Luz!""","Arlindo Cruz, Maurição, Carlos Sena, Aluizio Machado e Elmo Caetano",Wantuir,2003
+Unidos da Tijuca,"""Agudás, os que levaram a África no Coração e trouxeram para o Coração da África, o Brasil!""","Haroldo Pereira, Valtinho Junior e Wantuir",Nêgo,2003
+Porto da Pedra,"""Os Donos da Rua, um Jeitinho Brasileiro de Ser""","Dudu, Max Mendonça e Silva",Preto Jóia,2003
+Caprichosos,"""Zumbi, Rei de Palmares e Herói do Brasil. A História que não foi contada""","Carlos Ortiuz, Claudia Nel, Alberto Capital e Mestre Augusto",Jackson Martins,2003
+Tradição,"""O Brasil é Penta; R é 9, O Fenômeno Iluminado""",Lourenço e Adalto Magalha,Celino Dias,2003
+Santa Cruz,"""Do Universo teatral à Ribalta do Carnaval""","Doutor, Eli Penteado, Jorge Charuto, Marquinho Bombeiro e Fernando de Lima",Luizinho Andanças,2003
+Beija-Flor,"""Manôa, Manaus, Amazônia, Terra Santa... Que Alimenta o Corpo, Equilibra a Alma e Transmite a Paz""","Cláudio Russo, Zé Luiz, Marquinhos, Jessi e Leleco",Neguinho da Beija-Flor,2004
+Mangueira,"""Mangueira redescobre a Estrada Real... e deste Eldorado faz seu Carnaval""","Cadu, Gabriel, Almyr e Guilherme",Jamelão,2004
+Grande Rio,"""Vamos Vestir a Camisinha, meu Amor!""","Marco Moreno, Mingau, Derê e Djalma Falcão",Wander Pires,2004
+Imperatriz,"""Breazail""","Jéferson Lima, Veneza, Carlos de Olaria, Me Leva e Guga",David do Pandeiro,2004
+Mocidade,"""Não Corra, Não Mate, Não Morra, pegue Carona com a Mocidade! Educação no Trânsito""",Santana e Ricardo Simpatia,Paulinho Mocidade,2004
+Viradouro,"""Pediu pra Pará, parou!... Com a Viradouro eu vou. Pro Círio de Nazaré"" (Reedição de ""Festa do Círio de Nazaré"" do carnaval de 1975, da Unidos de São Carlos)","Dario Marciano, Nilo Mendes (Esmera) e Aderbal Moreira",Dominguinhos do Estácio,2004
+Salgueiro,"""A Cana que aqui se Planta tudo dá, até Energia... Álcool, o Combustível do Futuro""","Leonel, Luizinho Professor, Serginho 20, Sidney Sã, Professor Newtão e Quinho",Quinho,2004
+Portela,"""Lendas e Mistérios da Amazônia""(Reedição do carnaval de 1970)","Catoni, Jabolô e Waltenir",Gera,2004
+Unidos da Tijuca,"""O Sonho da Criação e a Criação do Sonho: a Arte da Ciência no Tempo do Impossível""","Jurandir, Wanderlei, Sereno e Enilson",Wantuir,2004
+Caprichosos,"""Xuxa e seu Reino Encantado no Carnaval da Imaginação""","Preto Jóia, Nei Negrone, Silvio Araújo e Riquinho Gremião",Jackson Martins,2004
+Porto da Pedra,"""Sou Tigre, sou Porto, da Pedra à Internet - Mensageiro da História da Vida do Leva-e-Traz""","Jorge Remédio, Paulinho Freitas e Luiz Pessanha",Preto Jóia,2004
+Império Serrano,"""Aquarela Brasileira"" Reedição do carnaval de 1964",Silas de Oliveira,Nêgo,2004
+Tradição,"""Contos de Areia""(Reedição do carnaval de 1984, da Portela)",Dedé da Portela e Norival Reis,Alcione,2004
+São Clemente,"""Boi Voador sobre o Recife: o Cordel da Galhofa Nacional""","Jorge Melodia, Noronha, Marcos Zero e César Ouro",Anderson Paz,2004
+Beija-Flor,"""O Vento Corta as Terras dos Pampas. Em Nome do Pai, do Filho e do Espírito Guarani - Sete Povos na Fé e na Dor... Sete Missões de Amor""","J.C. Coelho, Ribeirinho, Adilson China, Serginho Sumaré, Domingos PS, Sidney de Pilares, Zequinha do Cavaco, Jorginho Moreira, Wanderlei Novidade, Walnei Rocha e Paulinho Rocha",Neguinho da Beija-Flor,2005
+Unidos da Tijuca,"""Entrou por um lado, saiu pelo outro... Quem quiser que invente Outro""","Sérgio Alan, Jorge Remédio e Valtinho Jr.",Wantuir,2005
+Mangueira,"""Mangueira Energiza a Avenida. O Carnaval é Pura Energia e a Energia é o Nosso Desafio""","Lequinho, Junior Fionda e Amendoim",Jamelão,2005
+Viradouro,A Viradouro É Só Sorriso,"Gusttavo, Gilberto Gomes, P.C. Portugal, Zé Antônio e Dominguinhos do Estácio",Dominguinhos do Estácio,2005
+Imperatriz,"""Uma Delirante Confusão Fabulística""","Josimar, Evaldo Ruy, Jorge Artur, P.C. e Jorginho",Ronaldo Yllê,2005
+Salgueiro,"""Do Fogo que Ilumina a Vida, Salgueiro é Chama que não se Apaga""","Moisés Santiago, Waltinho Honorato, Fernando Magaça, Luiz Antonio e Quinho",Quinho,2005
+Portela,"""Nós Podemos: Oito Idéias para Mudar o Mundo""","Noca da Portela, Darcy Maravilha, J. Rocha e Noquinha",Bruno Ribas,2005
+Mocidade,"""Buon Mangiare, Mocidade! A Arte está na Mesa""","Inácio Rios, Nilton Mello e Jorginho Valle",Roger Linhares,2005
+Império Serrano,"""Um Grito que Ecoa no Ar (Homem/Natureza - O Perfeito Equilíbrio)""","Marcão, Marcelo Ramos e João Bosco",Nêgo,2005
+Grande Rio,"""Alimentar o Corpo e a Alma faz bem""","Barberinho, Competência, Bitar, Marcelinho Santos, Levi Dutra, Licinho Jr., Deré Mingau, Leleco e Ciro",Wander Pires,2005
+Porto da Pedra,"""Festa Profana""(Reedição do carnaval de 1989, da União da Ilha)","J. Brito, Bujão e Franco",Luizinho Andanças,2005
+Tradição,"""De Sol a Sol, de Sol à Soja - Um Negócio da China!""","Tonho, Lu Gama e Nascimento",Preto Jóia,2005
+Caprichosos,"""Carnaval, Doce Ilusão - A Gente se Encontra aqui, no meio da Multidão! 20 Anos de Liga""","J.L. Fróes, Carlinhos Danoninho, Edmar Silva, Jorge 101, Fernando de Lima, Rafael França e Lee Santana",Serginho do Porto,2005
+Vila Isabel,"""Singrando em Mares Bravios... Construindo o Futuro""","André Diniz, Serginho 20, Sidney Sã, Professor Newtão e Miguel BD",Tinga,2005
+Beija-Flor,"""Poços de Caldas, derrama sobre a Terra suas águas milagrosas - Do caos inicial à explosão da vida - Água, a nave-mãe da existência""","Wilsinho da Paz, Noel Costa, Alexandre Moraes e Silvio Romai",Neguinho da Beija-Flor,2006
+Unidos da Tijuca,"""Ouvindo tudo que Vejo, vou vendo tudo que Ouço""",Jorge Remédio e Julio Alves,Wantuir,2006
+Grande Rio,"""Amazonas, o Eldorado é Aqui""","Márcio das Camisas, Mariano Araújo, Gilbertinho e Professor Elísio",Bruno Ribas,2006
+Imperatriz,"""Um por todos e todos por um""","Niltinho Tristeza, Amauryzão, Maininho do Ponto e Tuninho Professor",Ronaldo Yllê,2006
+Salgueiro,"""Microcosmos: o que os olhos não vêem, o Coração sente""","Moisés Santiago, Waltinho Honorato, Fernando Magaça, Paulo Shell, Tiãozinho do Salgueiro, ABS, Leonel, Luizinho Professor e Quinho",Quinho,2006
+Mangueira,"""Das Águas do Velho Chico, nasce um Rio de Esperança""","Henrique Gomes, Gilson Bernini e Cosminho",Jamelão,2006
+Porto da Pedra,"""Bendita és tu entre as Mulheres do Brasil""","Vadinho, Bento e Fernando Macaco",Luizinho Andanças,2006
+Viradouro,"""Arquitetando Folias""","Dadinho, Evaldo, Waldeir Melodia, Tamiro e Peralta",Dominguinhos do Estácio,2006
+Mocidade,"""A Vida que Pedi a Deus""","Toco, Rafael Paura e Marquinho Marino",Wander Pires,2006
+Vila Isabel,"""Soy Loco por ti América: a Vila Canta a Latinidade""","André Diniz, Serginho 20, Carlinhos do Peixe e Carlinhos Petisco",Tinga,2006
+Caprichosos,"""Na Folia com o Espírito Santo: o Espírito Santo Caprichou""","Josemar Manfredini, Mauro Speranza e Márcio do Swing",Clóvis Pê,2006
+Império Serrano,"""O Império do Divino""","Arlindo Cruz, Maurição, Carlos Sena, Aluízio Machado e Elmo Caetano",Nêgo,2006
+Portela,"""Brasil, Marca a tua Cara e Mostra para o Mundo""","Mauro Diniz, Ary do Cavaco, Junior Escafura, Marquinhos de Oswaldo Cruz e Naldo",Gilsinho,2006
+Rocinha,"""Felicidade não tem Preço""","Marquinhos, Marinho e Wander Timbalada",Anderson Paz,2006
+Vila Isabel,"""Metamorfoses, do Reino Natural à Corte Popular do Carnaval - As Transformações da Vida""","Evandro Bocão, André Diniz, Serginho 20, Carlinhos Petisco e Professor Wladimir",Tinga,2007
+Grande Rio,"""Caxias, o Caminho do Progresso, o Retrato do Brasil""","Márcio das Camisas, Professor Elísio, Mariano Araújo e Robson Moratelli",Wander Pires,2007
+Viradouro,"""A Viradouro Vira o Jogo""","Gusttavo Clarão, Gilberto Gomes, Nando, Pablo Fernandes, P.C. Portugal e Dominguinhos do Estácio",Dominguinhos do Estácio,2007
+Mangueira,"""Minha Pátria é minha Língua, Mangueira meu Grande Amor, meu Samba vai ao Lácio Colher a Última Flor""","Lequinho, Junior Fionda, Aníbal e Amendoim do Samba",Luizito,2007
+Beija-Flor,"""Áfricas, do Berço Real à Corte Brasileira""","Cláudio Russo, J. Velloso, Carlinhos do Detran e Gilson DR",Neguinho da Beija-Flor,2007
+Unidos da Tijuca,"""De Lambida em Lambida, a Tijuca dá um Click na Avenida""","Ivinho do Cavaco, Totonho, Silvão e Jorge Remédio",Wantuir,2007
+Portela,"""Os Deuses do Olimpo na Terra do Carnaval - Uma Festa dos Esportes da Saúda e da Beleza""","Diogo Nogueira, Ciraninho e Celsinho de Andrade",Gilsinho,2007
+Império Serrano,"""Ser Diferente é Normal - O Império Serrano faz a Diferença no Carnaval""","Arlindo Cruz, Maurição, Aluísio Machado, Carlos Sena e João Bosco",Nêgo,2007
+Imperatriz,"""Teresinha, Uhuhuuu!!!! Vocês Querem Bacalhau?""","Merrenga, Xande Sobrinho, Lula Inspiração, Bill Amizade e Aliomar",Preto Jóia,2007
+Mocidade,"""O Futuro no Pretérito, uma História feita à Mão""","Tôco, Rafael Paura e Marquinho Marino",Bruno Ribas,2007
+Salgueiro,"""Candaces""","Dudu Botelho, Marcelo Motta, Zé Paulo e Luiz Pilão",Quinho,2007
+Porto da Pedra,"""Preto e Branco a Cores""","David Souza, Fábio Costa, Francisco, William dos Anjos e Vagner Fonseca",Luizinho Andanças,2007
+Estácio,"""O Tititi do Sapoti""Reedição do carnaval de 1987","Darcy do Nascimento, Djalma Branco e Dominguinhos do Estácio",Anderson Paz,2007
+Beija-Flor,"""Macapaba: Equinócio Solar, Viagens Fantásticas ao Meio do Mundo""","Cláudio Russo, Carlinhos Detran, J. Velloso, Gilson Dr., Kid e Marquinhos",Neguinho da Beija-Flor,2008
+Grande Rio,"""Do Verde de Coari vem meu Gás, Sapucaí!""","Arlindo Cruz, Mingau, Emerson Dias, Maurição, Carlos Sena e Edu da Penha",Wander Pires,2008
+Mangueira,"""100 Anos do Frevo, é de Perder o Sapato, Recife Mandou me Chamar""","Lequinho, Junior Fionda, Francisco do Pagode, Silvão e Aníbal",Luizito,2008
+Unidos da Tijuca,"""Vou Juntando o que eu Quiser, Minha Mania Vale Ouro, Sou Tijuca, Trago a Arte Colecionando o meu Tesouro""","Julio Alves, Sereno, Paulo Rios e Beto Lima",Wantuir,2008
+Viradouro,"""É de Arrepiar!""","Paulo César Portugal, Evaldo, Tamiro e Lima de Andrade",Nêgo,2008
+Vila Isabel,"""Trabalhadores do Brasil""","André Diniz, Carlinhos Petisco, Evandro Bocão, Pingüim, Professor Wladimir, Dedé Aguiar, Eduardo Katata, Dinny, Miro Jr. e Carlinhos do Peixe",Tinga,2008
+Salgueiro,"""O Rio de Janeiro Continua Sendo...""","Dudu Botelho, Marcelo Motta, Josemar Manfredini, João Conga e Luiz Pião",Quinho,2008
+Portela,"""Reconsturindo a Natureza, Recriando a Vida: O Sonho Vira Realidade""","Junior Scafura, Diogo Nogueira, Ciraninho, Ari do Cavaco e Celsinho de Andrade",Gilsinho,2008
+Imperatriz,"""João e Marias""","Josimar, Di Andrade, Valtencir, Carlos Kind e Jorge Arthur",Preto Jóia,2008
+Porto da Pedra,"""100 Anos de Imigração Japonesa - Tem Pagode no Maru""","David Souza, Fábio Costa e Carlos Júnior",Luizinho Andanças,2008
+Mocidade,"""O Quinto Império: De Portugal ao Brasil, uma Utopia na História""","Marquinho Marino, Gustavo Henrique e Igor Leal",Bruno Ribas,2008
+São Clemente,"""O Clemente João VI no Rio: A Redescoberta do Brasil""","Helinho 107, Ricardo Góes, Naldo, Cláudio Filé, Armandinho do Cavaco, Marcelo Santa e Clara",Leonardo Bessa,2008
+Beija-Flor,"""No chuveiro da alegria, quem banha o corpo lava a alma na folia""","Tom Tom, Marcelo Guimarães, Lopita, Jorge Augusto e Veni Vieira",Neguinho da Beija-Flor,2009
+Salgueiro,"""Tambor""","Moisés Santiago, Paulo Shell, Leandro Costa e Tatiana Leite",Quinho,2009
+Grande Rio,"""Voila, Caxias! Pra sempre Liberté, egalité, fraternité, merci beaucoup, Brésil! Não tem de quê!""","Derê, Emerson Dias, Rafael Ribeiro e Mingau",Wantuir,2009
+Portela,"""E Por Falar em Amor... Onde Anda Você?""","Ciraninho, Wanderley Monteiro, Diogo Nogueira, Luiz Carlos Máximo e Júnior Escafura",Gilsinho,2009
+Unidos da Tijuca,"""Tijuca 2009: Uma odisséia sobre o espaço""",Júlio Alves e Totonho,Bruno Ribas,2009
+Imperatriz,"""Imperatriz... Só quer mostrar que faz samba também""","Josimar, Carlos Kind, Jorge Arthur, Di Andrade e Valtencir",Paulinho Mocidade(Fundo de Quintal),2009
+Viradouro,"""Vira-Bahia, Pura energia""","Heraldo Faria, Flavinho Machado, Edu Velocci, Rafael Richard e Floriano do Caranguejo",David do Pandeiro,2009
+Mocidade,"""Mocidade Apresenta: Clube literário, Machado de Assis e Guimarães Rosa... estrelas em poesia!""","Jefinho, Santana, Ricardo Simpatia, Marquinho Índio e Diego Rodrigues",Wander Pires,2009
+Vila Isabel,"""Neste palco da folia, minha Vila anuncia: Theatro Municipal, o centenário maravilha""","André Diniz, Serginho 20, Artur das Ferragens e Leonel",Tinga(Coro da Comunidade),2009
+Mangueira,"""A Mangueira traz os Brasis do Brasil mostrando a formação do povo brasileiro""","Lequinho, Jr. Fionda, Gilson Bernini e Gusttavo Clarão",Luizito(Alcione e Velha Guarda da Mangueira),2009
+Porto da Pedra,"""Não me proíbam criar. Pois preciso curiar! Sou o país do futuro e tenho muito a inventar!""","Fábio Costa, David de Souza e André Felix",Luizinho Andanças,2009
+Império Serrano,"""Lendas das sereias, mistérios do mar""Mesmo samba-enredo de 1976 (Lenda das sereias, rainhas do mar), apenas com o título alterado.","Vicente Mattos, Dinoel Sampaio e Arlindo Velloso",Nêgo,2009
+Salgueiro,"""Histórias sem fim""","Josemar Manfredini, Brasil do Quintal, Jassa, Betinho do Ponto e Fernando Magaça",Quinho,2010
+Beija-Flor,"""Brilhante ao Sol do Novo Mundo, Brasília: do Sonho à Realidade, a Capital da Esperança""","Picolé da Beija Flor, Serginho Sumaré, Samir Trindade, Serginho Aguiar, Dilson Marimba e André do Cavaco",Neguinho da Beija-Flor,2010
+Portela,"""Derrubando fronteiras, conquistando a liberdade, o Rio de paz em estado de graça""","Diogo Nogueira, Rafael dos Santos, Ciraninho, Naldo e Júnior Escafura",Gilsinho,2010
+Vila Isabel,"""Noel: a presença do poeta da Vila""",Martinho da Vila,Tinga(Martinho da Vila),2010
+Grande Rio,"""Das arquibancadas ao camarote número 1, um ""Grande Rio"" de emoção, na Apoteose do seu coração""","Barbeirinho, Mingau, G. Marins, Arlindo Cruz, Emerson Dias, Levi Dutra, Carlos Sena, Chico da Vila, Da Lua, Isaac, Rafael Ribeiro e Juarez Pantoja",Wantuir,2010
+Mangueira,"""Mangueira é a música do Brasil""","Renan Brandão, Machado, Paulinho Bandolim e Rodrigo Carioca","Luizito, Zé Paulo Sierra e Rixxah(Emílio Santiago)",2010
+Imperatriz,"""Brasil de todos os deuses""","Jeferson Lima, Flavinho, Gil Branco, Me Leva e Guga",Dominguinhos do Estácio,2010
+Viradouro,"""México, o Paraíso das Cores, sob o Signo do Sol""","Floriano do Carangueijo, Gustavo da Marbela e Sacadura Cabral",Wander Pires,2010
+Unidos da Tijuca,"""É segredo!""","Júlio Alves, Totonho e Marcelinho Calil",Bruno Ribas,2010
+Porto da Pedra,"""Com que roupa eu vou? Pro samba que você me convidou""","Bira, Porkinho e Heitor Costa",Luizinho Andanças,2010
+Mocidade,"Do paraíso de Deus ao paraíso da loucura, cada um sabe o que procura","J. Giovanni, Zé Glória e Hugo Reis",David do Pandeiro,2010
+União da Ilha,"""Dom Quixote de La Mancha, o cavaleiro dos sonhos impossíveis""","Grassano, Gabriel Fraga, Márcio André Filho, João Bosco, Arlindo Neto, Gugu das Candongas, Marquinho do Banjo, Barbosão, Ito Melodia e Léo da Ilha",Ito Melodia,2010
+Unidos da Tijuca,"""Esta noite levarei sua alma""",Júlio Alves e Totonho,Bruno Ribas,2011
+Grande Rio,"""Y-Jurerê Mirim - A Encantadora Ilha das Bruxas (Um conto de Cascaes)""","Edispuma, Licinho Júnior, Marcelinho Santos e Foca",Wantuir,2011
+Beija-Flor,"""A Simplicidade de um Rei""","Samir Trindade, Serginho Aguiar, JR Beija Flor, Sidney de Pilares, Jorginho Moreira, Théo M. Neto, Klbéber do Sindicato e Marcelo Mourão",Neguinho da Beija-Flor,2011
+Vila Isabel,"""Mitos e Histórias Entrelaçadas pelos Fios de Cabelo""","Andre Diniz, Leonel, Professor Wladimir, Arthur das Ferragens e Pinguim",Tinga,2011
+Salgueiro,"""Salgueiro Apresenta: O Rio no Cinema!""","Dudu Botelho, Miudinho, Anderson Benson e Luiz Pião","Quinho, Serginho do Porto e Leonardo Bessa",2011
+Mangueira,"""O filho fiel, sempre Mangueira""","Alemão do Cavaco, Cesinha Maluco, Xavier, Ailton Nunes, Rifai e Pê Baianinho","Luizito, Zé Paulo Sierra e Ciganerey(Beth Carvalho)",2011
+Mocidade,"""Parábola dos Divinos Semeadores""","J. Giovanni, Zé Glória e Hugo Reis",Nêgo,2011
+Imperatriz,"""A Imperatriz adverte: sambar faz bem à saúde""","Flavinho, Me leva, Gil Branco, Tião Pinheiro e Drummond",Dominguinhos do Estácio,2011
+Portela,"""Rio, azul da cor do mar""","Wanderley Monteiro, Gilsinho, Luiz Carlos Máximo, Júnior Escafura e Naldo",Gilsinho,2011
+Porto da Pedra,"""O sonho sempre vem pra quem sonhar""","Bira, Robinho, Diego Ferreiro e Porkinho",Luizinho Andanças,2011
+União da Ilha,"""O Mistério da Vida""","Gugu das Candongas, Marquinhus do Banjo, João Paulo, Márcio André Filho, Ito Melodia e Arlindo Neto",Ito Melodia,2011
+São Clemente,"""O seu, o meu, o nosso Rio, abençoado por Deus e bonito por natureza""","Helinho 107, Ricardo Góes, Claudio Filé, Naldo, Armandinho do Cavaco, FM, Nelson Amatuzzi, Grey, Fábio Portugal, Serginho Machado, Rodrigo Maia, Flavinho Segal, J.J. Santos e Junior Fionda",Igor Sorriso,2011
+Beija-Flor,"""São Luís, o poema encantado do Maranhão""","J. Velloso, Adilson China, Carlinhos do Detran, Samir Trindade, Serginho Aguiar, Jr Beija-Flor, Silvio Romai, Hugo Leal, Gilberto Oliveira, Ricardo Lucena, Thiago Alves e Romulo Presidente",Neguinho da Beija-Flor,2012
+Unidos da Tijuca,"""O dia em que toda a realeza desembarcou na avenida para coroar o rei Luiz do Sertão""","Cesinha, Jorge Calado, Josemar Manfredini, Silas Augusto e Vadinho",Bruno Ribas,2012
+Mangueira,"""Vou festejar! Sou Cacique, sou Mangueira""","Junior Fionda, Igor Leal, Lequinho e Paulinho Carvalho","Luizito, Zé Paulo Sierra, Ciganerey e Vadinho Freire(Beth Carvalho, Dudu Nobre, Jorge Aragão, Xande de Pilares e Sombrinha)",2012
+Vila Isabel,"""Você semba lá... Que eu sambo cá - O canto livre de Angola""","André Diniz, Arlindo Cruz, Artur das Ferragens, Evandro Bocão e Leonel",Tinga,2012
+Salgueiro,"""Cordel branco e encarnado""","Diego Tavares, Dílson Marimba, Domingos PS, Marcelo Motta, Ribeirinho e Tico do Gato","Quinho, Serginho do Porto e Leonardo Bessa",2012
+Imperatriz,"""Jorge, amado Jorge""","Alexandre D’Mendes, Cristovão Luiz, Jeferson Lima, Ribamar e Tuninho Professor",Dominguinhos do Estácio,2012
+Mocidade,"""Por ti, Portinari rompendo a tela, a realidade!""","Diego Nicolau, Gabriel Teixeira e Gustavo Soares",Luizinho Andanças,2012
+Porto da Pedra,"""Da Seiva Materna ao Equilíbrio da Vida""","Bento, Cici Maravilha, Denil, Fernando Macaco, Oscar Bessa, Tião Califórnia e Vadinho",Wander Pires,2012
+São Clemente,"""Uma Aventura Musical na Sapucaí!""","Flavinho Segal, FM, Grey, Guguinha, Marcos Antunes, Ricardo Góes, Serginho Machado e Vânia",Igor Sorriso,2012
+Grande Rio,"""Eu acredito em você. E você?""","Edispuma, Foca, Licinho Júnior e Marcelinho Santos",Wantuir,2012
+Portela,"""Bahia: E o povo na rua cantando é feito uma reza, um ritual...""","Luiz Carlos Máximo, Naldo, Toninho Nascimento e Wanderley Monteiro",Gilsinho,2012
+União da Ilha,"""De Londres ao Rio: Era uma vez...uma Ilha""","Alberto Varjão, Allan, Aloísio Villar, Cadinho, Carlinhos Fuzil, Eduardo, Fabiano Fernandes, Márcio André Filho, Marquinhos do Banjo e Roger Linhares",Ito Melodia,2012
+Renascer,"""O artista da alegria, dá o tom na folia""","Adriano Cesário, Cláudio Russo, Fábio Costa e Isaac",Rogerinho Renascer,2012
+Unidos da Tijuca,"Desceu num raio, é trovoada! O deus Thor pede passagem pra mostrar nessa viagem a Alemanha encantada","Dudu, Elson Ramires, Julio Alves e Totonho",Bruno Ribas,2013
+Salgueiro,Fama,"Ge Lopes, João Ferreira, Marcelo Motta e Thiago Daniel",QuinhoSerginho do PortoLeonardo Bessa(Xande de Pilares),2013
+Vila Isabel,"A Vila canta o Brasil celeiro do mundo - ""Água no Feijão que chegou mais um...""","André Diniz, Arlindo Cruz, Leonel, Martinho da Vila e Tunico da Vila",Tinga(Arlindo Cruz e Martinho da Vila),2013
+Beija-Flor,Amigo Fiel - Do Cavalo do Amanhecer ao Manga-larga Marchador,"Dilson Marimba, Gilberto Oliveira, J. Velloso, Marquinho Beija-Flor e Ribeirinho",Neguinho da Beija-Flor,2013
+Grande Rio,Amo o Rio e vou à luta: Ouro negro sem disputa… Contra a injustiça em defesa do Rio,"Arlindo Neto, Derê, Júnior Fragga, Mingau e Mingauzinho",Emerson Dias(Nêgo),2013
+Portela,Madureira... onde o meu coração se deixou levar,"André do Posto 7, Luiz Carlos Máximo, Toninho Nascimento e Wanderley Monteiro",Gilsinho,2013
+Mangueira,"Cuiabá, um paraíso no centro da América","Igor Leal, Jr. Fionda, Lequinho e Paulinho Carvalho","Luizito, Zé Paulo Sierra, Ciganerey e Agnaldo Amaral",2013
+União da Ilha,"Vinicius, no plural. Paixão, poesia e carnaval!","Eduardo Conti, Ginho, Jair Turra, Júnior, Professor Hugo e Vinícius do Cavaco",Ito Melodia,2013
+Mocidade,Eu vou de Mocidade com samba e Rock in Rio - Por um mundo melhor!,"Domingos PS, Gustavo Henrique, Jefinho, Jorginho Medeiros, Marquinho Indio e Moleque Silveira",Luizinho Andanças,2013
+Imperatriz,"Pará - O Muiraquitã do Brasil. Sob a nudez forte da verdade, o manto diáfano da fantasia.","Drummond, Me leva, Gil Branco, Maninho do Porto e Tião Pinheiro",Dominguinhos do EstácioWander Pires,2013
+São Clemente,Horário Nobre,"Nelson Amatuzzi, Victor Alves, Floriano do Carangueijo, Sacadura Cabral, Guguinha, Fabio Portugal e Gabrielzinho Poeta",Igor Sorriso,2013
+Inocentes,As Sete Confluências do Rio Han,"Billy, Dominguinhos, Ildo, J.J Santos, Juarez e Mará",Thiago BritoWantuir,2013
+Vila Isabel,Retratos de um Brasil plural,"Arlindo Cruz, Evandro Bocão, André Diniz, Professor Wladimir, Artur das Ferragens e Leonel",Gilsinho,2014
+Beija-Flor,O Astro iluminado da comunicação Brasileira,"Jr. Beija-Flor, Sidney de Pilares, Junior Trindade, Adilson Brandão, Zé Carlos, Diogo Rosa, Carlinhos Careca e Samir Trindade",Neguinho da Beija-Flor,2014
+Unidos da Tijuca,"Acelera, Tijuca","Caio Alves, Fadico, Gustavo Oliveira e Tinguinha",Tinga,2014
+Imperatriz,Arthur X - O Reino do Galinho de Ouro na Corte da Imperatriz,"Elymar Santos, Guga, Tião Pinheiro, Gil Branco e Me Leva",Wander Pires(Elymar Santos),2014
+Salgueiro,Gaia - A vida em nossas mãos,"Xande de Pilares, Dudu Botelho, Miudinho, Betinho de Pilares, Rodrigo Raposo e Jassa",QuinhoSerginho do PortoLeonardo Bessa(Xande de Pilares),2014
+Grande Rio,"Verdes olhos de Maysa sobre o mar, no caminho: Maricá","Deré, Robson Moratelli, Rafael Ribeiro, Hugo da Grande Rio e Toni Vietnã",Emerson Dias,2014
+Portela,"Um Rio, de Mar a Mar. Do Valongo à Glória de São Sebastião","Toninho Nascimento, Luís Carlos Máximo, Waguinho, Edson Alves e J.Amaral",Wantuir,2014
+Mangueira,A Festança Brasileira cai no samba da Mangueira,"Lequinho, Júnior Fionda, Paulinho Carvalho, Flavinho Horta e Igor Leal",Luizito,2014
+União da Ilha,"É Brinquedo, É Brincadeira. A Ilha vai levantar poeira!","Paulinho Poeta, Régis, Gabriel Fraga, Carlinhos Fuzileiro, Canindé e Flávio Pires",Ito Melodia,2014
+São Clemente,Favela,"Ricardo Góes, Serginho Machado, Naldo, Grey, Anderson Benson, FM e Flavinho Segal",Igor Sorriso,2014
+Mocidade,Pernambucópolis,"Dudu Nobre, Jefinho Rodrigues, Marquinho Índio, Jorginho Medeiros, Gabriel Teixeira e Diego Nicolau",Bruno Ribas(Dudu Nobre),2014
+Império da Tijuca,Batuk,"Márcio André, Vaguinho, Marcão Meu Rei, Alexandre Alegria, Rono Maia e Karine Santos",Pixulé,2014
+Unidos da Tijuca,Um conto marcado no tempo - O olhar suíço de Clóvis Bornay,"Josemar Manfredini, Fadico, Carlinhos Careca, Zé Luiz, Gustavinho Oliveira, Caio Alves, Rafael Tinguinha e Cosminho",Tinga,2015
+Salgueiro,"Do fundo do quintal, saberes e sabores na Sapucaí","Xande de Pilares, Jassa, Betinho de Pilares, Miudinho, Luiz Pião e W. Corrêa",Serginho do PortoLeonardo Bessa(Xande de Pilares),2015
+Portela,ImaginaRIO - 450 janeiros de uma cidade surreal,"Noca da Portela, Celso Lopes, Charlles André, Vinicius Ferreira e Xandy Azevedo",Wantuir(Wander Pires),2015
+União da Ilha,Beleza Pura?,"Djalma Falcão, Carlos Caetano, Gugu das Candongas, Beto Mascarenhas, Roger Linhares e Marco Moreno",Ito Melodia,2015
+Imperatriz,"Axé, Nkenda! Um ritual de liberdade ""E que a voz da liberdade seja sempre a nossa voz""","Marquinho Lessa, Adriano Ganso, Zé Catimba, Jorge do Finge e Aldir Senna",Nêgo,2015
+Grande Rio,A Grande Rio é do baralho,"Rafael Santos, Lucas Donato, Gabriel Sorriso, Leandro Canavarro e Rodrigo Moreira",Emerson Dias,2015
+Beija-Flor,Um griô conta a história: Um olhar sobre a África e o despontar da Guiné Equatorial. Caminhemos sobre a trilha de nossa felicidade,"J. Velloso, Samir Trindade, Jr Beija-Flor, Marquinhos Beija-Flor, Gilberto Oliveira, Elson Ramires, Dílson Marimba, Silvio Romai, Ribeirinho e Junior Trindade",Neguinho da Beija-Flor,2015
+Mangueira,"Agora chegou a vez vou cantar: Mulher de Mangueira, Mulher Brasileira em primeiro lugar","Renan Brandão, Cadu, Alemão do Cavaco, Paulinho Bandolim, Deivid Domênico e Almyr",Luizito(Alcione),2015
+Mocidade,"Se o Mundo fosse acabar, me diz o que faria se só lhe restasse um dia?","Ricardo Mendonça, Tio Bira, Anderson Viana e Lúcio Naval",Bruno Ribas,2015
+Vila Isabel,O Maestro Brasileiro está na Terra de Noel... A Partitura Azul e Branca da nossa Vila Isabel,"Carlinhos Petisco, Serginho 20, Machadinho, Paulinho Valença e Henrique Hoffman",Gilsinho,2015
+São Clemente,"A incrível história do homem que só tinha medo da Matinta Pereira, da Tocandira e da Onça Pé de Boi","Leozinho Nunes, Wiverson Machado, Diego Estrela, Ronni Costa, Hugo Bruno e Victor Alves",Igor Sorriso,2015
+Viradouro,"Nas veias do Brasil, é a Viradouro em um dia de graça!","Luiz Carlos da VilaAdaptação das canções ""Nas Veias do Brasil"" e ""Por um dia de graça"" feitas por Gusttavo Clarão",Zé Paulo Sierra,2015
+Beija-Flor,Mineirinho Genial! Nova Lima – Cidade Natal. Marquês de Sapucaí - O Poeta Imortal,"Marcelo Guimarães, Sidney de Pilares, Manolo, Jorginho Moreira, Kirraizinho e Diogo Rosa",Neguinho da Beija-Flor,2016
+Salgueiro,A Ópera dos Malandros,"Marcelo Motta, Fred Camacho, Guinga do Salgueiro, Getúlio Coelho, Ricardo Fernandes e Francisco Aquino",Serginho do PortoLeonardo Bessa(Xande de Pilares),2016
+Grande Rio,"Fui no Itororó beber água, não achei. Mas achei a bela Santos, e por ela me apaixonei...","Márcio das Camisas, Mariano Araújo, Competência, Kaká e Dinho Artigliri",Emerson Dias,2016
+Unidos da Tijuca,"Semeando sorriso, a Tijuca festeja o solo sagrado","Dudu Nobre, Zé Paulo Sierra, Claudio Mattos, Paulo Oliveira e Gusttavo Clarão",Tinga,2016
+Portela,"No voo da águia, uma viagem sem fim...","Samir Trindade, Wanderley Monteiro, Elson Ramires, Paulo Lopita 77, Dimenor e Edmar Jr.",WantuirGilsinho,2016
+Imperatriz,É o amor... Que mexe com a minha cabeça e me deixa assim... Do sonho de um caipira nascem os filhos do Brasil,"Zé Katimba, Adriano Ganso, Jorge do Finge, Moisés Santiago e Aldir Senna",Marquinho Art'Samba(Lucy Alves e Zezé Di Camargo & Luciano),2016
+Mocidade,"O Brasil de La Mancha: Sou Miguel, Sou Cervantes, Sou Quixote Cavaleiro, Pixote Brasileiro","Jefinho Rodrigues, Marquinho Índio, Jorginho Medeiros, Jonas Marques, Domingos PS, Paulo Ferraz, Lauro Silva, Lero Pires e Wander Pires",Bruno Ribas,2016
+São Clemente,Mais de Mil Palhaços no Salão,"Rodrigo Índio, Alexandre Araujo, Fabio Rossi, Vinicius Nagem, Amado Osman, Armando Daltro, Rodrigo Telles e Davi Dias",Leozinho Nunes,2016
+União da Ilha,Olímpico por Natureza: Todo Mundo se Encontra no Rio,"Capitão Barreto, Miguel, Marquinhus do Banjo, Roger Linhares, Paulo Guimarães, Dr. Robson, Jamiro Faria e Gugu das Cadongas",Ito Melodia,2016
+Mangueira,Maria Bethânia: A Menina dos Olhos de Oyá,"Alemão do Cavaco, Almyr, Cadu, Lacyr D Mangueira, Paulinho Bandolim e Renan Brandão",Ciganerey(Maria Bethânia),2016
+Vila Isabel,"Memórias do ""Pai Arraia"" - Um sonho pernambucano, Um legado brasileiro","Martinho da Vila, André Diniz, Mart'nália, Arlindo Cruz e Leonel","Igor Sorriso(Martinho da Vila, Mart'nália e Arlindo Cruz)",2016
+Estácio de Sá,Salve Jorge! O Guerreiro na Fé,"Julio Alves, Edson Marinho, Adilson Alves, Jorge Xavier, Andre Felix, Jorge Babu e Salviano",Leandro SantosDominguinhos do EstácioWander Pires,2016
+Mangueira,Só com a ajuda do Santo,"Lequinho, Júnior Fionda, Flavinho Horta, Gabriel Martins, Gabriel Machado e Igor Leal",Ciganerey(Milton Gonçalves),2017
+Unidos da Tijuca,"Música na alma, inspiração de uma nação","Totonho, Fadico, Josemar Manfredini, Dudu e Sergio Alan",Tinga,2017
+Portela,Quem Nunca Sentiu o Corpo Arrepiar ao Ver Esse Rio Passar?,"Samir Trindade, Elson Ramires, Neizinho do Cavaco, Paulo Lopita 77, Beto Rocha, Girão e J.Sales",Gilsinho,2017
+Salgueiro,A Divina Comédia do Carnaval,"Marcelo Motta, Fred Camacho, Guinga do Salgueiro, Getúlio Coelho, Ricardo Neves e Francisco Aquino",Serginho do PortoLeonardo Bessa(Xande de Pilares),2017
+Beija-Flor,"Iracema, A Virgem dos Lábios de Mel","Claudemir, Maurição, Ronaldo Barcellos, Bruno Ribas, Fábio Alemão, Wilson Tatá, Alan Vinicius e Betinho Santos",Neguinho da Beija-Flor,2017
+Imperatriz,"Xingu, O Clamor Que Vem da Floresta","Moisés Santiago, Adriano Ganso, Jorge do Finge e Aldir Senna",Arthur Franco,2017
+Grande Rio,Ivete do Rio ao Rio!,"Paulo Onça, Kaká, Dinho Artiligri, Rubens Gordinho, Alan Vasconcelos e Marco Moreno",Emerson Dias(Ivete Sangalo),2017
+Vila Isabel,O Som da Cor,"Arthur das Ferragens, Gustavinho Oliveira, Danilo Garcia, Braguinha, Rafael Zimmermann e Júlio Alves",Igor Sorriso,2017
+São Clemente,Onisuáquimalipanse,"Toninho Nascimento, Luiz Carlos Máximo, Anderson Paz, Gustavo Albuquerque, Camilo Jorge e Marcelão da Ilha",Leozinho Nunes,2017
+Mocidade,"As Mil e Uma Noites de uma ""Mocidade"" pra lá de Marrakech","Altay Veloso, Paulo César Feital, Zé Glória, J. Giovanni, Dadinho, Zé Paulo Sierra, Gustavo Soares, Fábio Borges, André Baiacu e Thiago Meiners",Wander Pires,2017
+União da Ilha,Nzara Ndembu - Glória ao senhor tempo,"Marinho, Lobo Junior, Felipe Mussili, Beto Mascarenhas, Dr. Robson, Rony Sena, Marcelão da Ilha, MM e Gusttavo Clarão",Ito Melodia,2017
+Paraíso do Tuiuti,Carnavaleidoscópio Tropifágico,"Carlinhos Chirrinha, Rafael Bernini, Luis Caxias, Wellington Onirê, Fernandão e Alexandre Cabeça",Wantuir,2017
+Mocidade,Namastê: A estrela que habita em mim saúda a que existe em você,"Altay Veloso, Paulo César Feital, Zé Glória, J. Giovanni, Denilson do Rozário, Carlinhos da Chácara, Léo Peres e Alex Saraiça",Wander Pires,2018
+Portela,De repente de lá pra cá e dirrepente daqui pra lá,"Samir Trindade, Elson Ramires, Neizinho do Cavaco, Paulo Lopita 77, Beto Rocha, Girão e J.Sales",Gilsinho,2018
+Salgueiro,Senhoras do Ventre do Mundo,"Xande de Pilares, Demá Chagas, Dudu Botelho, Renato Galante, Jassa, Leonardo Gallo, Betinho de Pilares, Vanderley Sena, Ralfe Ribeiro e W Corrêa",Leonardo BessaHudson LuizTuninho Junior(Xande de Pilares e Zezé Motta),2018
+Mangueira,"Com Dinheiro ou Sem Dinheiro, Eu Brinco!","Lequinho, Junior Fionda, Alemão do Cavaco, Gabriel Machado, Wagner Santos, Gabriel Martins e Igor Leal",Ciganerey(Péricles),2018
+Grande Rio,Vai Para o Trono ou Não Vai?,"Edispuma, Licinho Jr, JL Escafura, Marcelinho Santos, Gylnei Bueno e Hélio Oliveira",Emerson Dias(Stepan Nercessian),2018
+Beija-Flor,Monstro é aquele que não sabe amar: Os filhos abandonados da pátria que os pariu,"Di Menor BF, Kirazinho, Diogo Rosa, Julio Assis, Bakaninha, Diego Oliveira, JJ Santos, Manolo e Rafael Prates",Neguinho da Beija-Flor,2018
+Imperatriz,Uma Noite Real no Museu Nacional,"Jorge Arthur, Maninho do Ponto, Julio Alves, Marcio Pessi e Piu das Casinhas",Arthur Franco,2018
+União da Ilha,Brasil Bom de Boca,"Ginho, Marcelão da Ilha, Flavinho Queiroga, Júnior, Thiago Caldas, John Bahiense, André de Souza e Prof. Hugo",Ito Melodia,2018
+São Clemente,Academicamente Popular,"Gustavo Clarão, Ricardo Góes, Flavinho Segal, Serginho Machado, Naldo, Fabiano Paiva, Igor Marinho e Orlando Ambrósio",Leozinho Nunes,2018
+Vila Isabel,Corra Que o Futuro Vem Aí,"Evandro Bocão, André Diniz, Pinguim, JP, Marcelo Valência, Julio Alves e Deco Augusto",Igor Sorriso,2018
+Unidos da Tijuca,"Um Coração Urbano: Miguel, o arcanjo das artes, saúda o povo e pede passagem","Totonho, Mart'nália, Dudu, Marcelinho Moreira e Fadico",Tinga,2018
+Paraíso do Tuiuti,"Meu Deus, Meu Deus, Está Extinta a Escravidão?","Cláudio Russo, Moacyr Luz, Jurandir, Zezé e Aníbal",Nino do MilênioCelsinho Mody(Grazzi Brasil),2018
+Império Serrano,O Império do Samba na Rota da China,"Tico do Gato, Chupeta, Henrique Hoffman, Lucas Donato, Arlindinho, Andinho Samara, Victor Rangel, Jefferson Oliveira, Ronaldo Nunes e André do Posto 7",Marquinho Art'Samba,2018
+Beija-Flor,"Quem não viu, vai ver... As Fábulas do Beija-Flor","Di Menor BF, Júlio Assis, Kiraizinho, Diego Oliveira, Fabinho Ferreira, Diogo Rosa, Dr. Rogério, Carlinho Ousadia, Márcio França, Kaká Kalmão, Jorge Aila e Serginho Aguiar",Neguinho da Beija-Flor,2019
+Paraíso do Tuiuti,O Salvador da Pátria,"Cláudio Russo, Moacyr Luz, Zezé, Jurandir e Aníbal",Celsinho ModyGrazzi Brasil,2019
+Salgueiro,Xangô,"Demá Chagas, Marcelo Motta, Renato Galante, Fred Camacho, Leonnardo Gallo, Getúlio Coelho, Vanderlei Sena, Francisco Aquino, Guinga do Salgueiro e Ricardo Fernandes",Emerson Dias,2019
+Portela,"Na Madureira Moderníssima, hei sempre de ouvir cantar uma Sabiá","Jorge do Batuke, Valtinho Botafogo, Rogério Lobo, Beto Aquino, Claudinho Oliveira, José Carlos, Zé Miranda, D'Souza e Araguaci",Gilsinho,2019
+Mangueira,História para ninar gente grande,"Deivid Domênico, Tomaz Miranda, Mama, Marcio Bola, Ronie Oliveira e Danilo Firmino",Marquinho Art'Samba,2019
+Mocidade,Eu sou o Tempo. Tempo é vida,"Jefinho Rodrigues, Diego Nicolau, Marquinho Índio, Jonas Marques, Richard Valença, Roni Pit Stop, Orlando Ambrosio e Cabeça do Ajax",Wander Pires(Elza Soares),2019
+Unidos da Tijuca,"Cada macaco no seu galho. Ó, meu pai, me dê o pão que eu não morro de fome!","Márcio André, Júlio Alves, Daniel Katar, Diego Moura, Dr. Jairo, Nego, Elias Lopes e Junior Trindade",Wantuir(Pedro Paulo Japhet Gonçalves),2019
+Imperatriz,Me dá um dinheiro aí!,"Elymar Santos, Maninho do Ponto, Júlio Alves, Dudu Miler, Marcio Pessi e Jorge Arthur",Arthur Franco,2019
+Vila Isabel,"Em nome do pai, do filho e dos santos, a Vila canta a cidade de Pedro","Evandro Bocão, André Diniz, Professor Wladimir, Marcelo Valência, Júlio Alves, Deco Augusto e Ivan Ribeiro",Tinga(Camila Morgado),2019
+União da Ilha,A peleja poética entre Rachel e Alencar no avarandado do céu,"Myngal, Marcelão da Ilha, Roger Linhares, Marinho, Cap. Barreto, Eli Doutor, Fernando Nicola e Marco Moreno",Ito Melodia,2019
+São Clemente,E o Samba SambouReedição do carnaval de 1990,"Helinho 107, Mais Velho, Nino e Chocolate",Leozinho NunesBruno RibasLarissa Luz,2019
+Grande Rio,Quem Nunca...? Que atire a primeira pedra,"Moacyr Luz, Cláudio Russo, André Diniz, G. Martins, Licinho Júnior e Elias Bililico",Evandro Malandro,2019
+Império Serrano,"O que é, o que é?","Gonzaguinha(A escola utiliza a canção ""O que é, o que é?"" como seu samba-enredo)",Silas LeleuAnderson Paz,2019
+Viradouro,Viraviradouro!,"Renan Gêmeo, Bebeto Maneiro, Thiago Carvalhal, Ludson Areia, Júnior Filhão, Raphael Richaid, Ricardo Neves, Carlinhos Viradouro e Rodrigo Gêmeo",Zé Paulo Sierra,2019
+Mangueira,A Verdade Vos Fará Livre,Manu da Cuíca e Luiz Carlos Máximo,Marquinho Art'Samba,2020
+Viradouro,Viradouro de Alma Lavada,"Cláudio Russo, Paulo César Feital, Diego Nicolau, Júlio Alves, Dadinho, Rildo Seixas, Manolo, Anderson Lemos e Carlinhos Fionda",Zé Paulo Sierra,2020
+Vila Isabel,Gigante pela própria natureza: Jaçanã e um Índio chamado Brasil,"Cláudio Russo, Chico Alves e Julio Alves",Tinga,2020
+Portela,"Guajupiá, terra sem males","Valtinho Botafogo, Rogério Lobo, José Carlos, Zé Miranda, Beto Aquino, Pecê Ribeiro, D’Sousa e Araguaci",Gilsinho,2020
+Salgueiro,O Rei Negro do Picadeiro,"Marcelo Motta, Fred Camacho, Guinga do Salguueiro, Getúlio Coelho, Ricardo Neves e Francisco Aquino",Emerson DiasQuinho,2020
+Mocidade,Elza Deusa Soares,"Sandra de Sá, Igor Vianna, Dr. Márcio, Solano Santos, Renan Diniz, Jefferson Oliveira, Professor Laranjo e Telmo Augusto",Wander Pires,2020
+Unidos da Tijuca,Onde Moram os Sonhos,"Dudu Nobre, Totonho, André Diniz, Fadico e Jorge Aragão",Wantuir,2020
+Paraíso do Tuiuti,O Santo e o Rei – Encantarias de Sebastião,"Moacyr Luz, Cláudio Russo, Aníbal, Píer, Júlio Alves e Alessandro Falcão",Celsinho ModyNino do Milênio,2020
+Grande Rio,Tata Londirá: O canto do caboclo no Quilombo de Caxias,"Deré, Robson Moratelli, Rafael Ribeiro e Toni Vietnã",Evandro Malandro,2020
+União da Ilha,"Nas encruzilhadas da vida, entre becos, ruas e vielas, a sorte está lançada: Salve-se quem puder!","Marcio André, Márcio André Filho, Daniel Katar, Júlio Alves, Marinho e Rafael Prates",Ito Melodia,2020
+Beija-Flor,Se essa rua fosse minha,"Magal Clareou, Diogo Rosa, Julio Assis, Jean Costa, Dario Jr, Thiago Soares e Junior Fionda",Neguinho da Beija-Flor,2020
+São Clemente,O Conto do Vigário,"Marcelo Adnet, André Carvalho, Pedro Machado, Gustavo Albuquerque, Gabriel Machado, Camilo Jorge, Luiz Carlos França e Raphael Candela",Leozinho NunesBruno RibasGrazzi Brasil,2020
+Estácio de Sa,Pedra,"Edson Marinho, Jorge Xavier, Júlio Alves, Jailton Russo, Ivan Ribeiro, Dudu Miller, Alexandre Moraes e Hugo Bruno",Serginho do Porto,2020
+Viradouro,Não há tristeza que possa suportar tanta alegria,"Felipe Filósofo, Fabio Borges, Ademir Ribeiro, Devid Gonçalves, Lucas Marques e Porkinho",Zé Paulo Sierra,2022
+Grande Rio,"Fala, Majeté! Sete Chaves de Exu","Gustavo Clarão, Arlindinho Cruz, Júnior Fragga, Claudio Mattos, Thiago Meiners e Igor Leal",Evandro Malandro,2022
+Mocidade,Batuque ao Caçador,"Carlinhos Brown, Richard Valença, Orlando Ambrosio, Gigi da Estiva, Nattan Lopes, JJ Santos, Cabeça do Ajax e Diego Nicolau",Wander Pires,2022
+Beija-Flor,Empretecer o Pensamento é Ouvir a Voz da Beija-Flor,"J. Velloso, Júnior Fionda, Léo do Piso, Beto Nega, Júlio Assis, Manolo e Diego Rosa",Neguinho da Beija-Flor,2022
+Salgueiro,Resistência,"Demá Chagas, Pedrinho da Flor, Leonardo Gallo, Zeca do Cavaco, Cláudio Gladiador e Renato Galante",Emerson DiasQuinho,2022
+Mangueira,"Angenor, José e Laurindo","Moacyr Luz, Pedro Terra, Bruno Souza e Leandro Almeida",Marquinho Art'Samba,2022
+Portela,Igi Osè Baobá,"Edmar Jr., André do Posto 7, Rafael Gigante, Paulo Borges, Vinicius Ferreira, Wanderley Monteiro e Bira",Gilsinho,2022
+Vila Isabel,"Canta, Canta, Minha Gente! A Vila é de Martinho!","Evandro Bocão, André Diniz, Professor Wladimir, Dudu Nobre, Leno Dias, Mauro Speranza, Marcelo Valência e Wanderson Pinguim",Tinga,2022
+Unidos da Tijuca,Waranã – A Reexistência Vermelha,"Anderson Benson, Eduardo Medrado e Kleber Rodrigues",WantuirWic Tavares,2022
+São Clemente,Minha Vida é Uma Peça,"Cláudio Filé, James Bernardes, Arlindinho Neto, Braguinha, Colaço, Marcus Lopes, Caio Tinguinha, Danilo Gustavinho, Kaike Vinícius e Igor Leal",Leozinho NunesManinho,2022
+Paraíso do Tuiuti,Ka Ríba Tí Ye - Que Nossos Caminhos Se Abram,"Cláudio Russo, Moacyr Luz, Júlio Alves, Alessandro Falcão, W. Correa, Chico Alves e Pier",Celsinho ModyCarlos Junior(Grazzi Brasil),2022
+Imperatriz,"Meninos, Eu Vivi... Onde canta o Sabiá, onde cantam Dalva e Lamartine",Gabriel Melo,Arthur FrancoBruno Ribas,2022
+Grande Rio,"Ô Zeca, o pagode onde é que é? Andei descalço, carroça e trem, procurando por Xerém, pra te ver, pra te abraçar, pra beber e batucar",,Evandro Malandro,2023
+Beija-Flor,Brava Gente! O Grito dos Excluídos no Bicentenário da Independência,,Neguinho da Beija-Flor,2023
+Viradouro,Rosa Maria Egipcíaca,,Zé Paulo Sierra,2023
+Vila Isabel,,,Tinga,2023
+Portela,O Azul que vem do Infinito,,Gilsinho,2023
+Salgueiro,Delírios de um Paraíso Vermelho,,Emerson DiasQuinho,2023
+Mangueira,As Áfricas que a Bahia canta,,Marquinho Art'SambaDowglas Diniz,2023
+Mocidade,,,Nino do Milênio,2023
+Unidos da Tijuca,,,WantuirWic Tavares,2023
+Imperatriz,O aperreio do cabra que o excomungado tratou com má-querença e o santíssimo não deu guarida,,Pitty de Menezes,2023
+Paraíso do Tuiuti,Mogangueiro da Cara Preta,,Wander Pires,2023
+Império Serrano,Lugares de Arlindo,,Ito Melodia,2023
