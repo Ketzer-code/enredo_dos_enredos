@@ -31,7 +31,7 @@ discography_tables = (
 # selecting only columns that we will use
 discography_tables = [
     table.filter(items = [
-        "Escola", "Enredo", "Autor", "Intérprete", "Intérprete(Participação Especial)"
+        "Escola", "Enredo", "Autor", "Intérprete", "Intérprete(Participação Especial)", "Intérprete (Participação Especial)"
         ]) for table in discography_tables
 ]
 
